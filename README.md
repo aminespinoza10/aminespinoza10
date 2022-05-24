@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [DevOps: La diferencia entre un programador y un desarrollador de software.](https://www.youtube.com/watch?v=bziX6Nt4aaU)
-- [5 tips para ser mejor Desarrollador de Software](https://www.youtube.com/watch?v=oZWDaoaHLxA)
-- [¿Por qué y para qué usar Github CLI?](https://www.youtube.com/watch?v=EDOoUSbXin8)
-- [¿Qué **** hace un desarrollador de software?](https://www.youtube.com/watch?v=H6e19XoihBo)
-- [Aprendiendo a usar Ngrok a profundidad](https://www.youtube.com/watch?v=YA_xMQOIZo0)
+- [Publicando mi contenedor en Docker Hub](https://www.youtube.com/watch?v=JIqU3sjziXo)
+- [Introducción a contenedores de Docker](https://www.youtube.com/watch?v=P82FF4-Ee2k)
+- [¿Qué significa ser un hacker?](https://www.youtube.com/watch?v=Q0pU3WaTgP0)
+- [Cómo resolver conflictos de versiones con VS Code](https://www.youtube.com/watch?v=g7bbxEt09PI)
+- [¿Cómo saber en qué especializarte como desarrollador de software?](https://www.youtube.com/watch?v=ur6FHoqc-eo)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
