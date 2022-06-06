@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Mi experiencia como Ingeniero de Software en Microsoft](https://www.youtube.com/watch?v=5uDB5HL1tfY)
 - [Publicando mi contenedor en Docker Hub](https://www.youtube.com/watch?v=JIqU3sjziXo)
 - [Introducción a contenedores de Docker](https://www.youtube.com/watch?v=P82FF4-Ee2k)
 - [¿Qué significa ser un hacker?](https://www.youtube.com/watch?v=Q0pU3WaTgP0)
 - [Cómo resolver conflictos de versiones con VS Code](https://www.youtube.com/watch?v=g7bbxEt09PI)
-- [¿Cómo saber en qué especializarte como desarrollador de software?](https://www.youtube.com/watch?v=ur6FHoqc-eo)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
