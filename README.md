@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Para ser desarrollador de software. ¿Realmente necesito una carrera?](https://www.youtube.com/watch?v=J6N6fptMjaw)
 - [5 formas rápidas para que tu proyecto de software falle](https://www.youtube.com/watch?v=d6uXOTcFvHI)
 - [Mi experiencia como Ingeniero de Software en Microsoft](https://www.youtube.com/watch?v=5uDB5HL1tfY)
 - [Publicando mi contenedor en Docker Hub](https://www.youtube.com/watch?v=JIqU3sjziXo)
 - [Introducción a contenedores de Docker](https://www.youtube.com/watch?v=P82FF4-Ee2k)
-- [¿Qué significa ser un hacker?](https://www.youtube.com/watch?v=Q0pU3WaTgP0)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
