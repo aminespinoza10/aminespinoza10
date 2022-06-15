@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [5 cosas que debes saber de Bash &lpar;y lo mucho que te pueden beneficiar&rpar;](https://www.youtube.com/watch?v=iHXqf9zCDAk)
 - [Para ser desarrollador de software. ¿Realmente necesito una carrera?](https://www.youtube.com/watch?v=J6N6fptMjaw)
 - [5 formas rápidas para que tu proyecto de software falle](https://www.youtube.com/watch?v=d6uXOTcFvHI)
 - [Mi experiencia como Ingeniero de Software en Microsoft](https://www.youtube.com/watch?v=5uDB5HL1tfY)
 - [Publicando mi contenedor en Docker Hub](https://www.youtube.com/watch?v=JIqU3sjziXo)
-- [Introducción a contenedores de Docker](https://www.youtube.com/watch?v=P82FF4-Ee2k)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
