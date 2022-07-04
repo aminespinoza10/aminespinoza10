@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Este video es solo para los desarrolladores más NERD](https://www.youtube.com/watch?v=iv26E_I9P1U)
 - [Niños y tecnología ¿Buena idea o no?](https://www.youtube.com/watch?v=YVL2_WUXemU)
 - [¿Qué debes saber de los resultados de la encuesta de Stackoverflow?](https://www.youtube.com/watch?v=7DFhiigjOII)
 - [¿Que son los microservicios? ¿Y por qué tanto hype?](https://www.youtube.com/watch?v=f7k6WuwIh8k)
 - [¿Cómo llegar a trabajar en Microsoft? &lpar;o en una compañía global&rpar;](https://www.youtube.com/watch?v=pwxMn1e_3yA)
-- [5 cosas que debes saber de Bash &lpar;y lo mucho que te pueden beneficiar&rpar;](https://www.youtube.com/watch?v=iHXqf9zCDAk)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
