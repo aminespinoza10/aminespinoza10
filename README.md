@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Quieres ser un hacker? ¡Entonces estas herramientas te interesarán!](https://www.youtube.com/watch?v=_iMmLJ5btv8)
 - [¿Cómo puedes comenzar a programar?&lpar;Y no en 10 minutos&rpar;](https://www.youtube.com/watch?v=JKEF-oTiPlc)
 - [¿Es redituable ser desarrollador de software?](https://www.youtube.com/watch?v=nrhcXgaapx8)
 - [Este video es solo para los desarrolladores más NERD](https://www.youtube.com/watch?v=iv26E_I9P1U)
 - [Niños y tecnología ¿Buena idea o no?](https://www.youtube.com/watch?v=YVL2_WUXemU)
-- [¿Qué debes saber de los resultados de la encuesta de Stackoverflow?](https://www.youtube.com/watch?v=7DFhiigjOII)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
