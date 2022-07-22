@@ -28,10 +28,10 @@
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
 - [¿Conoces todas las etapas de DevOps?](https://www.youtube.com/watch?v=LgmkhEmwJGo)
-- [¿Quieres ser un hacker? ¡Entonces estas herramientas te interesarán!](https://www.youtube.com/watch?v=_iMmLJ5btv8)
-- [¿Cómo puedes comenzar a programar?&lpar;Y no en 10 minutos&rpar;](https://www.youtube.com/watch?v=JKEF-oTiPlc)
+- [¿Quieres ser un hacker? ¡Estas herramientas te interesarán!](https://www.youtube.com/watch?v=_iMmLJ5btv8)
+- [¿Cómo puedes comenzar a programar?](https://www.youtube.com/watch?v=JKEF-oTiPlc)
 - [¿Es redituable ser desarrollador de software?](https://www.youtube.com/watch?v=nrhcXgaapx8)
-- [Este video es solo para los desarrolladores más NERD](https://www.youtube.com/watch?v=iv26E_I9P1U)
+- [Como mejorar tus habilidades como desarrollador de software](https://www.youtube.com/watch?v=iv26E_I9P1U)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
