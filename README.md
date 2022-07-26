@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué es la Deuda Técnica y como puedes manejarla en tus proyectos?](https://www.youtube.com/watch?v=mJqW4j4vIAw)
 - [¿Conoces todas las etapas de DevOps?](https://www.youtube.com/watch?v=LgmkhEmwJGo)
 - [¿Quieres ser un hacker? ¡Estas herramientas te interesarán!](https://www.youtube.com/watch?v=_iMmLJ5btv8)
 - [¿Cómo puedes comenzar a programar?](https://www.youtube.com/watch?v=JKEF-oTiPlc)
 - [¿Es redituable ser desarrollador de software?](https://www.youtube.com/watch?v=nrhcXgaapx8)
-- [Como mejorar tus habilidades como desarrollador de software](https://www.youtube.com/watch?v=iv26E_I9P1U)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
