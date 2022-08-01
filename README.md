@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende a usar los DevContainers en VS Code](https://www.youtube.com/watch?v=pPo-f378Syo)
 - [Mitos y realidades de Microsoft](https://www.youtube.com/watch?v=PnSbs9ekeO8)
 - [¿Te pasa a ti también?](https://www.youtube.com/watch?v=afb0sUtxhRM)
 - [¿Qué es la Deuda Técnica y como puedes manejarla en tus proyectos?](https://www.youtube.com/watch?v=mJqW4j4vIAw)
 - [¿Conoces todas las etapas de DevOps?](https://www.youtube.com/watch?v=LgmkhEmwJGo)
-- [¿Quieres ser un hacker? ¡Estas herramientas te interesarán!](https://www.youtube.com/watch?v=_iMmLJ5btv8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
