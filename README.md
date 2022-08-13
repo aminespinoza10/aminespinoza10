@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [5 cualidades que todo profesional de software debe tener &lpar;y nadie te va a enseñar&rpar;](https://www.youtube.com/watch?v=3SlIFqUHltA)
 - [Programación simple contra programación presumida](https://www.youtube.com/watch?v=xi-q29-x2nA)
 - [DevOps y Agile: ¿Son lo mismo? ¿Cómo conviven?](https://www.youtube.com/watch?v=toBUO22RjY8)
 - [Aprende a usar los DevContainers en VS Code](https://www.youtube.com/watch?v=pPo-f378Syo)
 - [Mitos y realidades de Microsoft](https://www.youtube.com/watch?v=PnSbs9ekeO8)
-- [¿Te pasa a ti también?](https://www.youtube.com/watch?v=afb0sUtxhRM)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
