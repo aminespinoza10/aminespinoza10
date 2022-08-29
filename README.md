@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [La triste verdad de aprender a programar](https://www.youtube.com/watch?v=S9JxadVcrdE)
 - [Los reclutadores usan este secreto en las entrevistas de trabajo](https://www.youtube.com/watch?v=GupAh3RFTIs)
 - [CI/CD de tu sitio web con Azure Pipelines ¡En menos de una cerveza!](https://www.youtube.com/watch?v=VtbXQVULLlk)
 - [5 cualidades que todo profesional de software debe tener &lpar;y nadie te va a enseñar&rpar;](https://www.youtube.com/watch?v=3SlIFqUHltA)
 - [Programación simple contra programación presumida](https://www.youtube.com/watch?v=xi-q29-x2nA)
-- [DevOps y Agile: ¿Son lo mismo? ¿Cómo conviven?](https://www.youtube.com/watch?v=toBUO22RjY8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
