@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo mueve el software al mundo?](https://www.youtube.com/watch?v=Fui4rMtOhnE)
 - [Aprendiendo a usar Nginx a profundidad](https://www.youtube.com/watch?v=TPExGCeTdbo)
 - [Tu primer aplicación ¡En 5 lenguajes de programación diferentes!](https://www.youtube.com/watch?v=xCnyv7n5JS0)
 - [La triste verdad de aprender a programar](https://www.youtube.com/watch?v=S9JxadVcrdE)
 - [Los reclutadores usan este secreto en las entrevistas de trabajo](https://www.youtube.com/watch?v=GupAh3RFTIs)
-- [CI/CD de tu sitio web con Azure Pipelines ¡En menos de una cerveza!](https://www.youtube.com/watch?v=VtbXQVULLlk)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
