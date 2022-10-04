@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo el mundo maker te puede hacer un mejor programador?](https://www.youtube.com/watch?v=dEfL2fyucdg)
 - [¡CI/CD de tu sitio web con Github Actions!](https://www.youtube.com/watch?v=cpVW86rzSEc)
 - [¡Escribir documentación puede beneficiarte muchísimo!](https://www.youtube.com/watch?v=D2oY2Tf2KXs)
 - [¿Cómo mueve el software al mundo?](https://www.youtube.com/watch?v=Fui4rMtOhnE)
 - [Aprendiendo a usar Nginx a profundidad](https://www.youtube.com/watch?v=TPExGCeTdbo)
-- [Tu primer aplicación ¡En 5 lenguajes de programación diferentes!](https://www.youtube.com/watch?v=xCnyv7n5JS0)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
