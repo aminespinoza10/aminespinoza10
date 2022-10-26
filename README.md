@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué son los sistemas distribuidos?](https://www.youtube.com/watch?v=AGLpQWh_psQ)
 - [Lo que callamos los devs](https://www.youtube.com/watch?v=1lWqUMUslD0)
 - [Desarrolladores famosos: ¿Quién es el creador de Linux y Git?](https://www.youtube.com/watch?v=0iuthULkhLs)
 - [¿Así que quieres aprender Infraestructura como Código eh?](https://www.youtube.com/watch?v=hAa0cHlk25s)
 - [¿Cómo el mundo maker te puede hacer un mejor programador?](https://www.youtube.com/watch?v=dEfL2fyucdg)
-- [¡CI/CD de tu sitio web con Github Actions!](https://www.youtube.com/watch?v=cpVW86rzSEc)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
