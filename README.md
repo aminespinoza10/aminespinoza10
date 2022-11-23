@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Tu primer microservicio en .NET en menos de 10 minutos!](https://www.youtube.com/watch?v=U64h5S5DfWE)
 - [¡Yo no tomo té!](https://www.youtube.com/watch?v=IGyWo-VAHAI)
 - [Tu primer &lpar;y muy necesario&rpar; script de Bash en WSL](https://www.youtube.com/watch?v=NyZALHx-RL8)
 - [¿Por qué visitar este canal?](https://www.youtube.com/watch?v=1RpC1J3lNA0)
 - [Tips y trucos para volverte PRO en Terraform](https://www.youtube.com/watch?v=M3TQX8DYvJw)
-- [El panteón de la tecnología](https://www.youtube.com/watch?v=NEz_w4B2Up8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
