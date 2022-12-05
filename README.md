@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Tu primer microservicio con Go en menos de 8 minutos! ¡No puede ser!](https://www.youtube.com/watch?v=muNva2imTtc)
 - [Dev casos de la vida real cap 3](https://www.youtube.com/watch?v=7P3qdZiN9S0)
 - [¡Tu primer microservicio con Python en 10 minutos!](https://www.youtube.com/watch?v=j48mV8PeNuI)
 - [¡Tu primer microservicio con Java en menos de 10 minutos!](https://www.youtube.com/watch?v=fwjSgU2CLOA)
 - [¿Qué opinas? ¿Probamos?](https://www.youtube.com/watch?v=En75E9Ss4tI)
-- [¡Tu primer microservicio en .NET en menos de 10 minutos!](https://www.youtube.com/watch?v=U64h5S5DfWE)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
