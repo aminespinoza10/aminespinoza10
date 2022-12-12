@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Todos tus contenedores listos en una sola línea. ¡La magia de Docker Compose!](https://www.youtube.com/watch?v=yppBBXwpTy8)
 - [¿Existe el entorno de programación ideal?](https://www.youtube.com/watch?v=NLLElZU5izc)
 - [¡Tu primer microservicio con Go en menos de 8 minutos! ¡No puede ser!](https://www.youtube.com/watch?v=muNva2imTtc)
 - [Dev casos de la vida real cap 3](https://www.youtube.com/watch?v=7P3qdZiN9S0)
 - [¡Tu primer microservicio con Python en 10 minutos!](https://www.youtube.com/watch?v=j48mV8PeNuI)
-- [¡Tu primer microservicio con Java en menos de 10 minutos!](https://www.youtube.com/watch?v=fwjSgU2CLOA)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
