@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Mi primera experiencia aprendiendo a usar Rust](https://www.youtube.com/watch?v=rqmmC_w9ktc)
 - [¿Qué c*** es Infraestructura como código?](https://www.youtube.com/watch?v=TpRx9Fq2siM)
 - [!Despliega tu infraestructura en Azure con Bicep!](https://www.youtube.com/watch?v=q1qFpUvU1Lw)
 - [Prueba de velocidad entre lenguajes de programación ¡Los resultados fueron inesperados!](https://www.youtube.com/watch?v=X-vCTAQ23ps)
 - [Introducción a Serverless &lpar;porque no todo en la vida son contenedores&rpar;](https://www.youtube.com/watch?v=lgfeWF_4oaA)
-- [Todos tus contenedores listos en una sola línea. ¡La magia de Docker Compose!](https://www.youtube.com/watch?v=yppBBXwpTy8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
