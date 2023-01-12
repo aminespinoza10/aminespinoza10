@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué es CI/CD? Integración y despliegue continuos](https://www.youtube.com/watch?v=88bnb9eTRNo)
 - [Mi primera experiencia usando Rust desde cero](https://www.youtube.com/watch?v=rqmmC_w9ktc)
 - [¿Qué c*** es Infraestructura como código?](https://www.youtube.com/watch?v=TpRx9Fq2siM)
 - [!Despliega tu infraestructura en Azure con Bicep!](https://www.youtube.com/watch?v=q1qFpUvU1Lw)
 - [Prueba de velocidad entre lenguajes de programación ¡Los resultados fueron inesperados!](https://www.youtube.com/watch?v=X-vCTAQ23ps)
-- [Introducción a Serverless &lpar;porque no todo en la vida son contenedores&rpar;](https://www.youtube.com/watch?v=lgfeWF_4oaA)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
