@@ -29,7 +29,7 @@
 <!-- YOUTUBE:START -->
 - [¿Qué son los anti patrones de software? Y como evitarlos](https://www.youtube.com/watch?v=d7Qs4J5ucPk)
 - [¿Qué es CI/CD? Integración y despliegue continuos](https://www.youtube.com/watch?v=88bnb9eTRNo)
-- [Mi primera experiencia usando Rust desde cero](https://www.youtube.com/watch?v=rqmmC_w9ktc)
+- [Aprendiendo a usar Rust desde cero](https://www.youtube.com/watch?v=rqmmC_w9ktc)
 - [¿Qué c*** es Infraestructura como código?](https://www.youtube.com/watch?v=TpRx9Fq2siM)
 - [!Despliega tu infraestructura en Azure con Bicep!](https://www.youtube.com/watch?v=q1qFpUvU1Lw)
 <!-- YOUTUBE:END -->
