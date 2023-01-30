@@ -28,7 +28,7 @@
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
 - [Así es como ChatGPT te puede hacer un mejor programador](https://www.youtube.com/watch?v=r6sJnVQjqOc)
-- [¿Qué son los anti patrones de software? Y como evitarlos](https://www.youtube.com/watch?v=d7Qs4J5ucPk)
+- [¿Conoces los anti patrones de software? ¿Y como evitarlos?](https://www.youtube.com/watch?v=d7Qs4J5ucPk)
 - [¿Qué es CI/CD? Integración y despliegue continuos](https://www.youtube.com/watch?v=88bnb9eTRNo)
 - [Aprendiendo a usar Rust desde cero](https://www.youtube.com/watch?v=rqmmC_w9ktc)
 - [¿Qué c*** es Infraestructura como código?](https://www.youtube.com/watch?v=TpRx9Fq2siM)
