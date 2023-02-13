@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Con esto te puedes distinguir de los demás programadores...](https://www.youtube.com/watch?v=OZWT_3lVYTA)
 - [Decisiones ejecutivas](https://www.youtube.com/watch?v=F28WKVhgWrw)
 - [¿Y tú ya usas Pull Requests junto con CI/CD?](https://www.youtube.com/watch?v=xzLRIW2zDHA)
 - [Así es como ChatGPT te puede hacer un mejor programador](https://www.youtube.com/watch?v=r6sJnVQjqOc)
 - [¿Conoces los anti patrones de software? ¿Y como evitarlos?](https://www.youtube.com/watch?v=d7Qs4J5ucPk)
-- [¿Qué es CI/CD? Integración y despliegue continuos](https://www.youtube.com/watch?v=88bnb9eTRNo)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
