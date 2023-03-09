@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Cómo ser Cloud Engineer y no empobrecer en el proceso!](https://www.youtube.com/watch?v=uZ7WVa-p0_Q)
 - [El camino para ser un gurú en DevOps](https://www.youtube.com/watch?v=l2f8hav5Tjg)
 - [Preguntas y respuestas con una cerveza &lpar;Capítulo 1&rpar;](https://www.youtube.com/watch?v=oI0rz5y4jnI)
 - [¡Vuélvete Cloud Engineer ahora!](https://www.youtube.com/watch?v=0BkFsGoQQis)
 - [Con esto te puedes distinguir de los demás programadores...](https://www.youtube.com/watch?v=OZWT_3lVYTA)
-- [Decisiones ejecutivas](https://www.youtube.com/watch?v=F28WKVhgWrw)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
