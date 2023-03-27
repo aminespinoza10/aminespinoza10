@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Las películas que todo programador debe ver](https://www.youtube.com/watch?v=5nz3Yin_6X0)
 - [¿Cuánto me afecta el Low Code/ No Code como desarrollador de software? ¿Qué es todo esto?](https://www.youtube.com/watch?v=EaOiLXo6W1o)
 - [Preguntas y cervezas: Capítulo 2](https://www.youtube.com/watch?v=M-_6ILCAi4E)
 - [¡Cómo ser Cloud Engineer y no empobrecer en el proceso!](https://www.youtube.com/watch?v=uZ7WVa-p0_Q)
 - [El camino para ser un gurú en DevOps](https://www.youtube.com/watch?v=l2f8hav5Tjg)
-- [Preguntas y respuestas con una cerveza &lpar;Capítulo 1&rpar;](https://www.youtube.com/watch?v=oI0rz5y4jnI)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
