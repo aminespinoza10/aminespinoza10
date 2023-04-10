@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo hacemos software en Microsoft?](https://www.youtube.com/watch?v=z-m1zugzW2A)
 - [¿Cómo lidiar con el síndrome del impostor?](https://www.youtube.com/watch?v=JYBiN8dyZGg)
 - [Las películas que todo programador debe ver](https://www.youtube.com/watch?v=5nz3Yin_6X0)
 - [¿Cuánto me afecta el Low Code/ No Code como desarrollador de software? ¿Qué es todo esto?](https://www.youtube.com/watch?v=EaOiLXo6W1o)
 - [Preguntas y cervezas: Capítulo 2](https://www.youtube.com/watch?v=M-_6ILCAi4E)
-- [¡Cómo ser Cloud Engineer y no empobrecer en el proceso!](https://www.youtube.com/watch?v=uZ7WVa-p0_Q)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
