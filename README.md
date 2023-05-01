@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Tienes que ver estas herramientas de Inteligencia Artificial!](https://www.youtube.com/watch?v=ielcl4r2BxQ)
 - [8 muy malas prácticas que debes dejar de hacer al desarrollar software &lpar;¿o son 9?&rpar;](https://www.youtube.com/watch?v=ocMJPUb1EQo)
 - [¿Cómo hacemos software en Microsoft?](https://www.youtube.com/watch?v=z-m1zugzW2A)
 - [¿Cómo lidiar con el síndrome del impostor?](https://www.youtube.com/watch?v=JYBiN8dyZGg)
 - [Las películas que todo programador debe ver](https://www.youtube.com/watch?v=5nz3Yin_6X0)
-- [¿Cuánto me afecta el Low Code/ No Code como desarrollador de software? ¿Qué es todo esto?](https://www.youtube.com/watch?v=EaOiLXo6W1o)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
