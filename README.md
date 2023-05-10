@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Tres arquitecturas, un objetivo. ¿Cuál debes elegir?](https://www.youtube.com/watch?v=LIC8yphEc-M)
 - [Hablando de IA para programadores](https://www.youtube.com/watch?v=R7w3M51b4tQ)
 - [¡Tienes que ver estas herramientas de Inteligencia Artificial!](https://www.youtube.com/watch?v=ielcl4r2BxQ)
 - [8 muy malas prácticas que debes dejar de hacer al desarrollar software &lpar;¿o son 9?&rpar;](https://www.youtube.com/watch?v=ocMJPUb1EQo)
 - [¿Cómo hacemos software en Microsoft?](https://www.youtube.com/watch?v=z-m1zugzW2A)
-- [¿Cómo lidiar con el síndrome del impostor?](https://www.youtube.com/watch?v=JYBiN8dyZGg)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
