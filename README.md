@@ -30,7 +30,7 @@
 - [¿Así que quieres ser desarrollador de software?](https://www.youtube.com/watch?v=kdsZoSWe_Y0)
 - [Tres arquitecturas, un objetivo. ¿Cuál debes elegir?](https://www.youtube.com/watch?v=LIC8yphEc-M)
 - [Hablando de IA para programadores](https://www.youtube.com/watch?v=R7w3M51b4tQ)
-- [¡Tienes que ver estas herramientas de Inteligencia Artificial!](https://www.youtube.com/watch?v=ielcl4r2BxQ)
+- [¡Tienes que ver estas herramientas de Inteligencia Artificial para devs!](https://www.youtube.com/watch?v=ielcl4r2BxQ)
 - [8 muy malas prácticas que debes dejar de hacer al desarrollar software &lpar;¿o son 9?&rpar;](https://www.youtube.com/watch?v=ocMJPUb1EQo)
 <!-- YOUTUBE:END -->
 
