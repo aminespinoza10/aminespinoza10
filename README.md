@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de software: ¿Qué son los patrones de diseño?](https://www.youtube.com/watch?v=v-t9kK1DiYs)
 - [¡La manera más fácil de publicar tus Microservicios!](https://www.youtube.com/watch?v=LscECJtc1ys)
 - [¿Así que quieres ser desarrollador de software?](https://www.youtube.com/watch?v=kdsZoSWe_Y0)
 - [Tres arquitecturas, un objetivo. ¿Cuál debes elegir?](https://www.youtube.com/watch?v=LIC8yphEc-M)
 - [Hablando de IA para programadores](https://www.youtube.com/watch?v=R7w3M51b4tQ)
-- [¡Tienes que ver estas herramientas de Inteligencia Artificial para devs!](https://www.youtube.com/watch?v=ielcl4r2BxQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
