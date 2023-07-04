@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué tan importantes son las certificaciones de tecnología?](https://www.youtube.com/watch?v=B_R4PqRgTrw)
 - [¡Esta es la mejor manera de vender &lpar;y planear&rpar; software!](https://www.youtube.com/watch?v=9h7HdaspIZk)
 - [¡La gran conclusión! Publica tus contenedores a la nube usando Github Actions &lpar;CI/CD&rpar;](https://www.youtube.com/watch?v=4sICHhuhnT8)
 - [Fundamentos de software: ¿Qué son los patrones de diseño?](https://www.youtube.com/watch?v=v-t9kK1DiYs)
 - [¡La manera más fácil de publicar tus Microservicios!](https://www.youtube.com/watch?v=LscECJtc1ys)
-- [¿Así que quieres ser desarrollador de software?](https://www.youtube.com/watch?v=kdsZoSWe_Y0)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
