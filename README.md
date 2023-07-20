@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cuáles son los tipos de API más utilizados?](https://www.youtube.com/watch?v=3VaJZgAV8q4)
 - [Esto es lo que los programadores podemos aprender de Threads](https://www.youtube.com/watch?v=WDlz-mUvoX0)
 - [¿Cómo elegir la base de datos adecuada?](https://www.youtube.com/watch?v=hR0tff7j3Io)
 - [¿Qué tan importantes son las certificaciones de tecnología?](https://www.youtube.com/watch?v=B_R4PqRgTrw)
 - [¡Esta es la mejor manera de vender &lpar;y planear&rpar; software!](https://www.youtube.com/watch?v=9h7HdaspIZk)
-- [¡La gran conclusión! Publica tus contenedores a la nube usando Github Actions &lpar;CI/CD&rpar;](https://www.youtube.com/watch?v=4sICHhuhnT8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
