@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Este es el entorno de programación más básico que debes tener!](https://www.youtube.com/watch?v=GmPFbz6rmtk)
 - [Hablando de futuros videos](https://www.youtube.com/watch?v=H_n0Ogu5Mf0)
 - [¿Así que quieres emprender con una app eh?](https://www.youtube.com/watch?v=FrfYq9ZB1Ho)
 - [¿Cuáles son los tipos de API más utilizados?](https://www.youtube.com/watch?v=3VaJZgAV8q4)
 - [Esto es lo que los programadores podemos aprender de Threads](https://www.youtube.com/watch?v=WDlz-mUvoX0)
-- [¿Cómo elegir la base de datos adecuada?](https://www.youtube.com/watch?v=hR0tff7j3Io)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
