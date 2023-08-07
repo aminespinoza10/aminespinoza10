@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [!Esta es la combinación perfecta para probar APIs desde VS Code!](https://www.youtube.com/watch?v=KWkRxl6IvS0)
 - [¡Este es el entorno de programación más básico que debes tener!](https://www.youtube.com/watch?v=GmPFbz6rmtk)
 - [Hablando de futuros videos](https://www.youtube.com/watch?v=H_n0Ogu5Mf0)
 - [¿Así que quieres emprender con una app eh?](https://www.youtube.com/watch?v=FrfYq9ZB1Ho)
 - [¿Cuáles son los tipos de API más utilizados?](https://www.youtube.com/watch?v=3VaJZgAV8q4)
-- [Esto es lo que los programadores podemos aprender de Threads](https://www.youtube.com/watch?v=WDlz-mUvoX0)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
