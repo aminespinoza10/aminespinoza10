@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Modo vlog: Conociendo el campus de Microsoft](https://www.youtube.com/watch?v=K1C_34RvfJc)
 - [Esta es la diferencia entre CI y CD](https://www.youtube.com/watch?v=R6fr5f7QB60)
 - [!Presume tus sitios web y practica con Docker al mismo tiempo!](https://www.youtube.com/watch?v=PAYpsQWVwNA)
 - [Desarrolladores famosos: La reina del código](https://www.youtube.com/watch?v=kTPIMuAQ87Y)
 - [¡7 datos que no sabías de DevOps y te volarán la cabeza!](https://www.youtube.com/watch?v=gedmQ1i6fe4)
-- [!Esta es la combinación perfecta para probar APIs desde VS Code!](https://www.youtube.com/watch?v=KWkRxl6IvS0)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
