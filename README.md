@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [La triste vida de un developer: Capítulo 1 #programacion](https://www.youtube.com/watch?v=Rddr6McwRZU)
 - [Comienza a crear bots con OpenAI](https://www.youtube.com/watch?v=12Gahbxz-8s)
 - [Despliega tu webApp con Docker y Github Actions](https://www.youtube.com/watch?v=YgoQ1DfWv4Q)
 - [Despliega toda tu infraestructura con Github Actions y Terraform](https://www.youtube.com/watch?v=BD87cPRkXpc)
 - [El balance entre Software libre, licenciamiento y el p*** dinero…](https://www.youtube.com/watch?v=MgHIGbk4eGY)
-- [Modo vlog: Conociendo el campus de Microsoft](https://www.youtube.com/watch?v=K1C_34RvfJc)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
