@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Curso de Microservicios &lpar;capítulo 2&rpar;:  Agregando Blob storage y condiciones](https://www.youtube.com/watch?v=RiLmmZex3hA)
 - [Curso de Microservicios &lpar;capítulo 1&rpar;: Aprendiendo a crear una API mínima con .NET y SQL Azure](https://www.youtube.com/watch?v=LFo1Vaz3s_M)
 - [Mi equipo creativo!!](https://www.youtube.com/watch?v=ld44anxOG6w)
 - [La triste vida de un developer: Capítulo 1 #programacion](https://www.youtube.com/watch?v=Rddr6McwRZU)
 - [Comienza a crear bots con OpenAI](https://www.youtube.com/watch?v=12Gahbxz-8s)
-- [Despliega tu webApp con Docker y Github Actions](https://www.youtube.com/watch?v=YgoQ1DfWv4Q)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
