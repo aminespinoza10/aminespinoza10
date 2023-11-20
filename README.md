@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Curso de microservicios &lpar;Capítulo 4&rpar;: Convierte tu API a microservicios](https://www.youtube.com/watch?v=mxQS5o6HVrk)
 - [Curso de Microservicios &lpar;capítulo 3&rpar;: De mi API a los microservicios](https://www.youtube.com/watch?v=o1t-53TSSaA)
 - [Curso de Microservicios &lpar;capítulo 2&rpar;:  Agregando Blob storage y condiciones](https://www.youtube.com/watch?v=RiLmmZex3hA)
 - [Curso de Microservicios &lpar;capítulo 1&rpar;: Aprendiendo a crear una API mínima con .NET y SQL Azure](https://www.youtube.com/watch?v=LFo1Vaz3s_M)
 - [Mi equipo creativo!!](https://www.youtube.com/watch?v=ld44anxOG6w)
-- [La triste vida de un developer: Capítulo 1 #programacion](https://www.youtube.com/watch?v=Rddr6McwRZU)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
