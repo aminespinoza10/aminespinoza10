@@ -23,7 +23,7 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Curso de microservicios &lpar;capítulo 5&rpar;: Comunicando mis microservicios, parte 2](https://www.youtube.com/watch?v=hHxH25g_s1c)
+- [Curso de microservicios &lpar;capítulo 6&rpar;: Comunicando mis microservicios, parte 2](https://www.youtube.com/watch?v=hHxH25g_s1c)
 - [Curso de microservicios &lpar;capítulo 5&rpar;: Comunicando mis microservicios, parte 1](https://www.youtube.com/watch?v=NosvtzxYj3A)
 - [Curso de microservicios &lpar;capítulo 4&rpar;: Convierte los métodos de tu API a servicios](https://www.youtube.com/watch?v=mxQS5o6HVrk)
 - [Curso de Microservicios &lpar;capítulo 3&rpar;: De mi API a los microservicios](https://www.youtube.com/watch?v=o1t-53TSSaA)
