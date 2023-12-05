@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Curso de microservicios &lpar;capítulo 8&rpar;: ¡Hora de desplegar en la nube!](https://www.youtube.com/watch?v=f64KyWFujng)
 - [Curso de microservicios &lpar;capítulo 7&rpar;: Ejecuta todos tus microservicios con Docker Compose](https://www.youtube.com/watch?v=D20YlUm_5_I)
 - [Curso de microservicios &lpar;capítulo 6&rpar;: Comunicando mis microservicios, parte 2](https://www.youtube.com/watch?v=hHxH25g_s1c)
 - [Curso de microservicios &lpar;capítulo 5&rpar;: Comunicando mis microservicios, parte 1](https://www.youtube.com/watch?v=NosvtzxYj3A)
 - [Curso de microservicios &lpar;capítulo 4&rpar;: Convierte los métodos de tu API a servicios](https://www.youtube.com/watch?v=mxQS5o6HVrk)
-- [Curso de Microservicios &lpar;capítulo 3&rpar;: De mi API a los microservicios](https://www.youtube.com/watch?v=o1t-53TSSaA)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
