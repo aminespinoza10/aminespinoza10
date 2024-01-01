@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Aún hay mercado para los profesionales de software en 2024?](https://www.youtube.com/watch?v=Q0cj24WhixM)
 - [¿Así que quieres ser Arquitecto de Software?](https://www.youtube.com/watch?v=7QT9lh3Yg2k)
 - [¿Cómo interactúan tus microservicios con tus bases de datos?](https://www.youtube.com/watch?v=0ISgGFl3GmY)
 - [Curso de microservicios &lpar;capítulo 10&rpar;: Esto es solo el inicio...](https://www.youtube.com/watch?v=qO4RLY-Y5jM)
 - [Curso de microservicios &lpar;capítulo 9&rpar;: CI/CD para cada uno de tus microservicios.](https://www.youtube.com/watch?v=a-no0tt0WZE)
-- [Curso de microservicios &lpar;capítulo 8&rpar;: ¡Hora de desplegar en la nube!](https://www.youtube.com/watch?v=f64KyWFujng)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
