@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprendiendo a usar Apache a profundidad](https://www.youtube.com/watch?v=mAPpqk-mfqk)
 - [¿Cuáles son los modelos de trabajo en la nube?](https://www.youtube.com/watch?v=J3gDE9TrNtU)
 - [¿Aún hay mercado para los profesionales de software en 2024?](https://www.youtube.com/watch?v=Q0cj24WhixM)
 - [¿Así que quieres ser Arquitecto de Software?](https://www.youtube.com/watch?v=7QT9lh3Yg2k)
 - [¿Cómo interactúan tus microservicios con tus bases de datos?](https://www.youtube.com/watch?v=0ISgGFl3GmY)
-- [Curso de microservicios &lpar;capítulo 10&rpar;: Esto es solo el inicio...](https://www.youtube.com/watch?v=qO4RLY-Y5jM)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
