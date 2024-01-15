@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué es una API REST?](https://www.youtube.com/watch?v=9rMKy_VtqvY)
 - [Monolitos vs microservicios: ¿Cuál me conviene utilizar?](https://www.youtube.com/watch?v=B2kOTWWSdXQ)
 - [Aprendiendo a usar Apache a profundidad](https://www.youtube.com/watch?v=mAPpqk-mfqk)
 - [¿Cuáles son los modelos de trabajo en la nube?](https://www.youtube.com/watch?v=J3gDE9TrNtU)
 - [¿Aún hay mercado para los profesionales de software en 2024?](https://www.youtube.com/watch?v=Q0cj24WhixM)
-- [¿Así que quieres ser Arquitecto de Software?](https://www.youtube.com/watch?v=7QT9lh3Yg2k)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
