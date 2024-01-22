@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡Crea tu primera API con C#!](https://www.youtube.com/watch?v=eh0wvNlP4ro)
+- [¿Qué es la programación? O mejor dicho, el desarrollo de software](https://www.youtube.com/watch?v=KB3YOnqnfkU)
+- [¡Crea tu primera API con C# y SQL!](https://www.youtube.com/watch?v=eh0wvNlP4ro)
 - [¿Qué es una API REST?](https://www.youtube.com/watch?v=9rMKy_VtqvY)
 - [Monolitos vs microservicios: ¿Cuál me conviene utilizar?](https://www.youtube.com/watch?v=B2kOTWWSdXQ)
 - [Aprendiendo a usar Apache a profundidad](https://www.youtube.com/watch?v=mAPpqk-mfqk)
-- [¿Cuáles son los modelos de trabajo en la nube?](https://www.youtube.com/watch?v=J3gDE9TrNtU)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
