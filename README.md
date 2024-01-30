@@ -24,9 +24,9 @@
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
 - [¿Startup o big tech? ¿Cuáles son las diferencias de trabajar en ellas?](https://www.youtube.com/watch?v=W11wsyr5wm0)
-- [¡Crea tu primera API con Python y SQL!](https://www.youtube.com/watch?v=ABHgjg1A2x8)
+- [¡Crea tu primera web API con Python y SQL!](https://www.youtube.com/watch?v=ABHgjg1A2x8)
 - [¿Qué es la programación? O mejor dicho, el desarrollo de software](https://www.youtube.com/watch?v=KB3YOnqnfkU)
-- [¡Crea tu primera API con C# y SQL!](https://www.youtube.com/watch?v=eh0wvNlP4ro)
+- [¡Crea tu primera web API con C# y SQL!](https://www.youtube.com/watch?v=eh0wvNlP4ro)
 - [¿Qué es una API REST?](https://www.youtube.com/watch?v=9rMKy_VtqvY)
 <!-- YOUTUBE:END -->
 
