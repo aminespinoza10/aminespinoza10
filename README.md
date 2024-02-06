@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿En serio ganan tan bien los desarrolladores de software?](https://www.youtube.com/watch?v=oq6bvGOqG7o)
 - [¡Crea tu primera web API con Node Express y SQL!](https://www.youtube.com/watch?v=Xc34MBILbIU)
 - [¿Startup o big tech? ¿Cuáles son las diferencias de trabajar en ellas?](https://www.youtube.com/watch?v=W11wsyr5wm0)
 - [¡Crea tu primera web API con Python y SQL!](https://www.youtube.com/watch?v=ABHgjg1A2x8)
 - [¿Qué es la programación? O mejor dicho, el desarrollo de software](https://www.youtube.com/watch?v=KB3YOnqnfkU)
-- [¡Crea tu primera web API con C# y SQL!](https://www.youtube.com/watch?v=eh0wvNlP4ro)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
