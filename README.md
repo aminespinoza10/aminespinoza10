@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo hace Netflix para tener el mejor software del mundo?](https://www.youtube.com/watch?v=CIkMpRMnvcU)
 - [¿Qué ambientes necesito para crear, probar y desplegar software?](https://www.youtube.com/watch?v=5mVXVnaj2gk)
 - [¿Qué herramientas me conviene usar para DevOps?](https://www.youtube.com/watch?v=37bhinGW4a8)
 - [¿Qué ch*** es Kubernetes?](https://www.youtube.com/watch?v=qeBTMk3lRZ0)
 - [¿En serio ganan tan bien los desarrolladores de software?](https://www.youtube.com/watch?v=oq6bvGOqG7o)
-- [¡Crea tu primera web API con Node Express y SQL!](https://www.youtube.com/watch?v=Xc34MBILbIU)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
