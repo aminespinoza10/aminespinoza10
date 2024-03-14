@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué tanto me afecta la IA como programador?](https://www.youtube.com/watch?v=YgRYPPIiByA)
 - [Lo que te venden los nómadas digitales #programacion](https://www.youtube.com/watch?v=Tt06oG-Xyss)
 - [Despliega todos tus ambientes de trabajo con Terraform](https://www.youtube.com/watch?v=IqM28UkKZjw)
 - [¿Cómo hace Netflix para tener el mejor software del mundo?](https://www.youtube.com/watch?v=CIkMpRMnvcU)
 - [¿Qué ambientes necesito para crear, probar y desplegar software?](https://www.youtube.com/watch?v=5mVXVnaj2gk)
-- [¿Qué herramientas me conviene usar para DevOps?](https://www.youtube.com/watch?v=37bhinGW4a8)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
