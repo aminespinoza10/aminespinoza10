@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Live: Software y Cervezas](https://www.youtube.com/watch?v=5IR2_1sPEX4)
 - [Ya terminé la universidad ¿Y luego?](https://www.youtube.com/watch?v=ruDznat3tkI)
 - [¿Qué tanto me afecta la IA como programador?](https://www.youtube.com/watch?v=YgRYPPIiByA)
 - [Lo que te venden los nómadas digitales #programacion](https://www.youtube.com/watch?v=Tt06oG-Xyss)
 - [Despliega todos tus ambientes de trabajo con Terraform](https://www.youtube.com/watch?v=IqM28UkKZjw)
-- [¿Cómo hace Netflix para tener el mejor software del mundo?](https://www.youtube.com/watch?v=CIkMpRMnvcU)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
