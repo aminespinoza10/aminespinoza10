@@ -23,7 +23,7 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡Despliega toda tu infraestructura con Azure Pipelines y Terraform!](https://www.youtube.com/watch?v=09XyJPLls6k)
+- [CI/CD de tu infraestructura con Azure Pipelines y Terraform ¡Una gran combinación!](https://www.youtube.com/watch?v=09XyJPLls6k)
 - [Live: Software y Cervezas](https://www.youtube.com/watch?v=5IR2_1sPEX4)
 - [Ya terminé la universidad ¿Y luego?](https://www.youtube.com/watch?v=ruDznat3tkI)
 - [¿Qué tanto me afecta la IA como programador?](https://www.youtube.com/watch?v=YgRYPPIiByA)
