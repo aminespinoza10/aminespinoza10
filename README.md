@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Aprende cómo depurar tu aplicación de .NET en cualquier SO, con cualquier IDE!](https://www.youtube.com/watch?v=ZAZJ99fdRc0)
 - [3 errores que como junior cometes y dejas de hacer como senior](https://www.youtube.com/watch?v=v6gNEDgpAi4)
 - [¿Por qué debería usar DevOps en mis proyectos?](https://www.youtube.com/watch?v=eHtqoNNkgt8)
 - [Live: Software y Cervezas](https://www.youtube.com/watch?v=pSO8Iip0lek)
 - [CI/CD de tu infraestructura con Azure Pipelines y Terraform ¡Una gran combinación!](https://www.youtube.com/watch?v=09XyJPLls6k)
-- [Live: Software y Cervezas](https://www.youtube.com/watch?v=5IR2_1sPEX4)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
