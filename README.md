@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Live: Software y Cervezas](https://www.youtube.com/watch?v=hGyGltJNMCA)
 - [¡Microsoft abrió un centro de datos en México!](https://www.youtube.com/watch?v=5wiG4sMXzK4)
 - [¡Aprende todo lo que debes saber para iniciar con Docker y contenedores!](https://www.youtube.com/watch?v=UpkbE8FIJwQ)
 - [Live: Software y Cervezas](https://www.youtube.com/watch?v=AtneJTr8VRA)
 - [¡Aprende cómo depurar tu aplicación de .NET en cualquier SO, con cualquier IDE!](https://www.youtube.com/watch?v=ZAZJ99fdRc0)
-- [3 errores que como junior cometes y dejas de hacer como senior](https://www.youtube.com/watch?v=v6gNEDgpAi4)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
