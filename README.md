@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Pregunta: ¿Cómo hacer un despliegue manual en Azure Pipelines? #azuredevops](https://www.youtube.com/watch?v=GzZmyOMNEwI)
 - [Live: Software y Cervezas &lpar;Capítulo 10&rpar;](https://www.youtube.com/watch?v=7Ko3tC_6UfQ)
 - [¡Agrega pruebas unitarias a tu API de .NET!](https://www.youtube.com/watch?v=a2UnecswXZk)
 - [Live: Software y Cervezas &lpar;Capítulo 9&rpar;](https://www.youtube.com/watch?v=hGyGltJNMCA)
 - [¡Microsoft abrió un centro de datos en México!](https://www.youtube.com/watch?v=5wiG4sMXzK4)
-- [¡Aprende todo lo que debes saber para iniciar con Docker y contenedores!](https://www.youtube.com/watch?v=UpkbE8FIJwQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
