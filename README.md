@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Practicar este hábito te hará un mejor desarrollador de software!](https://www.youtube.com/watch?v=rCR7LpYcDgo)
 - [¿A poco no te ha pasado? Ponerte muy técnico cuando estás en una junta. #tecnologia](https://www.youtube.com/watch?v=aPN5-mePkZo)
 - [Aprende Azure DevOps con el mejor curso en español y ¡vuélvete un experto en DevOps!](https://www.youtube.com/watch?v=fnuWc92A75o)
 - [Pregunta: ¿Cómo hacer un despliegue manual en Azure Pipelines? #azuredevops](https://www.youtube.com/watch?v=GzZmyOMNEwI)
 - [Live: Software y Cervezas &lpar;Capítulo 10&rpar;](https://www.youtube.com/watch?v=7Ko3tC_6UfQ)
-- [¡Agrega pruebas unitarias a tu API de .NET!](https://www.youtube.com/watch?v=a2UnecswXZk)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
