@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Transmisión en vivo de Amin Espinoza](https://www.youtube.com/watch?v=pCspnSEgb0M)
+- [Live: Software y Cervezas &lpar;Capítulo 11&rpar;](https://www.youtube.com/watch?v=Luy1l28FWm8)
 - [¡Practicar este hábito te hará un mejor desarrollador de software!](https://www.youtube.com/watch?v=rCR7LpYcDgo)
 - [¿A poco no te ha pasado? Ponerte muy técnico cuando estás en una junta. #tecnologia](https://www.youtube.com/watch?v=aPN5-mePkZo)
 - [Aprende Azure DevOps con el mejor curso en español y ¡vuélvete un experto en DevOps!](https://www.youtube.com/watch?v=fnuWc92A75o)
-- [Pregunta: ¿Cómo hacer un despliegue manual en Azure Pipelines? #azuredevops](https://www.youtube.com/watch?v=GzZmyOMNEwI)
-- [Live: Software y Cervezas &lpar;Capítulo 10&rpar;](https://www.youtube.com/watch?v=7Ko3tC_6UfQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
