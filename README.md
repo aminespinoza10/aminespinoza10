@@ -23,8 +23,8 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Transmisión en vivo de Amin Espinoza](https://www.youtube.com/watch?v=pCspnSEgb0M)
 - [Live: Software y Cervezas &lpar;Capítulo 11&rpar;](https://www.youtube.com/watch?v=Luy1l28FWm8)
+- [Transmisión en vivo de Amin Espinoza](https://www.youtube.com/watch?v=pCspnSEgb0M)
 - [¡Practicar este hábito te hará un mejor desarrollador de software!](https://www.youtube.com/watch?v=rCR7LpYcDgo)
 - [¿A poco no te ha pasado? Ponerte muy técnico cuando estás en una junta. #tecnologia](https://www.youtube.com/watch?v=aPN5-mePkZo)
 - [Aprende Azure DevOps con el mejor curso en español y ¡vuélvete un experto en DevOps!](https://www.youtube.com/watch?v=fnuWc92A75o)
