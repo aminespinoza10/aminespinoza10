@@ -23,7 +23,7 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡Estos son todos los conceptos de IA para principiantes que debes conocer!](https://www.youtube.com/watch?v=PnCHcMR1XHs)
+- [¡Estos son todos los conceptos de IA para developers que debes conocer!](https://www.youtube.com/watch?v=PnCHcMR1XHs)
 - [¡Este tutorial es todo lo que necesitas para comenzar con el diseño de sistemas!](https://www.youtube.com/watch?v=j0KjVtqoCV0)
 - [Live: Software y Cervezas &lpar;Capítulo 11&rpar;](https://www.youtube.com/watch?v=Luy1l28FWm8)
 - [Transmisión en vivo de Amin Espinoza](https://www.youtube.com/watch?v=pCspnSEgb0M)
