@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Diez mil gracias!](https://www.youtube.com/watch?v=7ShkFaVmhaU)
 - [¡Aquí tienes todos los conceptos que debes conocer antes de iniciar con microservicios!](https://www.youtube.com/watch?v=oTTljeN2hig)
 - [¡Conoce todas las especialidades que hay en el desarrollo de software!](https://www.youtube.com/watch?v=aGkA_VzN7dI)
 - [Como crear un contendor de Docker para PHP](https://www.youtube.com/watch?v=DzytUAp-J_0)
 - [Live: Software y Cervezas &lpar;Capítulo 12&rpar;](https://www.youtube.com/watch?v=mBY1dYffqK8)
-- [¡Estos son todos los conceptos de IA para developers que debes conocer!](https://www.youtube.com/watch?v=PnCHcMR1XHs)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
