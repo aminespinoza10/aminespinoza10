@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [No #crowdstrike hoy no!!!!](https://www.youtube.com/watch?v=SBc7KYVc8Wc)
 - [Aprendiendo a usar Linux a profundidad](https://www.youtube.com/watch?v=zbWwdDrRo8g)
 - [Live: Software y Cervezas &lpar;Capítulo 13&rpar;](https://www.youtube.com/watch?v=sDQRkl6KKcg)
 - [¡Diez mil gracias!](https://www.youtube.com/watch?v=7ShkFaVmhaU)
 - [¡Aquí tienes todos los conceptos que debes conocer antes de iniciar con microservicios!](https://www.youtube.com/watch?v=oTTljeN2hig)
-- [¡Conoce todas las especialidades que hay en el desarrollo de software!](https://www.youtube.com/watch?v=aGkA_VzN7dI)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
