@@ -23,7 +23,7 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡No s elo deseo a nadie!](https://www.youtube.com/watch?v=8IyvP0qn8Gs)
+- [¡No se lo deseo a nadie!](https://www.youtube.com/watch?v=8IyvP0qn8Gs)
 - [No #crowdstrike hoy no!!!!](https://www.youtube.com/watch?v=SBc7KYVc8Wc)
 - [Aprendiendo a usar Linux a profundidad](https://www.youtube.com/watch?v=zbWwdDrRo8g)
 - [Live: Software y Cervezas &lpar;Capítulo 13&rpar;](https://www.youtube.com/watch?v=sDQRkl6KKcg)
