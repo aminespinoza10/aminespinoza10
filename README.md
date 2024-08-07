@@ -23,11 +23,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Datos interesantes de Python](https://www.youtube.com/watch?v=zlWT72Jpa3s)
 - [¿Has escuchado estas 4 mentiras al aprender a programar?](https://www.youtube.com/watch?v=EnGGWKWhgsI)
 - [¡Aquí tienes TODO lo que necesitas saber de los certificados SSL/TLS!](https://www.youtube.com/watch?v=SnWFMFp4TQ0)
 - [Live: Software y Cervezas &lpar;Capítulo 14&rpar;](https://www.youtube.com/watch?v=lQsPjoumC38)
 - [¡No se lo deseo a nadie!](https://www.youtube.com/watch?v=8IyvP0qn8Gs)
-- [No #crowdstrike hoy no!!!!](https://www.youtube.com/watch?v=SBc7KYVc8Wc)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
