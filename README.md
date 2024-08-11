@@ -30,8 +30,7 @@
 <img src="./assets/tech/docker.png"/>
 
 ### Estoy aprendiendo...
-<img src="./assets/tech/rust.png"/>
-<img src="./assets/tech/security.png"/>
+<img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
