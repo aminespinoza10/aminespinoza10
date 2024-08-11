@@ -20,14 +20,8 @@
 [<img src="./assets/social/untappd.png"/>][untappd]
 
 ### Hablemos de...
-<img src="./assets/tech/csharp_dotnet.png"/>
-<img src="./assets/tech/python.png"/>
-<img src="./assets/tech/go.png"/>
-<img src="./assets/tech/bash.png"/>
-<img src="./assets/tech/ai.png"/>
-<img src="./assets/tech/azure.png"/>
-<img src="./assets/tech/cloud.png"/>
-<img src="./assets/tech/docker.png"/>
+<img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/go.png"/><img src="./assets/tech/bash.png"/>
+<img src="./assets/tech/ai.png"/><img src="./assets/tech/azure.png"/><img src="./assets/tech/cloud.png"/><img src="./assets/tech/docker.png"/>
 
 ### Estoy aprendiendo...
 <img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
