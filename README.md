@@ -33,6 +33,14 @@
 - [Live: Software y Cervezas &lpar;Capítulo 14&rpar;](https://www.youtube.com/watch?v=lQsPjoumC38)
 <!-- YOUTUBE:END -->
 
+### Hablemos de...
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
 [website]: https://aminespinoza.com/
 [twitter]: https://twitter.com/aminespinoza
 [youtube]: https://www.youtube.com/c/AminEspinoza
