@@ -10,21 +10,35 @@
 
 [![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)][website]
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPy6Al_j2U1Jv4sLCzF37xQ?style=for-the-badge)
 
+### Mis redes sociales
+[<img src="./assets/social/youtube.png"/>][instagram]
+[<img src="./assets/social/instagram.png"/>][instagram]
+[<img src="./assets/social/linkedin.png"/>][linkedin]
+[<img src="./assets/social/tiktok.png"/>][linkedin]
+[<img src="./assets/social/twitter.png"/>][twitter]
+[<img src="./assets/social/untappd.png"/>][untappd]
 
+### Hablemos de...
+<img src="./assets/tech/csharp_dotnet.png"/>
+<img src="./assets/tech/python.png"/>
+<img src="./assets/tech/go.png"/>
+<img src="./assets/tech/bash.png"/>
+<img src="./assets/tech/ai.png"/>
+<img src="./assets/tech/azure.png"/>
+<img src="./assets/tech/cloud.png"/>
+<img src="./assets/tech/docker.png"/>
 
-[<img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png"/>][youtube]
-[<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
-[<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/>][instagram]
-[<img src="https://img.icons8.com/doodle/48/000000/facebook-circled.png"/>][facebook]
+### Estoy aprendiendo...
+<img src="./assets/tech/rust.png"/>
+<img src="./assets/tech/security.png"/>
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-### Mis últimos videos
+### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
 - [Live: Software y Cervezas &lpar;Capítulo 15&rpar;](https://www.youtube.com/watch?v=ZShY-8eAhKg)
 - [Datos interesantes de Python](https://www.youtube.com/watch?v=zlWT72Jpa3s)
@@ -33,17 +47,10 @@
 - [Live: Software y Cervezas &lpar;Capítulo 14&rpar;](https://www.youtube.com/watch?v=lQsPjoumC38)
 <!-- YOUTUBE:END -->
 
-### Hablemos de...
-
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
 
 [website]: https://aminespinoza.com/
 [twitter]: https://twitter.com/aminespinoza
 [youtube]: https://www.youtube.com/c/AminEspinoza
 [linkedin]: https://www.linkedin.com/in/amin-espinoza-71b24661/
 [instagram]: https://www.instagram.com/aminespinoza10/
-[facebook]: https://www.facebook.com/aminespinoza
+[untappd]: https://untappd.com/user/aminespinoza
