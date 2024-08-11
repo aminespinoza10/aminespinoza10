@@ -12,7 +12,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria)
 
 ### Mis redes sociales
-[<img src="./assets/social/youtube.png"/>][instagram]
+[<img src="./assets/social/youtube.png"/>][youtube]
 [<img src="./assets/social/instagram.png"/>][instagram]
 [<img src="./assets/social/linkedin.png"/>][linkedin]
 [<img src="./assets/social/tiktok.png"/>][linkedin]
