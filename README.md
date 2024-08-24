@@ -27,9 +27,9 @@
 <img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
