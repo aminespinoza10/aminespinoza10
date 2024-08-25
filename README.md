@@ -28,15 +28,15 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-5. ⬆️ Pushed 2 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
+1. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
+2. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
+3. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
+4. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 24th, 2024, 8:39:57 PM
+Last Updated: Sunday, August 25th, 2024, 1:43:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
