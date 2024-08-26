@@ -28,15 +28,15 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
-2. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
+1. ✌️ Released [Segunda version](https://github.com/platzi/git-github/releases/tag/v0.1.1) in [platzi/git-github](https://github.com/platzi/git-github)<br>
+2. ✌️ Released [Primera versión](https://github.com/platzi/git-github/releases/tag/v0.1.0-alpha) in [platzi/git-github](https://github.com/platzi/git-github)<br>
 3. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
 4. ⬆️ Pushed 1 commit(s) to [platzi/git-github](https://github.com/platzi/git-github)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
+5. ✌️ Released [Primera versión](https://github.com/platzi/git-github/releases/tag/v0.1.0-alpha) in [platzi/git-github](https://github.com/platzi/git-github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 25th, 2024, 1:22:58 PM
+Last Updated: Monday, August 26th, 2024, 1:37:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
