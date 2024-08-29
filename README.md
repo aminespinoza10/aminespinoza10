@@ -26,14 +26,11 @@
 ### Estoy aprendiendo...
 <img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
 
+
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/miPrimerRepo](https://github.com/aminespinoza10/miPrimerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10.gtihub.io](https://github.com/aminespinoza10/aminespinoza10.gtihub.io)<br>
-3. 📔 Created new repository [aminespinoza10/aminespinoza10.gtihub.io](https://github.com/aminespinoza10/aminespinoza10.gtihub.io)<br>
-4. 💪 Opened PR [#18](https://github.com/aminespinoza10/miPrimerRepo/pull/18) in [aminespinoza10/miPrimerRepo](https://github.com/aminespinoza10/miPrimerRepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/miPrimerRepo](https://github.com/aminespinoza10/miPrimerRepo)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, August 29th, 2024, 1:03:43 PM
