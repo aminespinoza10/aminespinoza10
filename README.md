@@ -28,17 +28,9 @@
 
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/aminespinoza10](https://github.com/aminespinoza10/aminespinoza10)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 29th, 2024, 9:29:43 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ### :zap: Mis últimos videos
