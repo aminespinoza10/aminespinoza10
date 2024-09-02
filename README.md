@@ -41,11 +41,11 @@ Last Updated: Monday, September 2nd, 2024, 1:25:08 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Aprende finanzas personales para desarrolladores de software!](https://www.youtube.com/watch?v=kcJyswHAn4M)
 - [Datos interesantes de C#](https://www.youtube.com/watch?v=8I237P_yanI)
 - [La diferencia entre un ingeniero y un desarrollador de software es...](https://www.youtube.com/watch?v=hiumLYNJ3-8)
 - [¿Necesito un perfil de Github atractivo como desarrollador de software?](https://www.youtube.com/watch?v=7iDQJF7Juzg)
 - [Live: Software y Cervezas &lpar;Capítulo 15&rpar;](https://www.youtube.com/watch?v=ZShY-8eAhKg)
-- [Datos interesantes de Python](https://www.youtube.com/watch?v=zlWT72Jpa3s)
 <!-- YOUTUBE:END -->
 
 
