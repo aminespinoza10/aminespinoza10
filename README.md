@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Proyecto](https://github.com/aminespinoza10/container-app-vnet/wiki/Proyecto) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-2. 📖 Created new wiki page [Home](https://github.com/aminespinoza10/container-app-vnet/wiki/Home) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
-4. ⬆️ Pushed 2 commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
+1. 📖 Created new wiki page [Documentación](https://github.com/aminespinoza10/container-app-vnet/wiki/Documentaci%C3%B3n) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+2. 📖 Created new wiki page [Arquitectura](https://github.com/aminespinoza10/container-app-vnet/wiki/Arquitectura) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+3. 📖 Created new wiki page [Proyecto](https://github.com/aminespinoza10/container-app-vnet/wiki/Proyecto) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+4. 📖 Created new wiki page [Home](https://github.com/aminespinoza10/container-app-vnet/wiki/Home) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
 5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 9th, 2024, 1:43:43 AM
+Last Updated: Monday, September 9th, 2024, 12:28:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
