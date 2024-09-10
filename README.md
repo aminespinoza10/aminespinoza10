@@ -30,13 +30,13 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. 📖 Created new wiki page [_Sidebar](https://github.com/aminespinoza10/container-app-vnet/wiki/_Sidebar) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-2. 📖 Created new wiki page [Documentación](https://github.com/aminespinoza10/container-app-vnet/wiki/Documentaci%C3%B3n) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-3. 📖 Created new wiki page [Arquitectura](https://github.com/aminespinoza10/container-app-vnet/wiki/Arquitectura) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-4. 📖 Created new wiki page [Proyecto](https://github.com/aminespinoza10/container-app-vnet/wiki/Proyecto) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
-5. 📖 Created new wiki page [Home](https://github.com/aminespinoza10/container-app-vnet/wiki/Home) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+2. 📖 Created new wiki page [_Sidebar](https://github.com/aminespinoza10/container-app-vnet/wiki/_Sidebar) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+3. 📖 Created new wiki page [Documentación](https://github.com/aminespinoza10/container-app-vnet/wiki/Documentaci%C3%B3n) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+4. 📖 Created new wiki page [Arquitectura](https://github.com/aminespinoza10/container-app-vnet/wiki/Arquitectura) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
+5. 📖 Created new wiki page [Proyecto](https://github.com/aminespinoza10/container-app-vnet/wiki/Proyecto) in [aminespinoza10/container-app-vnet](https://github.com/aminespinoza10/container-app-vnet)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 9th, 2024, 1:27:46 PM
+Last Updated: Tuesday, September 10th, 2024, 1:06:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
