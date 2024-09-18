@@ -41,11 +41,11 @@ Last Updated: Wednesday, September 18th, 2024, 1:26:36 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Esto es lo que debes estudiar para volverte un Ingeniero de Software](https://www.youtube.com/watch?v=ZgmigdeaQsQ)
 - [Las diferencias entre C# y .NET](https://www.youtube.com/watch?v=v9jWs9ULyo8)
 - [Live: Software y Cervezas &lpar;Capítulo 16&rpar;](https://www.youtube.com/watch?v=dFpiSOmq3yk)
 - [¡La mejor manera de instalar Linux en Windows!](https://www.youtube.com/watch?v=oNcra24ow0o)
 - [¡Aprende finanzas personales para desarrolladores de software!](https://www.youtube.com/watch?v=kcJyswHAn4M)
-- [Datos interesantes de C#](https://www.youtube.com/watch?v=8I237P_yanI)
 <!-- YOUTUBE:END -->
 
 
