@@ -41,11 +41,11 @@ Last Updated: Saturday, September 28th, 2024, 1:18:34 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué música escuchas al trabajar?](https://www.youtube.com/watch?v=EwL6nMgUc1M)
 - [¿Por qué los llamamos bugs?](https://www.youtube.com/watch?v=SVgXq2FETic)
 - [Live: Software y Cervezas &lpar;Capítulo 17&rpar;](https://www.youtube.com/watch?v=nVmjQ9E9d60)
 - [Esto es lo que debes estudiar para volverte un Ingeniero de Software](https://www.youtube.com/watch?v=ZgmigdeaQsQ)
 - [Las diferencias entre C# y .NET](https://www.youtube.com/watch?v=v9jWs9ULyo8)
-- [Live: Software y Cervezas &lpar;Capítulo 16&rpar;](https://www.youtube.com/watch?v=dFpiSOmq3yk)
 <!-- YOUTUBE:END -->
 
 
