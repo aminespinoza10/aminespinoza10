@@ -41,11 +41,11 @@ Last Updated: Friday, October 11th, 2024, 1:11:40 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Live: Software y Cervezas &lpar;Capítulo 18&rpar;](https://www.youtube.com/watch?v=Iy4Kjs1jO6A)
 - [Algunos datos interesantes de Java](https://www.youtube.com/watch?v=1bC-9GKVbuo)
 - [¿Qué música escuchas al trabajar?](https://www.youtube.com/watch?v=EwL6nMgUc1M)
 - [¿Por qué los llamamos bugs?](https://www.youtube.com/watch?v=SVgXq2FETic)
 - [Live: Software y Cervezas &lpar;Capítulo 17&rpar;](https://www.youtube.com/watch?v=nVmjQ9E9d60)
-- [Esto es lo que debes estudiar para volverte un Ingeniero de Software](https://www.youtube.com/watch?v=ZgmigdeaQsQ)
 <!-- YOUTUBE:END -->
 
 
