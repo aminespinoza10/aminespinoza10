@@ -41,7 +41,7 @@ Last Updated: Monday, November 4th, 2024, 1:16:15 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Curso: Python para principiantes.](https://www.youtube.com/watch?v=bOREhypR1xw)
+- [¡Aprende Python desde cero con este curso!](https://www.youtube.com/watch?v=bOREhypR1xw)
 - [Esto es todo lo que debes saber de lenguajes de programación](https://www.youtube.com/watch?v=Oz0tBS_BksM)
 - [Live: Software y Cervezas &lpar;Capítulo 18&rpar;](https://www.youtube.com/watch?v=Iy4Kjs1jO6A)
 - [Algunos datos interesantes de Java](https://www.youtube.com/watch?v=1bC-9GKVbuo)
