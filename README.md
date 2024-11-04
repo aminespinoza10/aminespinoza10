@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
-3. 📔 Created new repository [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
-4. ⭐ Starred [AdamPaternostro/Azure-App-Insights-Distrubuted-Tracing](https://github.com/AdamPaternostro/Azure-App-Insights-Distrubuted-Tracing)<br>
-5. 💪 Opened PR [#44](https://github.com/Azure-Samples/virtual-network-integration-recipes/pull/44) in [Azure-Samples/virtual-network-integration-recipes](https://github.com/Azure-Samples/virtual-network-integration-recipes)<br>
+1. ⭐ Starred [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic)<br>
+2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/services_app](https://github.com/aminespinoza10/services_app)<br>
+3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
+4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
+5. 📔 Created new repository [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 4th, 2024, 1:49:23 AM
+Last Updated: Monday, November 4th, 2024, 12:30:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
