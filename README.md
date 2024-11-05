@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/services_app](https://github.com/aminespinoza10/services_app)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
+1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-APIs](https://github.com/aminespinoza10/Curso-de-APIs)<br>
+2. ⭐ Starred [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic)<br>
+3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/services_app](https://github.com/aminespinoza10/services_app)<br>
 4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
-5. 📔 Created new repository [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 5th, 2024, 1:45:09 AM
+Last Updated: Tuesday, November 5th, 2024, 12:27:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
