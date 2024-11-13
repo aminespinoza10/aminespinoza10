@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-APIs](https://github.com/aminespinoza10/Curso-de-APIs)<br>
-2. ⭐ Starred [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/services_app](https://github.com/aminespinoza10/services_app)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-Python](https://github.com/aminespinoza10/Curso-de-Python)<br>
+1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Preparacion-para-programar](https://github.com/aminespinoza10/Preparacion-para-programar)<br>
+2. 📔 Created new repository [aminespinoza10/Preparacion-para-programar](https://github.com/aminespinoza10/Preparacion-para-programar)<br>
+3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-de-APIs](https://github.com/aminespinoza10/Curso-de-APIs)<br>
+4. ⭐ Starred [Azure-Samples/openai-end-to-end-basic](https://github.com/Azure-Samples/openai-end-to-end-basic)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/services_app](https://github.com/aminespinoza10/services_app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 12th, 2024, 1:14:01 PM
+Last Updated: Wednesday, November 13th, 2024, 1:09:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
