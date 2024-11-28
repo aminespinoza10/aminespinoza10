@@ -41,11 +41,11 @@ Last Updated: Thursday, November 28th, 2024, 1:21:41 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Así que quieres especializarte en datos?](https://www.youtube.com/watch?v=FhjCYkirlAw)
 - [¡Crea tu propio copilot con C# en 10 minutos!](https://www.youtube.com/watch?v=bRCM-ilGU3M)
 - [¡Aprende Python desde cero con este curso!](https://www.youtube.com/watch?v=bOREhypR1xw)
 - [Esto es todo lo que debes saber de lenguajes de programación](https://www.youtube.com/watch?v=Oz0tBS_BksM)
 - [Live: Software y Cervezas &lpar;Capítulo 18&rpar;](https://www.youtube.com/watch?v=Iy4Kjs1jO6A)
-- [Algunos datos interesantes de Java](https://www.youtube.com/watch?v=1bC-9GKVbuo)
 <!-- YOUTUBE:END -->
 
 
