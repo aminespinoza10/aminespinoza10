@@ -41,11 +41,11 @@ Last Updated: Tuesday, December 3rd, 2024, 1:21:35 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Pair programming con Maho Pacheco](https://www.youtube.com/watch?v=QZTxOdj3s60)
 - [¿Así que quieres especializarte en datos?](https://www.youtube.com/watch?v=FhjCYkirlAw)
 - [¡Crea tu propio copilot con C# en 10 minutos!](https://www.youtube.com/watch?v=bRCM-ilGU3M)
 - [¡Aprende Python desde cero con este curso!](https://www.youtube.com/watch?v=bOREhypR1xw)
 - [Esto es todo lo que debes saber de lenguajes de programación](https://www.youtube.com/watch?v=Oz0tBS_BksM)
-- [Live: Software y Cervezas &lpar;Capítulo 18&rpar;](https://www.youtube.com/watch?v=Iy4Kjs1jO6A)
 <!-- YOUTUBE:END -->
 
 
