@@ -41,11 +41,11 @@ Last Updated: Thursday, December 5th, 2024, 1:22:48 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Aprende los conceptos básicos de redes en menos de 15 minutos!](https://www.youtube.com/watch?v=_JNPvSxG6oM)
 - [Pair programming con Maho Pacheco](https://www.youtube.com/watch?v=QZTxOdj3s60)
 - [¿Así que quieres especializarte en datos?](https://www.youtube.com/watch?v=FhjCYkirlAw)
 - [¡Crea tu propio copilot con C# en 10 minutos!](https://www.youtube.com/watch?v=bRCM-ilGU3M)
-- [¡Aprende Python desde cero con este curso!](https://www.youtube.com/watch?v=bOREhypR1xw)
-- [Esto es todo lo que debes saber de lenguajes de programación](https://www.youtube.com/watch?v=Oz0tBS_BksM)
+- [Curso: ¡Aprende Python desde cero para principiantes!](https://www.youtube.com/watch?v=bOREhypR1xw)
 <!-- YOUTUBE:END -->
 
 
