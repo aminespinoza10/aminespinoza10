@@ -41,11 +41,11 @@ Last Updated: Tuesday, December 17th, 2024, 1:23:24 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Por qué debe interesarte el cómputo en la nube como programador?](https://www.youtube.com/watch?v=mGVx8y5pjzg)
 - [Esta es la diferencia entre Arquitecto e Ingeniero de Software](https://www.youtube.com/watch?v=e2EmTcTBaTw)
 - [Pair programming con Maho Pacheco](https://www.youtube.com/watch?v=QZTxOdj3s60)
 - [¡Aprende los conceptos básicos de redes en menos de 15 minutos!](https://www.youtube.com/watch?v=_JNPvSxG6oM)
 - [¿Así que quieres especializarte en datos?](https://www.youtube.com/watch?v=FhjCYkirlAw)
-- [¡Crea tu propio copilot con C# en 10 minutos!](https://www.youtube.com/watch?v=bRCM-ilGU3M)
 <!-- YOUTUBE:END -->
 
 
