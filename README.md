@@ -41,11 +41,11 @@ Last Updated: Wednesday, January 1st, 2025, 1:23:48 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
 - [¿Sabes cómo colocar la versión del software que estás haciendo?](https://www.youtube.com/watch?v=sMGEwhZF6Go)
 - [¿Por qué debe interesarte el cómputo en la nube como programador?](https://www.youtube.com/watch?v=mGVx8y5pjzg)
 - [Esta es la diferencia entre Arquitecto e Ingeniero de Software](https://www.youtube.com/watch?v=e2EmTcTBaTw)
 - [Pair programming con Maho Pacheco](https://www.youtube.com/watch?v=QZTxOdj3s60)
-- [¡Aprende los conceptos básicos de redes en menos de 15 minutos!](https://www.youtube.com/watch?v=_JNPvSxG6oM)
 <!-- YOUTUBE:END -->
 
 
