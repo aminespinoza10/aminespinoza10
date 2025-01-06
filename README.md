@@ -41,11 +41,11 @@ Last Updated: Monday, January 6th, 2025, 1:14:37 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Python2](https://www.youtube.com/watch?v=g5m2MxaqpSo)
 - [Aprende ciberseguridad con Docker!](https://www.youtube.com/watch?v=chcuCz7WCXU)
 - [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
 - [¿Sabes cómo colocar la versión del software que estás haciendo?](https://www.youtube.com/watch?v=sMGEwhZF6Go)
 - [¿Por qué debe interesarte el cómputo en la nube como programador?](https://www.youtube.com/watch?v=mGVx8y5pjzg)
-- [Esta es la diferencia entre Arquitecto e Ingeniero de Software](https://www.youtube.com/watch?v=e2EmTcTBaTw)
 <!-- YOUTUBE:END -->
 
 
