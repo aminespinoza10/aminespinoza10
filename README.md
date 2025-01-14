@@ -41,11 +41,11 @@ Last Updated: Tuesday, January 14th, 2025, 1:42:25 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Como puedes comenzar a crear microservicio?](https://www.youtube.com/watch?v=etIx9sLHnvs)
 - [Curso Intermedio: Aprende Python a profundidad](https://www.youtube.com/watch?v=g5m2MxaqpSo)
 - [Aprende ciberseguridad con Docker!](https://www.youtube.com/watch?v=chcuCz7WCXU)
 - [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
 - [¿Sabes cómo colocar la versión del software que estás haciendo?](https://www.youtube.com/watch?v=sMGEwhZF6Go)
-- [¿Por qué debe interesarte el cómputo en la nube como programador?](https://www.youtube.com/watch?v=mGVx8y5pjzg)
 <!-- YOUTUBE:END -->
 
 
