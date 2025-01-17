@@ -41,11 +41,11 @@ Last Updated: Friday, January 17th, 2025, 1:22:04 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué debes considerar para crear tu setup perfecto?](https://www.youtube.com/watch?v=y4eSp0Ldqxk)
 - [¿Como puedes comenzar a crear microservicios?](https://www.youtube.com/watch?v=etIx9sLHnvs)
 - [Curso Intermedio: Aprende Python a profundidad](https://www.youtube.com/watch?v=g5m2MxaqpSo)
 - [Aprende ciberseguridad con Docker!](https://www.youtube.com/watch?v=chcuCz7WCXU)
 - [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
-- [¿Sabes cómo colocar la versión del software que estás haciendo?](https://www.youtube.com/watch?v=sMGEwhZF6Go)
 <!-- YOUTUBE:END -->
 
 
