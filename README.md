@@ -32,11 +32,11 @@
 1. ✌️ Released [First version of my module](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions/releases/tag/1.0.0) in [aminespinoza10/terraform-azurerm-azurefunctions](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions)<br>
 2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/terraform-azurerm-azurefunctions](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions)<br>
 3. 📔 Created new repository [aminespinoza10/terraform-azurerm-azurefunctions](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/coleccion-terraform](https://github.com/aminespinoza10/coleccion-terraform)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/coleccion-terraform](https://github.com/aminespinoza10/coleccion-terraform)<br>
+4. ⬆️ Pushed 13 commit(s) to [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
+5. 🎉 Merged PR [#39](https://github.com/aminespinoza10/App-de-Vecinos/pull/39) in [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 24th, 2025, 1:23:35 PM
+Last Updated: Saturday, January 25th, 2025, 1:05:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
