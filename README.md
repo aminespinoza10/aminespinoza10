@@ -36,7 +36,7 @@
 5. ✌️ Released [First version of my module](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions/releases/tag/1.0.0) in [aminespinoza10/terraform-azurerm-azurefunctions](https://github.com/aminespinoza10/terraform-azurerm-azurefunctions)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 1st, 2025, 12:38:27 PM
+Last Updated: Saturday, February 1st, 2025, 12:52:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
