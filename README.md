@@ -41,11 +41,11 @@ Last Updated: Tuesday, February 4th, 2025, 1:12:02 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Así que quieres trabajar desde casa?](https://www.youtube.com/watch?v=5Q99rgpW9p0)
 - [¿Qué debes considerar para crear tu setup perfecto?](https://www.youtube.com/watch?v=y4eSp0Ldqxk)
 - [¿Como puedes comenzar a crear microservicios?](https://www.youtube.com/watch?v=etIx9sLHnvs)
 - [Curso Intermedio: Aprende Python a profundidad](https://www.youtube.com/watch?v=g5m2MxaqpSo)
 - [Aprende ciberseguridad con Docker!](https://www.youtube.com/watch?v=chcuCz7WCXU)
-- [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
 <!-- YOUTUBE:END -->
 
 
