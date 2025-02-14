@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-2. ✔️ Closed issue [#77](https://github.com/aminespinoza10/CommUnity/issues/77) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-3. 🎉 Merged PR [#78](https://github.com/aminespinoza10/CommUnity/pull/78) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-4. 👍 Approved [#78](https://github.com/aminespinoza10/CommUnity/pull/78#pullrequestreview-2613571602) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-5. 💬 Commented on [#78](https://github.com/aminespinoza10/CommUnity/pull/78#issuecomment-2655185039) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
+1. ⭐ Starred [microsoft/Agents](https://github.com/microsoft/Agents)<br>
+2. ⭐ Starred [microsoft/Agents-for-net](https://github.com/microsoft/Agents-for-net)<br>
+3. ⬆️ Pushed 3 commit(s) to [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
+4. ✔️ Closed issue [#77](https://github.com/aminespinoza10/CommUnity/issues/77) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
+5. 🎉 Merged PR [#78](https://github.com/aminespinoza10/CommUnity/pull/78) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 13th, 2025, 1:13:21 PM
+Last Updated: Friday, February 14th, 2025, 1:10:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
