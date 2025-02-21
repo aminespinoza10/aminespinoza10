@@ -41,11 +41,11 @@ Last Updated: Friday, February 21st, 2025, 1:12:55 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Tips y trucos para aprovechar conseguir empleo](https://www.youtube.com/watch?v=Icl_KiVMkgQ)
 - [Agrega Cobertura de código a tu proyecto ¡En 10 minutos!](https://www.youtube.com/watch?v=BfwPUD0woQw)
 - [Docker Desktop o Docker Engine: ¿Qué herramienta me conviene usar más?](https://www.youtube.com/watch?v=okHQNxQO_vg)
 - [Tips y trucos para aprovechar al máximo a Github Copilot](https://www.youtube.com/watch?v=ONz-5PfDaYA)
 - [¿Así que quieres trabajar desde casa?](https://www.youtube.com/watch?v=5Q99rgpW9p0)
-- [¿Qué debes considerar para crear tu setup perfecto?](https://www.youtube.com/watch?v=y4eSp0Ldqxk)
 <!-- YOUTUBE:END -->
 
 
