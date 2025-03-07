@@ -41,11 +41,11 @@ Last Updated: Friday, March 7th, 2025, 1:14:58 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Despliega tu primer conjunto de microservicios en menos de una hora!](https://www.youtube.com/watch?v=wnuFjKt0hUI)
 - [¿Así que quieres especializarte en DevOps?](https://www.youtube.com/watch?v=D9QLz-I1PzU)
 - [¡Agrega diagramas increíbles en tu documentación!](https://www.youtube.com/watch?v=V_EHQKAlF64)
 - [Tips y trucos para aprovechar conseguir empleo](https://www.youtube.com/watch?v=Icl_KiVMkgQ)
 - [Agrega Cobertura de código a tu proyecto ¡En 10 minutos!](https://www.youtube.com/watch?v=BfwPUD0woQw)
-- [Docker Desktop o Docker Engine: ¿Qué herramienta me conviene usar más?](https://www.youtube.com/watch?v=okHQNxQO_vg)
 <!-- YOUTUBE:END -->
 
 
