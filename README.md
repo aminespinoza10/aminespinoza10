@@ -41,11 +41,11 @@ Last Updated: Sunday, March 9th, 2025, 1:15:12 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo es un día como Ingeniero de Software en Microsoft?](https://www.youtube.com/watch?v=jY2nLfWxGbo)
 - [¡Despliega tu primer conjunto de microservicios en menos de una hora!](https://www.youtube.com/watch?v=wnuFjKt0hUI)
 - [¿Así que quieres especializarte en DevOps?](https://www.youtube.com/watch?v=D9QLz-I1PzU)
 - [¡Agrega diagramas increíbles en tu documentación!](https://www.youtube.com/watch?v=V_EHQKAlF64)
 - [Tips y trucos para aprovechar conseguir empleo](https://www.youtube.com/watch?v=Icl_KiVMkgQ)
-- [Agrega Cobertura de código a tu proyecto ¡En 10 minutos!](https://www.youtube.com/watch?v=BfwPUD0woQw)
 <!-- YOUTUBE:END -->
 
 
