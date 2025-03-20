@@ -41,11 +41,11 @@ Last Updated: Thursday, March 20th, 2025, 1:16:17 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo comenzar a desarrollar aplicaciones Cloud Native &lpar;nativas de la nube&rpar;?](https://www.youtube.com/watch?v=221AsKtE4BM)
 - [Aprende a usar un archivo .gitignore en menos de un minuto!!](https://www.youtube.com/watch?v=APUOdpeMzX4)
 - [Mis conversaciones con mi PM](https://www.youtube.com/watch?v=wlRCFrKwnos)
 - [¿Cómo es un día como Ingeniero de Software en Microsoft?](https://www.youtube.com/watch?v=jY2nLfWxGbo)
 - [¡Despliega tu primer conjunto de microservicios en menos de una hora!](https://www.youtube.com/watch?v=wnuFjKt0hUI)
-- [¿Así que quieres especializarte en DevOps?](https://www.youtube.com/watch?v=D9QLz-I1PzU)
 <!-- YOUTUBE:END -->
 
 
