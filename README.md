@@ -41,11 +41,11 @@ Last Updated: Saturday, March 29th, 2025, 1:26:21 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cuál es la diferencia entre una API y un SDK?](https://www.youtube.com/watch?v=SPtaIPj2U-k)
 - [¡Despliega tu primer conjunto de microservicios! Parte 2](https://www.youtube.com/watch?v=3BLJfxZrE40)
 - [¿Cómo comenzar a desarrollar aplicaciones Cloud Native &lpar;nativas de la nube&rpar;?](https://www.youtube.com/watch?v=221AsKtE4BM)
 - [Aprende a usar un archivo .gitignore en menos de un minuto!!](https://www.youtube.com/watch?v=APUOdpeMzX4)
 - [Mis conversaciones con mi PM](https://www.youtube.com/watch?v=wlRCFrKwnos)
-- [¿Cómo es un día como Ingeniero de Software en Microsoft?](https://www.youtube.com/watch?v=jY2nLfWxGbo)
 <!-- YOUTUBE:END -->
 
 
