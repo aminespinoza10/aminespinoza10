@@ -41,11 +41,11 @@ Last Updated: Friday, April 4th, 2025, 1:20:17 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡El camino para especializarte en DevOps!](https://www.youtube.com/watch?v=XS1QshzjYWg)
 - [¿Cuál es la diferencia entre una API y un SDK?](https://www.youtube.com/watch?v=SPtaIPj2U-k)
 - [¡Despliega tu primer conjunto de microservicios! Parte 2](https://www.youtube.com/watch?v=3BLJfxZrE40)
 - [¿Cómo comenzar a desarrollar aplicaciones Cloud Native &lpar;nativas de la nube&rpar;?](https://www.youtube.com/watch?v=221AsKtE4BM)
 - [Aprende a usar un archivo .gitignore en menos de un minuto!!](https://www.youtube.com/watch?v=APUOdpeMzX4)
-- [Mis conversaciones con mi PM](https://www.youtube.com/watch?v=wlRCFrKwnos)
 <!-- YOUTUBE:END -->
 
 
