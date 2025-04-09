@@ -41,11 +41,11 @@ Last Updated: Wednesday, April 9th, 2025, 1:25:01 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #2: Bloquea tu rama principal](https://www.youtube.com/watch?v=H68iK7r4GrA)
 - [Fundamentos de ingeniería #1: Agrega un control de versiones](https://www.youtube.com/watch?v=zgZuGuXK_HA)
 - [¡El camino para especializarte en DevOps!](https://www.youtube.com/watch?v=XS1QshzjYWg)
 - [¿Cuál es la diferencia entre una API y un SDK?](https://www.youtube.com/watch?v=SPtaIPj2U-k)
 - [¡Despliega tu primer conjunto de microservicios! Parte 2](https://www.youtube.com/watch?v=3BLJfxZrE40)
-- [¿Cómo comenzar a desarrollar aplicaciones Cloud Native &lpar;nativas de la nube&rpar;?](https://www.youtube.com/watch?v=221AsKtE4BM)
 <!-- YOUTUBE:END -->
 
 
