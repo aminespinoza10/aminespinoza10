@@ -41,11 +41,11 @@ Last Updated: Thursday, April 17th, 2025, 1:57:15 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #5: NUNCA SUBAS SECRETOS A TU REPO](https://www.youtube.com/watch?v=PjTQ27KaAgs)
 - [Fundamentos de ingeniería #4: Documentación de la estructura del repositorio](https://www.youtube.com/watch?v=MFTE072Muac)
 - [Fundamentos de ingeniería #3: Convención de nombres en tus ramas](https://www.youtube.com/watch?v=33Qe2ok97Ek)
 - [Fundamentos de ingeniería #2: Bloquea tu rama principal](https://www.youtube.com/watch?v=H68iK7r4GrA)
 - [Fundamentos de ingeniería #1: Agrega un control de versiones](https://www.youtube.com/watch?v=zgZuGuXK_HA)
-- [¡El camino para especializarte en DevOps!](https://www.youtube.com/watch?v=XS1QshzjYWg)
 <!-- YOUTUBE:END -->
 
 
