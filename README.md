@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [platzi/curso-microservicios](https://github.com/platzi/curso-microservicios)<br>
-2. ⬆️ Pushed 1 commit(s) to [platzi/curso-microservicios](https://github.com/platzi/curso-microservicios)<br>
-3. ⬆️ Pushed 1 commit(s) to [platzi/curso-microservicios](https://github.com/platzi/curso-microservicios)<br>
-4. ⬆️ Pushed 1 commit(s) to [platzi/curso-microservicios](https://github.com/platzi/curso-microservicios)<br>
-5. ⬆️ Pushed 1 commit(s) to [platzi/curso-microservicios](https://github.com/platzi/curso-microservicios)<br>
+1. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
+2. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
+3. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
+4. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
+5. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 1:23:47 PM
+Last Updated: Saturday, April 26th, 2025, 1:15:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
