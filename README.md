@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
-2. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
-3. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
-4. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
-5. ⬆️ Pushed 1 commit(s) to [platzi/curso-go](https://github.com/platzi/curso-go)<br>
+1. ⬆️ Pushed 1 commit(s) to [platzi/curso-net](https://github.com/platzi/curso-net)<br>
+2. ⬆️ Pushed 1 commit(s) to [platzi/curso-net](https://github.com/platzi/curso-net)<br>
+3. ⬆️ Pushed 1 commit(s) to [platzi/curso-net](https://github.com/platzi/curso-net)<br>
+4. ⬆️ Pushed 1 commit(s) to [platzi/curso-net](https://github.com/platzi/curso-net)<br>
+5. ⬆️ Pushed 1 commit(s) to [platzi/curso-net](https://github.com/platzi/curso-net)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 1:27:44 PM
+Last Updated: Tuesday, April 29th, 2025, 1:18:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
