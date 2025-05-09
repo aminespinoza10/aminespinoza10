@@ -41,11 +41,11 @@ Last Updated: Friday, May 9th, 2025, 1:25:03 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Software y cervezas ¡Ya era necesario!](https://www.youtube.com/watch?v=FcW4Zy0zHWk)
 - [¿Qué es la ingeniería hiperveloz?](https://www.youtube.com/watch?v=7yQnEFOBsso)
 - [Fundamentos de ingeniería #5: NUNCA SUBAS SECRETOS A TU REPO](https://www.youtube.com/watch?v=PjTQ27KaAgs)
 - [Fundamentos de ingeniería #4: Documentación de la estructura del repositorio](https://www.youtube.com/watch?v=MFTE072Muac)
 - [Fundamentos de ingeniería #3: Convención de nombres en tus ramas](https://www.youtube.com/watch?v=33Qe2ok97Ek)
-- [Fundamentos de ingeniería #2: Bloquea tu rama principal](https://www.youtube.com/watch?v=H68iK7r4GrA)
 <!-- YOUTUBE:END -->
 
 
