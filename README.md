@@ -41,11 +41,11 @@ Last Updated: Wednesday, May 14th, 2025, 1:29:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/watch?v=70i-za19nsk)
 - [¡NO uses SOLID en tus microservicios! ¡Usa IDEALS!](https://www.youtube.com/watch?v=RL4UUSjYD-E)
 - [Software y cervezas ¡Ya era necesario!](https://www.youtube.com/watch?v=FcW4Zy0zHWk)
 - [¿Qué es la ingeniería hiperveloz?](https://www.youtube.com/watch?v=7yQnEFOBsso)
 - [Fundamentos de ingeniería #5: NUNCA SUBAS SECRETOS A TU REPO](https://www.youtube.com/watch?v=PjTQ27KaAgs)
-- [Fundamentos de ingeniería #4: Documentación de la estructura del repositorio](https://www.youtube.com/watch?v=MFTE072Muac)
 <!-- YOUTUBE:END -->
 
 
