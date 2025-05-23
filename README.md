@@ -41,11 +41,11 @@ Last Updated: Friday, May 23rd, 2025, 1:27:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos con nuestros Product Managers con una cerveza!](https://www.youtube.com/watch?v=ZFKq9rw62Yo)
 - [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/watch?v=mKcrCymzep8)
 - [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/watch?v=70i-za19nsk)
 - [¡NO uses SOLID en tus microservicios! ¡Usa IDEALS!](https://www.youtube.com/watch?v=RL4UUSjYD-E)
 - [Software y cervezas ¡Ya era necesario!](https://www.youtube.com/watch?v=FcW4Zy0zHWk)
-- [¿Qué es la ingeniería hiperveloz?](https://www.youtube.com/watch?v=7yQnEFOBsso)
 <!-- YOUTUBE:END -->
 
 
