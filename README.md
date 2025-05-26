@@ -41,11 +41,11 @@ Last Updated: Monday, May 26th, 2025, 1:26:23 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #7: Cobertura de código](https://www.youtube.com/watch?v=Oklh9cspspk)
 - [Hablemos con nuestros Product Managers con una cerveza!](https://www.youtube.com/watch?v=ZFKq9rw62Yo)
 - [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/watch?v=mKcrCymzep8)
 - [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/watch?v=70i-za19nsk)
 - [¡NO uses SOLID en tus microservicios! ¡Usa IDEALS!](https://www.youtube.com/watch?v=RL4UUSjYD-E)
-- [Software y cervezas ¡Ya era necesario!](https://www.youtube.com/watch?v=FcW4Zy0zHWk)
 <!-- YOUTUBE:END -->
 
 
