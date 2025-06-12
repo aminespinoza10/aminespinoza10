@@ -42,10 +42,10 @@ Last Updated: Thursday, June 12th, 2025, 2:05:34 AM
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
 - [Crash course: IA, programación y DevOps ¡Vuélvete el mejor ingeniero de software!](https://www.youtube.com/watch?v=t3deXJrPmBc)
-- [Fundamentos de ingeniería #7: Cobertura de código](https://www.youtube.com/watch?v=Oklh9cspspk)
+- [Fundamentos de ingeniería #7: Cobertura de código](https://www.youtube.com/shorts/Oklh9cspspk)
 - [Hablemos con nuestros Product Managers con una cerveza!](https://www.youtube.com/watch?v=ZFKq9rw62Yo)
-- [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/watch?v=mKcrCymzep8)
-- [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/watch?v=70i-za19nsk)
+- [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/shorts/mKcrCymzep8)
+- [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/shorts/70i-za19nsk)
 <!-- YOUTUBE:END -->
 
 
