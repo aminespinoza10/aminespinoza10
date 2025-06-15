@@ -41,11 +41,11 @@ Last Updated: Sunday, June 15th, 2025, 1:21:13 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprendiendo a usar RabbitMQ a profundidad](https://www.youtube.com/watch?v=UQHe5s7M1Fs)
 - [Crash course: IA, programación y DevOps ¡Vuélvete el mejor ingeniero de software!](https://www.youtube.com/watch?v=t3deXJrPmBc)
 - [Fundamentos de ingeniería #7: Cobertura de código](https://www.youtube.com/shorts/Oklh9cspspk)
 - [Hablemos con nuestros Product Managers con una cerveza!](https://www.youtube.com/watch?v=ZFKq9rw62Yo)
 - [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/shorts/mKcrCymzep8)
-- [¡Mi Project Manager me da escalofríos!](https://www.youtube.com/shorts/70i-za19nsk)
 <!-- YOUTUBE:END -->
 
 
