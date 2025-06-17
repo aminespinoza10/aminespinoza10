@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
-2. 📔 Created new repository [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
-3. ⬆️ Pushed 5 commit(s) to [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
-4. 🎉 Merged PR [#4](https://github.com/aminespinoza10/Curso-Microservicios/pull/4) in [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
+1. 🔱 Forked [aminespinoza10/azure-container-apps-mcp-sample](https://github.com/aminespinoza10/azure-container-apps-mcp-sample) from [anthonychu/azure-container-apps-mcp-sample](https://github.com/anthonychu/azure-container-apps-mcp-sample)<br>
+2. ⬆️ Pushed 1 commit(s) to [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
+3. 📔 Created new repository [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
+4. ⬆️ Pushed 5 commit(s) to [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
+5. 🎉 Merged PR [#4](https://github.com/aminespinoza10/Curso-Microservicios/pull/4) in [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 2:07:27 AM
+Last Updated: Tuesday, June 17th, 2025, 12:36:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
