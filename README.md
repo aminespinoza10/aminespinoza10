@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [platzi/curso-rag](https://github.com/platzi/curso-rag)<br>
-2. ⬆️ Pushed 4 commit(s) to [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-3. ✔️ Closed issue [#84](https://github.com/aminespinoza10/CommUnity/issues/84) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-4. 🎉 Merged PR [#85](https://github.com/aminespinoza10/CommUnity/pull/85) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
-5. 👍 Approved [#85](https://github.com/aminespinoza10/CommUnity/pull/85#pullrequestreview-2943156468) in [aminespinoza10/CommUnity](https://github.com/aminespinoza10/CommUnity)<br>
+1. ⬆️ Pushed 3 commit(s) to [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
+2. 🎉 Merged PR [#8](https://github.com/aminespinoza10/El-camino-de-DevOps/pull/8) in [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
+3. ❌ Closed PR [#30](https://github.com/platzi/git-github/pull/30) in [platzi/git-github](https://github.com/platzi/git-github)<br>
+4. ❌ Closed PR [#28](https://github.com/platzi/git-github/pull/28) in [platzi/git-github](https://github.com/platzi/git-github)<br>
+5. ❌ Closed PR [#31](https://github.com/platzi/git-github/pull/31) in [platzi/git-github](https://github.com/platzi/git-github)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 23rd, 2025, 1:39:53 PM
+Last Updated: Tuesday, June 24th, 2025, 1:23:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
