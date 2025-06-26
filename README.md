@@ -41,11 +41,11 @@ Last Updated: Thursday, June 26th, 2025, 1:37:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Por qué casi nunca hablo de Kubernetes? Y tampoco deberías preocuparte de eso...](https://www.youtube.com/watch?v=UGtbowdpo9A)
 - [Aprendiendo a usar RabbitMQ a profundidad](https://www.youtube.com/watch?v=UQHe5s7M1Fs)
 - [Crash course: IA, programación y DevOps ¡Vuélvete el mejor ingeniero de software!](https://www.youtube.com/watch?v=t3deXJrPmBc)
 - [Fundamentos de ingeniería #7: Cobertura de código](https://www.youtube.com/shorts/Oklh9cspspk)
 - [Hablemos con nuestros Product Managers con una cerveza!](https://www.youtube.com/watch?v=ZFKq9rw62Yo)
-- [Fundamentos de ingeniería #6 Siempre crea una tarea para tu actividad](https://www.youtube.com/shorts/mKcrCymzep8)
 <!-- YOUTUBE:END -->
 
 
