@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
-2. 🎉 Merged PR [#8](https://github.com/aminespinoza10/El-camino-de-DevOps/pull/8) in [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
-3. ❌ Closed PR [#30](https://github.com/platzi/git-github/pull/30) in [platzi/git-github](https://github.com/platzi/git-github)<br>
-4. ❌ Closed PR [#28](https://github.com/platzi/git-github/pull/28) in [platzi/git-github](https://github.com/platzi/git-github)<br>
-5. ❌ Closed PR [#31](https://github.com/platzi/git-github/pull/31) in [platzi/git-github](https://github.com/platzi/git-github)<br>
+1. ⬆️ Pushed 2 commit(s) to [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
+2. 🎉 Merged PR [#5](https://github.com/aminespinoza10/Curso-Microservicios/pull/5) in [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
+3. 💪 Opened PR [#5](https://github.com/aminespinoza10/Curso-Microservicios/pull/5) in [aminespinoza10/Curso-Microservicios](https://github.com/aminespinoza10/Curso-Microservicios)<br>
+4. ⬆️ Pushed 3 commit(s) to [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
+5. 🎉 Merged PR [#8](https://github.com/aminespinoza10/El-camino-de-DevOps/pull/8) in [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 1st, 2025, 2:25:43 AM
+Last Updated: Tuesday, July 1st, 2025, 12:36:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
