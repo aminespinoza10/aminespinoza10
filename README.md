@@ -41,11 +41,11 @@ Last Updated: Saturday, July 12th, 2025, 1:25:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿La Inteligencia Artificial me quitó mi trabajo?](https://www.youtube.com/watch?v=S-YOBrSgf-s)
 - [¿Para qué sirve la programación?](https://www.youtube.com/watch?v=OXKefvoVlRs)
 - [Software y cervezas. Hablemos de los nuevos horizontes profesionales](https://www.youtube.com/watch?v=Yl0uE-ScFcs)
 - [Dejaré de trabajar en Microsoft...](https://www.youtube.com/watch?v=CnjiixSibUU)
 - [Curso express: Aprende lo básico de Observabilidad](https://www.youtube.com/watch?v=GkwSfIo-vGs)
-- [¿Por qué casi nunca hablo de Kubernetes? Y tampoco deberías preocuparte de eso...](https://www.youtube.com/watch?v=UGtbowdpo9A)
 <!-- YOUTUBE:END -->
 
 
