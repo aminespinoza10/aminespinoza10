@@ -41,11 +41,11 @@ Last Updated: Sunday, July 13th, 2025, 1:26:17 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #8: Agrega pruebas end to end &lpar;e2e&rpar;](https://www.youtube.com/shorts/5CRVUJx1BmE)
 - [¿La Inteligencia Artificial me quitó mi trabajo?](https://www.youtube.com/watch?v=S-YOBrSgf-s)
 - [¿Para qué sirve la programación?](https://www.youtube.com/watch?v=OXKefvoVlRs)
 - [Software y cervezas. Hablemos de los nuevos horizontes profesionales](https://www.youtube.com/watch?v=Yl0uE-ScFcs)
 - [Dejaré de trabajar en Microsoft...](https://www.youtube.com/watch?v=CnjiixSibUU)
-- [Curso express: Aprende lo básico de Observabilidad](https://www.youtube.com/watch?v=GkwSfIo-vGs)
 <!-- YOUTUBE:END -->
 
 
