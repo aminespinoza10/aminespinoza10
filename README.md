@@ -41,11 +41,11 @@ Last Updated: Tuesday, July 15th, 2025, 1:42:32 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #9: Todos tus proyectos deben usar CI/CD](https://www.youtube.com/shorts/GyJP-qV7RQM)
 - [Fundamentos de ingeniería #8: Agrega pruebas end to end &lpar;e2e&rpar;](https://www.youtube.com/shorts/5CRVUJx1BmE)
 - [¿La Inteligencia Artificial me quitó mi trabajo?](https://www.youtube.com/watch?v=S-YOBrSgf-s)
 - [¿Para qué sirve la programación?](https://www.youtube.com/watch?v=OXKefvoVlRs)
 - [Software y cervezas. Hablemos de los nuevos horizontes profesionales](https://www.youtube.com/watch?v=Yl0uE-ScFcs)
-- [Dejaré de trabajar en Microsoft...](https://www.youtube.com/watch?v=CnjiixSibUU)
 <!-- YOUTUBE:END -->
 
 
