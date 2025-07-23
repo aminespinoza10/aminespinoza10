@@ -41,7 +41,7 @@ Last Updated: Wednesday, July 23rd, 2025, 1:44:52 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡Aprende los conceptos básicos de bases de datos en menos de 15 minutos!](https://www.youtube.com/watch?v=F_btUUCvbZc)
+- [¡Aprende los conceptos básicos de bases de datos en menos de 15 minutos!](https://www.youtube.com/watch?v=iap_Kct8pus)
 - [Fundamentos de ingeniería #9: Todos tus proyectos deben usar CI/CD](https://www.youtube.com/shorts/GyJP-qV7RQM)
 - [Fundamentos de ingeniería #8: Agrega pruebas end to end &lpar;e2e&rpar;](https://www.youtube.com/shorts/5CRVUJx1BmE)
 - [¿La Inteligencia Artificial me quitó mi trabajo?](https://www.youtube.com/watch?v=S-YOBrSgf-s)
