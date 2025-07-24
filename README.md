@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples)<br>
-2. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br>
-3. ⭐ Starred [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)<br>
-4. ⬆️ Pushed 1 commit(s) to [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
+1. ⭐ Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)<br>
+2. ⭐ Starred [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples)<br>
+3. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br>
+4. ⭐ Starred [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)<br>
 5. ⬆️ Pushed 1 commit(s) to [platzi/curso-mcp](https://github.com/platzi/curso-mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 24th, 2025, 2:21:23 AM
+Last Updated: Thursday, July 24th, 2025, 12:38:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
