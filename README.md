@@ -41,11 +41,11 @@ Last Updated: Tuesday, July 29th, 2025, 1:28:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Esto es lo primero que debes hacer después de crear un repo en Github...](https://www.youtube.com/watch?v=e9HZHwjOnYQ)
 - [Software y cervezas. Iniciando un proyecto desde cero](https://www.youtube.com/watch?v=q8hr4xnfhCI)
 - [¡Aprende los conceptos básicos de bases de datos en menos de 15 minutos!](https://www.youtube.com/watch?v=iap_Kct8pus)
 - [Fundamentos de ingeniería #9: Todos tus proyectos deben usar CI/CD](https://www.youtube.com/shorts/GyJP-qV7RQM)
 - [Fundamentos de ingeniería #8: Agrega pruebas end to end &lpar;e2e&rpar;](https://www.youtube.com/shorts/5CRVUJx1BmE)
-- [¿La Inteligencia Artificial me quitó mi trabajo?](https://www.youtube.com/watch?v=S-YOBrSgf-s)
 <!-- YOUTUBE:END -->
 
 
