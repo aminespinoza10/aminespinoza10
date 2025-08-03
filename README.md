@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Tu-mejor-version](https://github.com/aminespinoza10/Tu-mejor-version)<br>
+1. 📔 Created new repository [aminespinoza10/Conceptos-ingenieria](https://github.com/aminespinoza10/Conceptos-ingenieria)<br>
 2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Tu-mejor-version](https://github.com/aminespinoza10/Tu-mejor-version)<br>
-3. 📔 Created new repository [aminespinoza10/Tu-mejor-version](https://github.com/aminespinoza10/Tu-mejor-version)<br>
-4. ⭐ Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)<br>
-5. ⭐ Starred [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples)<br>
+3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Tu-mejor-version](https://github.com/aminespinoza10/Tu-mejor-version)<br>
+4. 📔 Created new repository [aminespinoza10/Tu-mejor-version](https://github.com/aminespinoza10/Tu-mejor-version)<br>
+5. ⭐ Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 2nd, 2025, 1:32:09 PM
+Last Updated: Sunday, August 3rd, 2025, 1:46:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
