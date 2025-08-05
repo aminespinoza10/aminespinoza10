@@ -41,11 +41,11 @@ Last Updated: Tuesday, August 5th, 2025, 2:27:06 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo exportar tus recursos de Azure a Terraform?](https://www.youtube.com/shorts/XORFtxWr2fA)
 - [Fundamentos de ingeniería #11: Asegura la información en tránsito](https://www.youtube.com/shorts/8dnsOUbrWsM)
 - [Fundamentos de ingeniería #10: El mínimo privilegio posible](https://www.youtube.com/shorts/m-t_oIuOZIU)
 - [Esto es lo primero que debes hacer después de crear un repo en Github...](https://www.youtube.com/watch?v=e9HZHwjOnYQ)
 - [Software y cervezas. Iniciando un proyecto desde cero](https://www.youtube.com/watch?v=q8hr4xnfhCI)
-- [¡Aprende los conceptos básicos de bases de datos en menos de 15 minutos!](https://www.youtube.com/watch?v=iap_Kct8pus)
 <!-- YOUTUBE:END -->
 
 
