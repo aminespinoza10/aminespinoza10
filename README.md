@@ -41,11 +41,11 @@ Last Updated: Wednesday, August 6th, 2025, 1:29:31 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Por qué deberías aprender Terraform en lugar de Bicep o Amazon CDK?](https://www.youtube.com/shorts/wkGExwOouDI)
 - [Idempotencia, una joya oculta que hará a tus API muy felices &lpar;y a ti&rpar;](https://www.youtube.com/watch?v=J4oiZtQhmEU)
 - [¿Cómo exportar tus recursos de Azure a Terraform?](https://www.youtube.com/shorts/XORFtxWr2fA)
 - [Fundamentos de ingeniería #11: Asegura la información en tránsito](https://www.youtube.com/shorts/8dnsOUbrWsM)
 - [Fundamentos de ingeniería #10: El mínimo privilegio posible](https://www.youtube.com/shorts/m-t_oIuOZIU)
-- [Esto es lo primero que debes hacer después de crear un repo en Github...](https://www.youtube.com/watch?v=e9HZHwjOnYQ)
 <!-- YOUTUBE:END -->
 
 
