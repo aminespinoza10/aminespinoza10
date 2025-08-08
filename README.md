@@ -41,11 +41,11 @@ Last Updated: Thursday, August 7th, 2025, 1:28:03 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Software y cervezas. Los temas por venir en el canal.](https://www.youtube.com/watch?v=DvJDwb97v0Q)
 - [¿Por qué deberías aprender Terraform en lugar de Bicep o Amazon CDK?](https://www.youtube.com/shorts/wkGExwOouDI)
 - [Idempotencia, una joya oculta que hará a tus API muy felices &lpar;y a ti&rpar;](https://www.youtube.com/watch?v=J4oiZtQhmEU)
 - [¿Cómo exportar tus recursos de Azure a Terraform?](https://www.youtube.com/shorts/XORFtxWr2fA)
 - [Fundamentos de ingeniería #11: Asegura la información en tránsito](https://www.youtube.com/shorts/8dnsOUbrWsM)
-- [Fundamentos de ingeniería #10: El mínimo privilegio posible](https://www.youtube.com/shorts/m-t_oIuOZIU)
 <!-- YOUTUBE:END -->
 
 
