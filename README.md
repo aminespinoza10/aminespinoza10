@@ -41,11 +41,11 @@ Last Updated: Monday, August 11th, 2025, 1:46:25 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Concurrencia: La magia oculta en los lenguajes de programación.](https://www.youtube.com/watch?v=DENi2vK1uG4)
 - [¿Cuál es la diferencia entre una terminal y bash?](https://www.youtube.com/shorts/9yMsU7I3mOw)
 - [Fundamentos de ingeniería #12: Implementa observabilidad](https://www.youtube.com/shorts/xSIQd5tAuvA)
 - [Software y cervezas. Los temas por venir en el canal.](https://www.youtube.com/watch?v=DvJDwb97v0Q)
 - [¿Por qué deberías aprender Terraform en lugar de Bicep o Amazon CDK?](https://www.youtube.com/shorts/wkGExwOouDI)
-- [Idempotencia, una joya oculta que hará a tus API muy felices &lpar;y a ti&rpar;](https://www.youtube.com/watch?v=J4oiZtQhmEU)
 <!-- YOUTUBE:END -->
 
 
