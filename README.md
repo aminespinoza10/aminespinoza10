@@ -41,11 +41,11 @@ Last Updated: Monday, September 1st, 2025, 1:29:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Por qué existen tantas &quot;Ops&quot; como DevOps?](https://www.youtube.com/watch?v=FalPzDO8C6g)
 - [Concurrencia: La magia oculta en los lenguajes de programación.](https://www.youtube.com/watch?v=DENi2vK1uG4)
 - [¿Cuál es la diferencia entre una terminal y bash?](https://www.youtube.com/shorts/9yMsU7I3mOw)
 - [Fundamentos de ingeniería #12: Implementa observabilidad](https://www.youtube.com/shorts/xSIQd5tAuvA)
 - [Software y cervezas. Los temas por venir en el canal.](https://www.youtube.com/watch?v=DvJDwb97v0Q)
-- [¿Por qué deberías aprender Terraform en lugar de Bicep o Amazon CDK?](https://www.youtube.com/shorts/wkGExwOouDI)
 <!-- YOUTUBE:END -->
 
 
