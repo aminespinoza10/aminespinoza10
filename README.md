@@ -41,11 +41,11 @@ Last Updated: Thursday, September 4th, 2025, 1:18:59 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos de herramientas de DevOps](https://www.youtube.com/watch?v=igTx8nvzkSQ)
 - [¿Por qué existen tantas &quot;Ops&quot; como DevOps?](https://www.youtube.com/watch?v=FalPzDO8C6g)
 - [Concurrencia: La magia oculta en los lenguajes de programación.](https://www.youtube.com/watch?v=DENi2vK1uG4)
 - [¿Cuál es la diferencia entre una terminal y bash?](https://www.youtube.com/shorts/9yMsU7I3mOw)
 - [Fundamentos de ingeniería #12: Implementa observabilidad](https://www.youtube.com/shorts/xSIQd5tAuvA)
-- [Software y cervezas. Los temas por venir en el canal.](https://www.youtube.com/watch?v=DvJDwb97v0Q)
 <!-- YOUTUBE:END -->
 
 
