@@ -41,11 +41,11 @@ Last Updated: Monday, September 15th, 2025, 1:26:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende a usar los códigos HTTP en tus API](https://www.youtube.com/watch?v=6-b05kHCtFw)
 - [¡Esta es la mejor ruta para volverte AI Engineer!](https://www.youtube.com/watch?v=1vb_9l-4E8Q)
 - [Un tour por el nuevo setup de grabación](https://www.youtube.com/watch?v=6d8JwdrADXk)
 - [Hablemos de herramientas de DevOps](https://www.youtube.com/watch?v=igTx8nvzkSQ)
 - [¿Por qué existen tantas &quot;Ops&quot; como DevOps?](https://www.youtube.com/watch?v=FalPzDO8C6g)
-- [Concurrencia: La magia oculta en los lenguajes de programación.](https://www.youtube.com/watch?v=DENi2vK1uG4)
 <!-- YOUTUBE:END -->
 
 
