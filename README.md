@@ -41,7 +41,7 @@ Last Updated: Tuesday, September 16th, 2025, 1:26:15 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Aprende a usar los códigos HTTP en tus API](https://www.youtube.com/watch?v=6-b05kHCtFw)
+- [System Design: Aprende a usar los códigos HTTP en tus API](https://www.youtube.com/watch?v=6-b05kHCtFw)
 - [¡Esta es la mejor ruta para volverte AI Engineer!](https://www.youtube.com/watch?v=1vb_9l-4E8Q)
 - [Un tour por el nuevo setup de grabación](https://www.youtube.com/watch?v=6d8JwdrADXk)
 - [Hablemos de herramientas de DevOps](https://www.youtube.com/watch?v=igTx8nvzkSQ)
