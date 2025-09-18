@@ -41,11 +41,11 @@ Last Updated: Thursday, September 18th, 2025, 1:23:27 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Analizando el mercado laboral](https://www.youtube.com/watch?v=flXbjLZHeBQ)
 - [Diseño de sistemas: Agrega Swagger a tu API](https://www.youtube.com/watch?v=bFcyjrxlK60)
 - [Volviéndo a lo básico: ¿Qué tanto sabes del código ASCII?](https://www.youtube.com/shorts/jZ3-d0RMeEA)
 - [System Design: Aprende a usar los códigos HTTP en tus API](https://www.youtube.com/watch?v=6-b05kHCtFw)
 - [¡Esta es la mejor ruta para volverte AI Engineer!](https://www.youtube.com/watch?v=1vb_9l-4E8Q)
-- [Un tour por el nuevo setup de grabación](https://www.youtube.com/watch?v=6d8JwdrADXk)
 <!-- YOUTUBE:END -->
 
 
