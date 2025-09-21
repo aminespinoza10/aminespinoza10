@@ -1,6 +1,6 @@
 # Hola, soy Amin Espinoza
 
-:computer: **Ingeniero de Software en Microsoft**  
+:computer: **Ingeniero de Software independiente**  
 :pencil: **Generador de contenido**  
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**  
