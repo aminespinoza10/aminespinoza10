@@ -41,11 +41,11 @@ Last Updated: Monday, September 22nd, 2025, 1:28:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #13: Uso práctico de los logs](https://www.youtube.com/shorts/avDNXyzI4u4)
 - [Practica tu lógica de pensamiento y sintaxis al mismo tiempo.](https://www.youtube.com/shorts/JJeHrnlWTlA)
 - [Analizando el mercado laboral](https://www.youtube.com/watch?v=flXbjLZHeBQ)
 - [System Design: Agrega Swagger a tu API](https://www.youtube.com/watch?v=bFcyjrxlK60)
 - [Volviéndo a lo básico: ¿Qué tanto sabes del código ASCII?](https://www.youtube.com/shorts/jZ3-d0RMeEA)
-- [System Design: Aprende a usar los códigos HTTP en tus API](https://www.youtube.com/watch?v=6-b05kHCtFw)
 <!-- YOUTUBE:END -->
 
 
