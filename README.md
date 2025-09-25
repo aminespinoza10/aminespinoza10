@@ -41,11 +41,11 @@ Last Updated: Thursday, September 25th, 2025, 1:30:08 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Jugando con Terraform y tres nubes diferentes.](https://www.youtube.com/watch?v=NT8nBHdJn6M)
 - [¡Evita que te suceda esto con tus agentes inteligentes!](https://www.youtube.com/shorts/YmHKwPHwibo)
 - [¿Quieres mejorar tu experiencia practicando SQL?](https://www.youtube.com/shorts/ScicYQISbnk)
 - [Fundamentos de ingeniería #13: Uso práctico de los logs](https://www.youtube.com/shorts/avDNXyzI4u4)
 - [Practica tu lógica de pensamiento y sintaxis al mismo tiempo.](https://www.youtube.com/shorts/JJeHrnlWTlA)
-- [Analizando el mercado laboral](https://www.youtube.com/watch?v=flXbjLZHeBQ)
 <!-- YOUTUBE:END -->
 
 
