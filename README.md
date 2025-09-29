@@ -41,11 +41,11 @@ Last Updated: Monday, September 29th, 2025, 1:31:28 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [System Design: Implementa Autenticación en tus API con API Keys, JWT y OAuth rápidamente.](https://www.youtube.com/watch?v=Yk9LGVSGpoM)
 - [Jugando con Terraform y tres nubes diferentes.](https://www.youtube.com/watch?v=NT8nBHdJn6M)
 - [¡Evita que te suceda esto con tus agentes inteligentes!](https://www.youtube.com/shorts/YmHKwPHwibo)
 - [¿Quieres mejorar tu experiencia practicando SQL?](https://www.youtube.com/shorts/ScicYQISbnk)
 - [Fundamentos de ingeniería #13: Uso práctico de los logs](https://www.youtube.com/shorts/avDNXyzI4u4)
-- [Practica tu lógica de pensamiento y sintaxis al mismo tiempo.](https://www.youtube.com/shorts/JJeHrnlWTlA)
 <!-- YOUTUBE:END -->
 
 
