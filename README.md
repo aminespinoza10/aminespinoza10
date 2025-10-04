@@ -41,11 +41,11 @@ Last Updated: Saturday, October 4th, 2025, 1:25:04 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Qué es OpenApi y por qué te debe interesar?](https://www.youtube.com/shorts/cebnNa-38Ac)
 - [Parte 2: Jugando con Terraform y tres nubes diferentes](https://www.youtube.com/watch?v=KsePYmI9Rnw)
 - [¿Siempre debo usar la última versión de mi lenguaje de programación?](https://www.youtube.com/shorts/3o_QFpt9EP4)
 - [System Design: Implementa Autenticación en tus API con API Keys, JWT y OAuth rápidamente.](https://www.youtube.com/watch?v=Yk9LGVSGpoM)
 - [Jugando con Terraform y tres nubes diferentes.](https://www.youtube.com/watch?v=NT8nBHdJn6M)
-- [¡Evita que te suceda esto con tus agentes inteligentes!](https://www.youtube.com/shorts/YmHKwPHwibo)
 <!-- YOUTUBE:END -->
 
 
