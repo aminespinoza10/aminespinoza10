@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
-5. ⬆️ Pushed 2 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
+1. 💪 Opened PR [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+2. ⬆️ Pushed 37 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 7th, 2025, 1:29:13 PM
+Last Updated: Wednesday, October 8th, 2025, 1:14:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
