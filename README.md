@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
-2. ⬆️ Pushed 37 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
+1. ⬆️ Pushed 19 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
+2. 💬 Commented on [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013#issuecomment-3381393772) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+3. 💪 Opened PR [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+4. ⬆️ Pushed 37 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 8th, 2025, 1:29:30 PM
+Last Updated: Thursday, October 9th, 2025, 1:15:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
