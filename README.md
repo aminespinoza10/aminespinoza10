@@ -36,7 +36,7 @@
 5. 💪 Opened PR [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 12th, 2025, 12:30:36 PM
+Last Updated: Sunday, October 12th, 2025, 12:45:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
