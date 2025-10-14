@@ -41,11 +41,11 @@ Last Updated: Tuesday, October 14th, 2025, 1:34:10 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [System Design: Agrega bases de datos a tus API](https://www.youtube.com/watch?v=oZ0i6ilbo3g)
 - [En fin, la doble moral de un padre...](https://www.youtube.com/shorts/LRQiC78Ry7k)
 - [Noticias Tech de la semana](https://www.youtube.com/watch?v=Xg1WaIUsr6E)
 - [¿Qué es OpenApi y por qué te debe interesar?](https://www.youtube.com/shorts/cebnNa-38Ac)
 - [Parte 2: Jugando con Terraform y tres nubes diferentes](https://www.youtube.com/watch?v=KsePYmI9Rnw)
-- [¿Siempre debo usar la última versión de mi lenguaje de programación?](https://www.youtube.com/shorts/3o_QFpt9EP4)
 <!-- YOUTUBE:END -->
 
 
