@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
-2. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
-4. ⬆️ Pushed 19 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
-5. 💬 Commented on [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013#issuecomment-3381393772) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+1. 🔱 Forked [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io) from [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+2. ❌ Closed PR [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
+3. ⬆️ Pushed 37 commit(s) to [aminespinoza10/opentelemetry.io](https://github.com/aminespinoza10/opentelemetry.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
+5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/Master-of-APIs](https://github.com/aminespinoza10/Master-of-APIs)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 13th, 2025, 1:30:45 PM
+Last Updated: Tuesday, October 14th, 2025, 1:15:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
