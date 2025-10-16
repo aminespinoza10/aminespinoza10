@@ -36,7 +36,7 @@
 5. 💬 Commented on [#8013](https://github.com/open-telemetry/opentelemetry.io/pull/8013#issuecomment-3381393772) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 16th, 2025, 12:36:41 PM
+Last Updated: Thursday, October 16th, 2025, 12:54:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
