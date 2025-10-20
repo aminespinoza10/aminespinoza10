@@ -41,11 +41,11 @@ Last Updated: Monday, October 20th, 2025, 1:31:39 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Observabilidad vs Monitoreo ¿Cuál es la diferencia?](https://www.youtube.com/shorts/udACxdsToQY)
 - [Fundamentos de Ingeniería #14: Implementa trazabilidad en tus aplicaciones distribuidas](https://www.youtube.com/shorts/bkPVxnx4br8)
 - [Refactorizando mis API](https://www.youtube.com/watch?v=bFoAq2xEYXI)
 - [System Design: Agrega bases de datos a tus API](https://www.youtube.com/watch?v=oZ0i6ilbo3g)
 - [En fin, la doble moral de un padre...](https://www.youtube.com/shorts/LRQiC78Ry7k)
-- [Noticias Tech de la semana](https://www.youtube.com/watch?v=Xg1WaIUsr6E)
 <!-- YOUTUBE:END -->
 
 
