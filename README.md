@@ -41,11 +41,11 @@ Last Updated: Thursday, October 23rd, 2025, 1:36:26 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Practicando para entrevistas con Leetcode.](https://www.youtube.com/watch?v=BhBo1ICFmW4)
 - [Estuve programando en Windows, Mac y Ubuntu por un mes, esto pasó](https://www.youtube.com/watch?v=N0ptcaEG1pg)
 - [Observabilidad vs Monitoreo ¿Cuál es la diferencia?](https://www.youtube.com/shorts/udACxdsToQY)
 - [Fundamentos de Ingeniería #14: Implementa trazabilidad en tus aplicaciones distribuidas](https://www.youtube.com/shorts/bkPVxnx4br8)
 - [Refactorizando mis API](https://www.youtube.com/watch?v=bFoAq2xEYXI)
-- [System Design: Agrega bases de datos a tus API](https://www.youtube.com/watch?v=oZ0i6ilbo3g)
 <!-- YOUTUBE:END -->
 
 
