@@ -41,8 +41,8 @@ Last Updated: Friday, October 24th, 2025, 1:34:02 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¿Qué modelos de IA están ganando más en qué temas?](https://www.youtube.com/shorts/ZnBJbDR6pfk)
 - [Practicando para entrevistas con Leetcode.](https://www.youtube.com/watch?v=BhBo1ICFmW4)
+- [¿Qué modelos de IA están ganando más en qué temas?](https://www.youtube.com/shorts/ZnBJbDR6pfk)
 - [Estuve programando en Windows, Mac y Ubuntu por un mes, esto pasó](https://www.youtube.com/watch?v=N0ptcaEG1pg)
 - [Observabilidad vs Monitoreo ¿Cuál es la diferencia?](https://www.youtube.com/shorts/udACxdsToQY)
 - [Fundamentos de Ingeniería #14: Implementa trazabilidad en tus aplicaciones distribuidas](https://www.youtube.com/shorts/bkPVxnx4br8)
