@@ -41,11 +41,11 @@ Last Updated: Wednesday, October 29th, 2025, 1:37:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Despliegues a 3 nubes con un solo script usando Terraform!](https://www.youtube.com/watch?v=Ioz3eAjqSKg)
 - [Esta es la navaja suiza de los desarrolladores](https://www.youtube.com/shorts/cDv6UxOs-w8)
 - [Practicando para entrevistas con Leetcode.](https://www.youtube.com/watch?v=BhBo1ICFmW4)
 - [¿Qué modelos de IA están ganando más en qué temas?](https://www.youtube.com/shorts/ZnBJbDR6pfk)
 - [Estuve programando en Windows, Mac y Ubuntu por un mes, esto pasó](https://www.youtube.com/watch?v=N0ptcaEG1pg)
-- [Observabilidad vs Monitoreo ¿Cuál es la diferencia?](https://www.youtube.com/shorts/udACxdsToQY)
 <!-- YOUTUBE:END -->
 
 
