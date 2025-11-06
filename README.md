@@ -41,11 +41,11 @@ Last Updated: Thursday, November 6th, 2025, 1:34:45 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Autenticación vs autorización ¿Cuál es la diferencia?](https://www.youtube.com/shorts/ekDSa0ruDN8)
 - [System Design: Protege todas tus contraseñas con un hash](https://www.youtube.com/watch?v=u9M9YcLume0)
 - [¡Despliegues a 3 nubes con un solo script usando Terraform!](https://www.youtube.com/watch?v=Ioz3eAjqSKg)
 - [Esta es la navaja suiza de los desarrolladores](https://www.youtube.com/shorts/cDv6UxOs-w8)
 - [Practicando para entrevistas con Leetcode.](https://www.youtube.com/watch?v=BhBo1ICFmW4)
-- [¿Qué modelos de IA están ganando más en qué temas?](https://www.youtube.com/shorts/ZnBJbDR6pfk)
 <!-- YOUTUBE:END -->
 
 
