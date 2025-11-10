@@ -41,11 +41,11 @@ Last Updated: Monday, November 10th, 2025, 1:36:02 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Estos libros acelerarán mucho tu carrera!](https://www.youtube.com/watch?v=-qWl5qd7WXY)
 - [Fundamentos de ingeniería #15: La observabilidad nunca debe comprometer información sensible](https://www.youtube.com/shorts/BFeohUip424)
 - [Platicando de algunos proyectos](https://www.youtube.com/watch?v=yXctGuUWySI)
 - [Autenticación vs autorización ¿Cuál es la diferencia?](https://www.youtube.com/shorts/ekDSa0ruDN8)
 - [System Design: Protege todas tus contraseñas con un hash](https://www.youtube.com/watch?v=u9M9YcLume0)
-- [¡Despliegues a 3 nubes con un solo script usando Terraform!](https://www.youtube.com/watch?v=Ioz3eAjqSKg)
 <!-- YOUTUBE:END -->
 
 
