@@ -41,11 +41,11 @@ Last Updated: Tuesday, November 11th, 2025, 1:33:29 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Mamá Judith Coco Fest 2025](https://www.youtube.com/shorts/7KPukJyaPgE)
 - [¡Estos libros acelerarán mucho tu carrera!](https://www.youtube.com/watch?v=-qWl5qd7WXY)
 - [Fundamentos de ingeniería #15: La observabilidad nunca debe comprometer información sensible](https://www.youtube.com/shorts/BFeohUip424)
 - [Platicando de algunos proyectos](https://www.youtube.com/watch?v=yXctGuUWySI)
 - [Autenticación vs autorización ¿Cuál es la diferencia?](https://www.youtube.com/shorts/ekDSa0ruDN8)
-- [System Design: Protege todas tus contraseñas con un hash](https://www.youtube.com/watch?v=u9M9YcLume0)
 <!-- YOUTUBE:END -->
 
 
