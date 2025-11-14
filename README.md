@@ -41,11 +41,11 @@ Last Updated: Friday, November 14th, 2025, 1:32:28 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Charlas &amp; comunidad.](https://www.youtube.com/shorts/SGIAV89hdko)
 - [¿Cómo tener un perfil profesional atractivo?](https://www.youtube.com/watch?v=to4t-K0sD8I)
 - [Mamá Judith Coco Fest 2025](https://www.youtube.com/shorts/7KPukJyaPgE)
 - [¡Estos libros acelerarán mucho tu carrera!](https://www.youtube.com/watch?v=-qWl5qd7WXY)
 - [Fundamentos de ingeniería #15: La observabilidad nunca debe comprometer información sensible](https://www.youtube.com/shorts/BFeohUip424)
-- [Platicando de algunos proyectos](https://www.youtube.com/watch?v=yXctGuUWySI)
 <!-- YOUTUBE:END -->
 
 
