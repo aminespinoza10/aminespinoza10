@@ -41,11 +41,11 @@ Last Updated: Tuesday, November 18th, 2025, 2:02:45 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #16: Define a los encargados del backlog](https://www.youtube.com/shorts/LIDQDC2zUDk)
 - [Hablemos de ciberseguridad con Marcelo Felman.](https://www.youtube.com/watch?v=qltGcrk5OZ4)
 - [Charlas &amp; comunidad.](https://www.youtube.com/shorts/SGIAV89hdko)
 - [¿Cómo tener un perfil profesional atractivo?](https://www.youtube.com/watch?v=to4t-K0sD8I)
 - [Mamá Judith Coco Fest 2025](https://www.youtube.com/shorts/7KPukJyaPgE)
-- [¡Estos libros acelerarán mucho tu carrera!](https://www.youtube.com/watch?v=-qWl5qd7WXY)
 <!-- YOUTUBE:END -->
 
 
