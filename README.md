@@ -41,9 +41,9 @@ Last Updated: Friday, November 21st, 2025, 1:29:45 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos de ciberseguridad con Marcelo Felman.](https://www.youtube.com/watch?v=qltGcrk5OZ4)
 - [Fundamentos de ingeniería #17: SIEMPRE arregla un acuerdo de trabajo](https://www.youtube.com/shorts/F5HMT6uHwaM)
 - [Fundamentos de ingeniería #16: Define a los encargados del backlog](https://www.youtube.com/shorts/LIDQDC2zUDk)
-- [Hablemos de ciberseguridad con Marcelo Felman.](https://www.youtube.com/watch?v=qltGcrk5OZ4)
 - [Charlas &amp; comunidad.](https://www.youtube.com/shorts/SGIAV89hdko)
 - [¿Cómo tener un perfil profesional atractivo?](https://www.youtube.com/watch?v=to4t-K0sD8I)
 <!-- YOUTUBE:END -->
