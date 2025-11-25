@@ -41,11 +41,11 @@ Last Updated: Tuesday, November 25th, 2025, 1:38:50 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #19: Diseña a tu sistema](https://www.youtube.com/shorts/96DT63PlQj4)
 - [Fundamentos de ingeniería #18: Establece ceremonias ágiles](https://www.youtube.com/shorts/Qt3Ps_2iDtM)
 - [Hablemos de desarrollo móvil con Humberto Jaimes](https://www.youtube.com/watch?v=dH1z-wEHLtE)
 - [Hablemos de crecimiento profesional con Marcelo Felman.](https://www.youtube.com/watch?v=qltGcrk5OZ4)
 - [Fundamentos de ingeniería #17: SIEMPRE arregla un acuerdo de trabajo](https://www.youtube.com/shorts/F5HMT6uHwaM)
-- [Fundamentos de ingeniería #16: Define a los encargados del backlog](https://www.youtube.com/shorts/LIDQDC2zUDk)
 <!-- YOUTUBE:END -->
 
 
