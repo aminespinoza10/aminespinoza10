@@ -39,11 +39,11 @@ Last Updated: Monday, December 1st, 2025, 1:22:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Fundamentos de ingeniería #20: La manera correcta de tener un code review](https://www.youtube.com/shorts/7_gy0Px_GP8)
 - [¡Hablemos del Octoverse 2025!](https://www.youtube.com/watch?v=Vz5bQmkArWI)
 - [Hablemos de desarrollo móvil con Humberto Jaimes](https://www.youtube.com/watch?v=dH1z-wEHLtE)
 - [¿Conoces la diferencia entre lenguajes de programación compilados e interpretados?](https://www.youtube.com/watch?v=dPhiLRrXvQo)
 - [Fundamentos de ingeniería #19: Diseña a tu sistema](https://www.youtube.com/shorts/96DT63PlQj4)
-- [Fundamentos de ingeniería #18: Establece ceremonias ágiles](https://www.youtube.com/shorts/Qt3Ps_2iDtM)
 <!-- YOUTUBE:END -->
 
 
