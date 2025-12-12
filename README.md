@@ -41,11 +41,11 @@ Last Updated: Friday, December 12th, 2025, 1:40:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Creando agentes locales](https://www.youtube.com/watch?v=lFajLohmmSk)
 - [Chismecito Geek](https://www.youtube.com/watch?v=iaz1i8ygMVc)
 - [El software perfecto no existe &lpar;y no deberías buscarlo&rpar;](https://www.youtube.com/watch?v=OGhqCf-xhm4)
 - [¡Hablemos del Octoverse 2025!](https://www.youtube.com/watch?v=Vz5bQmkArWI)
 - [Fundamentos de ingeniería #20: La manera correcta de tener un code review](https://www.youtube.com/shorts/7_gy0Px_GP8)
-- [Hablemos de desarrollo móvil con Humberto Jaimes](https://www.youtube.com/watch?v=dH1z-wEHLtE)
 <!-- YOUTUBE:END -->
 
 
