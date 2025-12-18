@@ -41,11 +41,11 @@ Last Updated: Thursday, December 18th, 2025, 2:06:37 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende a manejar usuarios y grupos en Linux](https://www.youtube.com/watch?v=44Pq-2Ryx8k)
 - [Creando agentes locales](https://www.youtube.com/watch?v=lFajLohmmSk)
 - [Chismecito Geek](https://www.youtube.com/watch?v=iaz1i8ygMVc)
 - [El software perfecto no existe &lpar;y no deberías buscarlo&rpar;](https://www.youtube.com/watch?v=OGhqCf-xhm4)
 - [¡Hablemos del Octoverse 2025!](https://www.youtube.com/watch?v=Vz5bQmkArWI)
-- [Fundamentos de ingeniería #20: La manera correcta de tener un code review](https://www.youtube.com/shorts/7_gy0Px_GP8)
 <!-- YOUTUBE:END -->
 
 
