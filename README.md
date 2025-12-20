@@ -41,11 +41,11 @@ Last Updated: Saturday, December 20th, 2025, 1:26:26 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Nueva serie! Conceptos de System Design](https://www.youtube.com/shorts/zZXFRNJjQio)
 - [Creando agentes locales](https://www.youtube.com/watch?v=lFajLohmmSk)
 - [Aprende a administrar permisos en Linux con chmod](https://www.youtube.com/watch?v=fiTxCpexGFo)
 - [Aprende a manejar usuarios y grupos en Linux](https://www.youtube.com/watch?v=44Pq-2Ryx8k)
 - [Chismecito Geek](https://www.youtube.com/watch?v=iaz1i8ygMVc)
-- [El software perfecto no existe &lpar;y no deberías buscarlo&rpar;](https://www.youtube.com/watch?v=OGhqCf-xhm4)
 <!-- YOUTUBE:END -->
 
 
