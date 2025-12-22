@@ -41,11 +41,11 @@ Last Updated: Monday, December 22nd, 2025, 1:40:02 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #2: Las direcciones IP](https://www.youtube.com/shorts/xCoGKGtkebA)
 - [Diseño de sistemas #1: La arquitectura Cliente Servidor](https://www.youtube.com/shorts/Bv0W8IoS78I)
 - [¡Nueva serie! Conceptos de System Design](https://www.youtube.com/shorts/zZXFRNJjQio)
 - [Creando agentes locales](https://www.youtube.com/watch?v=lFajLohmmSk)
 - [Aprende a administrar permisos en Linux con chmod](https://www.youtube.com/watch?v=fiTxCpexGFo)
-- [Aprende a manejar usuarios y grupos en Linux](https://www.youtube.com/watch?v=44Pq-2Ryx8k)
 <!-- YOUTUBE:END -->
 
 
