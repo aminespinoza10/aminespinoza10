@@ -41,11 +41,11 @@ Last Updated: Tuesday, December 23rd, 2025, 1:42:10 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
 - [Diseño de sistemas #3: DNS](https://www.youtube.com/shorts/_PmLgejtmR4)
 - [Diseño de sistemas #2: Las direcciones IP](https://www.youtube.com/shorts/xCoGKGtkebA)
 - [Diseño de sistemas #1: La arquitectura Cliente Servidor](https://www.youtube.com/shorts/Bv0W8IoS78I)
 - [¡Nueva serie! Conceptos de System Design](https://www.youtube.com/shorts/zZXFRNJjQio)
-- [Creando agentes locales](https://www.youtube.com/watch?v=lFajLohmmSk)
 <!-- YOUTUBE:END -->
 
 
