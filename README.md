@@ -41,11 +41,11 @@ Last Updated: Sunday, December 28th, 2025, 1:33:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #5: Latencia](https://www.youtube.com/shorts/HaJhlbxgaHU)
 - [Diseño de sistemas #4: ¿Qué es un Proxy y un proxy inverso?](https://www.youtube.com/shorts/669qqy0H2xM)
 - [¡Crea tu propio proxy inverso &lpar;reverse proxy&rpar; con NGINX en menos de 10 minutos!](https://www.youtube.com/watch?v=U2GEFCi3EYA)
 - [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
 - [Diseño de sistemas #3: Los nombres de dominio](https://www.youtube.com/shorts/_PmLgejtmR4)
-- [Diseño de sistemas #2: Las direcciones IP](https://www.youtube.com/shorts/xCoGKGtkebA)
 <!-- YOUTUBE:END -->
 
 
