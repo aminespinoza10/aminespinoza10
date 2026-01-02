@@ -41,11 +41,11 @@ Last Updated: Friday, January 2nd, 2026, 1:37:35 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
 - [Diseño de sistemas #8: REST API](https://www.youtube.com/shorts/CP1A1KEDTTk)
 - [Diseño de sistemas #7: ¿Qué es una API?](https://www.youtube.com/shorts/xnG3R8Fahpo)
 - [Diseño de sistemas #6 : HTTP / HTTPS](https://www.youtube.com/shorts/pG9ielZC1CU)
 - [Diseño de sistemas #5: Latencia](https://www.youtube.com/shorts/HaJhlbxgaHU)
-- [Diseño de sistemas #4: ¿Qué es un Proxy y un proxy inverso?](https://www.youtube.com/shorts/669qqy0H2xM)
 <!-- YOUTUBE:END -->
 
 
