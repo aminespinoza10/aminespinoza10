@@ -41,11 +41,11 @@ Last Updated: Sunday, January 4th, 2026, 1:33:37 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #9: GraphQL](https://www.youtube.com/shorts/Pa9LvfMxVEc)
 - [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
 - [Diseño de sistemas #8: REST API](https://www.youtube.com/shorts/CP1A1KEDTTk)
 - [Diseño de sistemas #7: ¿Qué es una API?](https://www.youtube.com/shorts/xnG3R8Fahpo)
 - [Diseño de sistemas #6 : HTTP / HTTPS](https://www.youtube.com/shorts/pG9ielZC1CU)
-- [Diseño de sistemas #5: Latencia](https://www.youtube.com/shorts/HaJhlbxgaHU)
 <!-- YOUTUBE:END -->
 
 
