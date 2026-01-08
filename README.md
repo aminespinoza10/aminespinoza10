@@ -41,11 +41,11 @@ Last Updated: Thursday, January 8th, 2026, 1:27:49 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos a profundidad de DevOps](https://www.youtube.com/watch?v=Em5ZlzxTisU)
 - [Diseño de sistemas #10: Bases de datos](https://www.youtube.com/shorts/-MBxN4f2Dzw)
 - [Diseño de sistemas #9: GraphQL](https://www.youtube.com/shorts/Pa9LvfMxVEc)
 - [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
 - [Diseño de sistemas #8: REST API](https://www.youtube.com/shorts/CP1A1KEDTTk)
-- [Diseño de sistemas #7: ¿Qué es una API?](https://www.youtube.com/shorts/xnG3R8Fahpo)
 <!-- YOUTUBE:END -->
 
 
