@@ -41,8 +41,8 @@ Last Updated: Friday, January 9th, 2026, 1:25:53 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¡Vamos a jugar NUNCA NUNCA!](https://www.youtube.com/watch?v=YbdGlCoFkeI)
 - [Hablemos a profundidad de DevOps](https://www.youtube.com/watch?v=Em5ZlzxTisU)
+- [¡Vamos a jugar NUNCA NUNCA!](https://www.youtube.com/watch?v=YbdGlCoFkeI)
 - [Diseño de sistemas #10: Bases de datos](https://www.youtube.com/shorts/-MBxN4f2Dzw)
 - [Diseño de sistemas #9: GraphQL](https://www.youtube.com/shorts/Pa9LvfMxVEc)
 - [Platicando con mi pareja que también es desarrolladora de software...](https://www.youtube.com/watch?v=tDpAabb4bMg)
