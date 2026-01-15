@@ -41,11 +41,11 @@ Last Updated: Thursday, January 15th, 2026, 1:27:40 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #14: Balance de carga](https://www.youtube.com/shorts/4yj46aObRks)
 - [Diseño de sistemas #13: Escalabilidad horizontal](https://www.youtube.com/shorts/YmKgxodZU20)
 - [Diseño de sistemas #12: Escalabilidad vertical](https://www.youtube.com/shorts/nWRfwYUNG1A)
 - [Escalabilidad, la palabra más temida en el software](https://www.youtube.com/watch?v=Stb9dxndD5o)
 - [Diseño de sistemas #11: SQL y NoSQL](https://www.youtube.com/shorts/FerVqpvf--4)
-- [Hablemos a profundidad de DevOps](https://www.youtube.com/watch?v=Em5ZlzxTisU)
 <!-- YOUTUBE:END -->
 
 
