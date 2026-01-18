@@ -39,11 +39,11 @@ Last Updated: Sunday, January 18th, 2026, 1:32:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #15: Indexado](https://www.youtube.com/shorts/wi-EXYm98Sw)
 - [¡Vamos a jugar NUNCA NUNCA!](https://www.youtube.com/watch?v=YbdGlCoFkeI)
 - [Diseño de sistemas #14: Balance de carga](https://www.youtube.com/shorts/4yj46aObRks)
 - [Diseño de sistemas #13: Escalabilidad horizontal](https://www.youtube.com/shorts/YmKgxodZU20)
 - [Diseño de sistemas #12: Escalabilidad vertical](https://www.youtube.com/shorts/nWRfwYUNG1A)
-- [Escalabilidad, la palabra más temida en el software](https://www.youtube.com/watch?v=Stb9dxndD5o)
 <!-- YOUTUBE:END -->
 
 
