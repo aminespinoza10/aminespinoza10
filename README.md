@@ -39,11 +39,11 @@ Last Updated: Wednesday, January 21st, 2026, 1:34:13 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #17: Sharding](https://www.youtube.com/shorts/xIn1SmCKMLw)
 - [Diseño de sistemas #16: Replicación](https://www.youtube.com/shorts/fIa4M92z16U)
 - [Diseño de sistemas #15: Indexado](https://www.youtube.com/shorts/wi-EXYm98Sw)
 - [¡Vamos a jugar NUNCA NUNCA!](https://www.youtube.com/watch?v=YbdGlCoFkeI)
 - [Diseño de sistemas #14: Balance de carga](https://www.youtube.com/shorts/4yj46aObRks)
-- [Diseño de sistemas #13: Escalabilidad horizontal](https://www.youtube.com/shorts/YmKgxodZU20)
 <!-- YOUTUBE:END -->
 
 
