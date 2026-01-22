@@ -39,11 +39,11 @@ Last Updated: Thursday, January 22nd, 2026, 1:34:49 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Tips &amp; trucos para mejorar tu productividad](https://www.youtube.com/watch?v=TC1st5CYePI)
 - [Diseño de sistemas #17: Sharding](https://www.youtube.com/shorts/xIn1SmCKMLw)
 - [Diseño de sistemas #16: Replicación](https://www.youtube.com/shorts/fIa4M92z16U)
 - [Diseño de sistemas #15: Indexado](https://www.youtube.com/shorts/wi-EXYm98Sw)
 - [¡Vamos a jugar NUNCA NUNCA!](https://www.youtube.com/watch?v=YbdGlCoFkeI)
-- [Diseño de sistemas #14: Balance de carga](https://www.youtube.com/shorts/4yj46aObRks)
 <!-- YOUTUBE:END -->
 
 
