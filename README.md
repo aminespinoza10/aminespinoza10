@@ -41,11 +41,11 @@ Last Updated: Sunday, January 25th, 2026, 1:37:54 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #18: Particionado vertical](https://www.youtube.com/shorts/XVe7TXjeFiE)
 - [Tips &amp; trucos para mejorar tu productividad](https://www.youtube.com/watch?v=TC1st5CYePI)
 - [Solo los devs entenderán ese hermoso sentimiento...](https://www.youtube.com/shorts/s0dlNgoA9pQ)
 - [Diseño de sistemas #17: Sharding](https://www.youtube.com/shorts/xIn1SmCKMLw)
 - [Diseño de sistemas #16: Replicación](https://www.youtube.com/shorts/fIa4M92z16U)
-- [Diseño de sistemas #15: Indexado](https://www.youtube.com/shorts/wi-EXYm98Sw)
 <!-- YOUTUBE:END -->
 
 
