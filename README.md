@@ -41,11 +41,11 @@ Last Updated: Tuesday, January 27th, 2026, 1:34:59 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #19: Caché](https://www.youtube.com/shorts/LOEJysubaFk)
 - [¿Crees que no tienes lo que se necesita para ser un ingeniero de software?](https://www.youtube.com/watch?v=nm8W0x8YEgw)
 - [Diseño de sistemas #18: Particionado vertical](https://www.youtube.com/shorts/XVe7TXjeFiE)
 - [Tips &amp; trucos para mejorar tu productividad](https://www.youtube.com/watch?v=TC1st5CYePI)
 - [Solo los devs entenderán ese hermoso sentimiento...](https://www.youtube.com/shorts/s0dlNgoA9pQ)
-- [Diseño de sistemas #17: Sharding](https://www.youtube.com/shorts/xIn1SmCKMLw)
 <!-- YOUTUBE:END -->
 
 
