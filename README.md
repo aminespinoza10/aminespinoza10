@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples)<br>
-2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
-3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
-4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
-5. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
+1. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
+2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
+3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
+4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
+5. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 27th, 2026, 1:34:59 PM
+Last Updated: Wednesday, January 28th, 2026, 1:40:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
