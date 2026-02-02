@@ -41,11 +41,11 @@ Last Updated: Monday, February 2nd, 2026, 2:01:08 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #20: Desnormalización](https://www.youtube.com/shorts/3AhHNms9RdA)
 - [¡Vamos a crear el discord del canal!](https://www.youtube.com/watch?v=eVy3zOCkgAQ)
 - [Diseño de sistemas #19: Caché](https://www.youtube.com/shorts/LOEJysubaFk)
 - [¿Crees que no tienes lo que se necesita para ser un ingeniero de software?](https://www.youtube.com/watch?v=nm8W0x8YEgw)
 - [Diseño de sistemas #18: Particionado vertical](https://www.youtube.com/shorts/XVe7TXjeFiE)
-- [Tips &amp; trucos para mejorar tu productividad](https://www.youtube.com/watch?v=TC1st5CYePI)
 <!-- YOUTUBE:END -->
 
 
