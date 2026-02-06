@@ -42,10 +42,10 @@ Last Updated: Friday, February 6th, 2026, 1:59:28 PM
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
 - [Hablemos de finanzas para desarrolladores de software](https://www.youtube.com/watch?v=eUHL1Zq3l-Q)
+- [¡Este es el curso más completo que verás de Ollama!](https://www.youtube.com/watch?v=QQFqACTs5HI)
+- [Diseño de sistemas #21 El teorema CAP](https://www.youtube.com/shorts/OqpBOdvsHr4)
 - [Diseño de sistemas #20: Desnormalización](https://www.youtube.com/shorts/3AhHNms9RdA)
 - [¡Vamos a crear el discord del canal!](https://www.youtube.com/watch?v=eVy3zOCkgAQ)
-- [Diseño de sistemas #19: Caché](https://www.youtube.com/shorts/LOEJysubaFk)
-- [¿Crees que no tienes lo que se necesita para ser un ingeniero de software?](https://www.youtube.com/watch?v=nm8W0x8YEgw)
 <!-- YOUTUBE:END -->
 
 
