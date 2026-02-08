@@ -41,11 +41,11 @@ Last Updated: Sunday, February 8th, 2026, 1:33:14 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #23: Content Delivery Network](https://www.youtube.com/shorts/2YYGFMYL2vI)
 - [Diseño de sistemas #22: Almacenamiento de blobs](https://www.youtube.com/shorts/KqMFe2JlTE0)
 - [Hablemos de finanzas para desarrolladores de software](https://www.youtube.com/watch?v=eUHL1Zq3l-Q)
 - [¡Este es el curso más completo que verás de Ollama!](https://www.youtube.com/watch?v=QQFqACTs5HI)
 - [Diseño de sistemas #21 El teorema CAP](https://www.youtube.com/shorts/OqpBOdvsHr4)
-- [Diseño de sistemas #20: Desnormalización](https://www.youtube.com/shorts/3AhHNms9RdA)
 <!-- YOUTUBE:END -->
 
 
