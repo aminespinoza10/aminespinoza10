@@ -41,11 +41,11 @@ Last Updated: Monday, February 9th, 2026, 1:38:21 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos de consejos para emprender en tecnología](https://www.youtube.com/watch?v=ml1VdDMRzuw)
 - [Diseño de sistemas #24: Web Sockets](https://www.youtube.com/shorts/FWBjz7GvTnA)
 - [Diseño de sistemas #23: Content Delivery Network](https://www.youtube.com/shorts/2YYGFMYL2vI)
 - [Diseño de sistemas #22: Almacenamiento de blobs](https://www.youtube.com/shorts/KqMFe2JlTE0)
 - [Hablemos de finanzas para desarrolladores de software](https://www.youtube.com/watch?v=eUHL1Zq3l-Q)
-- [¡Este es el curso más completo que verás de Ollama!](https://www.youtube.com/watch?v=QQFqACTs5HI)
 <!-- YOUTUBE:END -->
 
 
