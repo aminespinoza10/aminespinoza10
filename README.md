@@ -41,11 +41,11 @@ Last Updated: Wednesday, February 11th, 2026, 1:38:49 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #25: Webhooks](https://www.youtube.com/shorts/Kz3XrJFJd7U)
 - [Hablemos de consejos para emprender en tecnología](https://www.youtube.com/watch?v=ml1VdDMRzuw)
 - [Diseño de sistemas #24: Web Sockets](https://www.youtube.com/shorts/FWBjz7GvTnA)
 - [Diseño de sistemas #23: Content Delivery Network](https://www.youtube.com/shorts/2YYGFMYL2vI)
 - [Diseño de sistemas #22: Almacenamiento de blobs](https://www.youtube.com/shorts/KqMFe2JlTE0)
-- [Hablemos de finanzas para desarrolladores de software](https://www.youtube.com/watch?v=eUHL1Zq3l-Q)
 <!-- YOUTUBE:END -->
 
 
