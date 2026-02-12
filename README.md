@@ -31,12 +31,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
 2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
-3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
-4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
+3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
+4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
 5. ⬆️ Pushed undefined commit(s) to [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 11th, 2026, 1:38:49 PM
+Last Updated: Thursday, February 12th, 2026, 2:01:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
