@@ -41,11 +41,11 @@ Last Updated: Thursday, February 19th, 2026, 2:49:57 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos de datos y sus especialidades](https://www.youtube.com/watch?v=fRJAoGCGTcw)
 - [Diseño de sistemas #27: Message queues](https://www.youtube.com/shorts/zrowD6sVqII)
 - [Diseño de sistemas #26: Microservicios](https://www.youtube.com/shorts/tbJuBO_MSkM)
 - [Hablemos de consejos para emprender en tecnología](https://www.youtube.com/watch?v=ml1VdDMRzuw)
 - [Diseño de sistemas #25: Webhooks](https://www.youtube.com/shorts/Kz3XrJFJd7U)
-- [Diseño de sistemas #24: Web Sockets](https://www.youtube.com/shorts/FWBjz7GvTnA)
 <!-- YOUTUBE:END -->
 
 
