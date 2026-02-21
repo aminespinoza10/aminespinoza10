@@ -41,11 +41,11 @@ Last Updated: Saturday, February 21st, 2026, 2:38:28 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diseño de sistemas #28: Rate limiting](https://www.youtube.com/shorts/QFxMZ8vRFIY)
 - [Chismecito Geek de la semana](https://www.youtube.com/watch?v=fRJAoGCGTcw)
 - [Diseño de sistemas #27: Message queues](https://www.youtube.com/shorts/zrowD6sVqII)
 - [Diseño de sistemas #26: Microservicios](https://www.youtube.com/shorts/tbJuBO_MSkM)
 - [Hablemos de consejos para emprender en tecnología](https://www.youtube.com/watch?v=ml1VdDMRzuw)
-- [Diseño de sistemas #25: Webhooks](https://www.youtube.com/shorts/Kz3XrJFJd7U)
 <!-- YOUTUBE:END -->
 
 
