@@ -41,11 +41,11 @@ Last Updated: Thursday, February 26th, 2026, 2:44:23 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Hablemos de las especialidades de datos](https://www.youtube.com/watch?v=xe_zi6jaVaI)
 - [Diseño de sistemas #30: Idempotencia](https://www.youtube.com/shorts/MBEj4ixJzl0)
 - [Diseño de sistemas #29: API Gateways](https://www.youtube.com/shorts/J-vD5Evru0M)
 - [Diseño de sistemas #28: Rate limiting](https://www.youtube.com/shorts/QFxMZ8vRFIY)
 - [Chismecito Geek de la semana](https://www.youtube.com/watch?v=fRJAoGCGTcw)
-- [Diseño de sistemas #27: Message queues](https://www.youtube.com/shorts/zrowD6sVqII)
 <!-- YOUTUBE:END -->
 
 
