@@ -29,14 +29,14 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
+1. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
 2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
-3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
+3. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Venster](https://github.com/aminespinoza10/Venster)<br>
 4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
 5. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Curso-Ollama](https://github.com/aminespinoza10/Curso-Ollama)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 26th, 2026, 2:44:23 AM
+Last Updated: Thursday, February 26th, 2026, 1:01:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
