@@ -41,11 +41,11 @@ Last Updated: Sunday, March 8th, 2026, 1:29:08 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Automatizando mi sitio web](https://www.youtube.com/watch?v=UqxwiG2wTEI)
 - [Creando mi home server](https://www.youtube.com/watch?v=8XOQ50lVCwg)
 - [¡Aprende acerca de Big O y dale un boost a tu carrera!](https://www.youtube.com/watch?v=s4wzeNbQzxA)
 - [Hablemos de las especialidades de datos](https://www.youtube.com/watch?v=xe_zi6jaVaI)
 - [Diseño de sistemas #30: Idempotencia](https://www.youtube.com/shorts/MBEj4ixJzl0)
-- [Diseño de sistemas #29: API Gateways](https://www.youtube.com/shorts/J-vD5Evru0M)
 <!-- YOUTUBE:END -->
 
 
