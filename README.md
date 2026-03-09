@@ -41,11 +41,11 @@ Last Updated: Monday, March 9th, 2026, 2:07:46 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Convierte tu VS Code en un gran espacio de trabajo en menos de 10 minutos!](https://www.youtube.com/watch?v=Rnut5uSKqFI)
 - [Automatizando mi sitio web](https://www.youtube.com/watch?v=UqxwiG2wTEI)
 - [Creando mi home server](https://www.youtube.com/watch?v=8XOQ50lVCwg)
 - [¡Aprende acerca de Big O y dale un boost a tu carrera!](https://www.youtube.com/watch?v=s4wzeNbQzxA)
 - [Hablemos de las especialidades de datos](https://www.youtube.com/watch?v=xe_zi6jaVaI)
-- [Diseño de sistemas #30: Idempotencia](https://www.youtube.com/shorts/MBEj4ixJzl0)
 <!-- YOUTUBE:END -->
 
 
