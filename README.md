@@ -41,11 +41,11 @@ Last Updated: Wednesday, March 11th, 2026, 2:04:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Algorithm Visualizer, una herramienta genial!](https://www.youtube.com/shorts/jJ4Wqq6LZTk)
 - [Automatizando mi sitio web](https://www.youtube.com/watch?v=UqxwiG2wTEI)
 - [¡Convierte tu VS Code en un gran espacio de trabajo en menos de 10 minutos!](https://www.youtube.com/watch?v=Rnut5uSKqFI)
 - [Creando mi home server](https://www.youtube.com/watch?v=8XOQ50lVCwg)
 - [¡Aprende acerca de Big O y dale un boost a tu carrera!](https://www.youtube.com/watch?v=s4wzeNbQzxA)
-- [Hablemos de las especialidades de datos](https://www.youtube.com/watch?v=xe_zi6jaVaI)
 <!-- YOUTUBE:END -->
 
 
