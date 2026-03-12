@@ -41,11 +41,11 @@ Last Updated: Thursday, March 12th, 2026, 2:45:41 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Clase 6: Los primeros métodos de la api de Ollama](https://www.youtube.com/watch?v=kaAAi9IECIs)
+- [Clase 5: Aprendiendo a usar la línea de comandos](https://www.youtube.com/watch?v=yFljlIICcjI)
+- [Clase 4: Instalando nuestros primeros modelos](https://www.youtube.com/watch?v=w3QUrBuLKZs)
 - [Clase 3: Instalación de Ollama](https://www.youtube.com/watch?v=IUpsEpGn7n8)
 - [Clase 2: Los diferentes modelos en Ollama](https://www.youtube.com/watch?v=pNGMylriBNg)
-- [Clase 1: IA Local contra IA en la nube](https://www.youtube.com/watch?v=DyKLsDy06ow)
-- [Algorithm Visualizer, una herramienta genial!](https://www.youtube.com/shorts/jJ4Wqq6LZTk)
-- [Automatizando mi sitio web](https://www.youtube.com/watch?v=UqxwiG2wTEI)
 <!-- YOUTUBE:END -->
 
 
