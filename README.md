@@ -41,11 +41,11 @@ Last Updated: Friday, March 13th, 2026, 2:43:39 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Clase 9:  Las métricas de la API](https://www.youtube.com/watch?v=QAoa_izTR1M)
+- [Clase 8: ¿Y si creamos un modelo?](https://www.youtube.com/watch?v=_KVPpIv55Ts)
+- [Clase 7: Obteniendo información de los modelos](https://www.youtube.com/watch?v=hLeDTmZz5Jk)
 - [Automatizando mi sitio web &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=gnuvv_a4bGg)
 - [Clase 6: Los primeros métodos de la api de Ollama](https://www.youtube.com/watch?v=kaAAi9IECIs)
-- [Clase 5: Aprendiendo a usar la línea de comandos](https://www.youtube.com/watch?v=yFljlIICcjI)
-- [Clase 4: Instalando nuestros primeros modelos](https://www.youtube.com/watch?v=w3QUrBuLKZs)
-- [Clase 3: Instalación de Ollama](https://www.youtube.com/watch?v=IUpsEpGn7n8)
 <!-- YOUTUBE:END -->
 
 
