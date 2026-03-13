@@ -41,11 +41,11 @@ Last Updated: Friday, March 13th, 2026, 1:56:24 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Automatizando mi sitio web &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=gnuvv_a4bGg)
 - [¡Aprende que usan los sitios web con Wappalizer!](https://www.youtube.com/shorts/JqQWKgoK_fw)
 - [Clase 9:  Las métricas de la API](https://www.youtube.com/watch?v=QAoa_izTR1M)
 - [Clase 8: ¿Y si creamos un modelo?](https://www.youtube.com/watch?v=_KVPpIv55Ts)
 - [Clase 7: Obteniendo información de los modelos](https://www.youtube.com/watch?v=hLeDTmZz5Jk)
-- [Automatizando mi sitio web &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=gnuvv_a4bGg)
 <!-- YOUTUBE:END -->
 
 
