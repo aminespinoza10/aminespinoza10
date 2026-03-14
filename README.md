@@ -40,11 +40,11 @@ Last Updated: Saturday, March 14th, 2026, 1:35:09 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Clase 12: El modo thinking](https://www.youtube.com/watch?v=MtwaOLgrIhk)
+- [Clase 11: Hablemos del streaming](https://www.youtube.com/watch?v=sC7Fb-M9YFU)
+- [Clase 10: Venster](https://www.youtube.com/watch?v=-zW-2NgVuDw)
 - [Automatizando mi sitio web &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=gnuvv_a4bGg)
 - [¡Aprende que usan los sitios web con Wappalizer!](https://www.youtube.com/shorts/JqQWKgoK_fw)
-- [Clase 9:  Las métricas de la API](https://www.youtube.com/watch?v=QAoa_izTR1M)
-- [Clase 8: ¿Y si creamos un modelo?](https://www.youtube.com/watch?v=_KVPpIv55Ts)
-- [Clase 7: Obteniendo información de los modelos](https://www.youtube.com/watch?v=hLeDTmZz5Jk)
 <!-- YOUTUBE:END -->
 
 
