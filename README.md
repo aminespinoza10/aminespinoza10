@@ -40,11 +40,11 @@ Last Updated: Saturday, March 14th, 2026, 1:35:09 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Usa Downdetector para medir la calidad de tus servicios!](https://www.youtube.com/shorts/2ip0OEQeeas)
 - [Clase 12: El modo thinking](https://www.youtube.com/watch?v=MtwaOLgrIhk)
 - [Clase 11: Hablemos del streaming](https://www.youtube.com/watch?v=sC7Fb-M9YFU)
 - [Clase 10: Venster](https://www.youtube.com/watch?v=-zW-2NgVuDw)
 - [Automatizando mi sitio web &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=gnuvv_a4bGg)
-- [¡Aprende que usan los sitios web con Wappalizer!](https://www.youtube.com/shorts/JqQWKgoK_fw)
 <!-- YOUTUBE:END -->
 
 
