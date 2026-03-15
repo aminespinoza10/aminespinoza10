@@ -40,11 +40,11 @@ Last Updated: Sunday, March 15th, 2026, 1:36:49 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [VS Code Themes hará lucir mucho mejor a tu VS Code](https://www.youtube.com/shorts/RWr7FzZG3YM)
 - [Clase 15: Viendo imágenes con Ollama](https://www.youtube.com/watch?v=Ww4glrojK-M)
 - [Clase 14: Integrando tus modelos locales en VS Code](https://www.youtube.com/watch?v=QkBs9ut1Pq4)
 - [Clase 13: Usando el SDK de Ollama en Python](https://www.youtube.com/watch?v=quwHDLFDyyk)
 - [¡Usa Downdetector para medir la calidad de tus servicios!](https://www.youtube.com/shorts/2ip0OEQeeas)
-- [Clase 12: El modo thinking](https://www.youtube.com/watch?v=MtwaOLgrIhk)
 <!-- YOUTUBE:END -->
 
 
