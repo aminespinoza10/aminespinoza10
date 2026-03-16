@@ -40,11 +40,11 @@ Last Updated: Monday, March 16th, 2026, 1:44:04 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡No necesitas Javascript para esto!](https://www.youtube.com/shorts/vq8ypitL_Vk)
 - [Clase 18: Búsquedas en la web](https://www.youtube.com/watch?v=KKpRVH9-l5c)
 - [Clase 17: Llama a tus propias API](https://www.youtube.com/watch?v=ERUNv5jAjoc)
 - [Clase 16: Agregar funciones a tus LLM](https://www.youtube.com/watch?v=EgXtjzTA0cQ)
 - [Preguntas &amp; respuestas del curso de Ollama &lpar;cap 1&rpar;](https://www.youtube.com/shorts/T49xBg3sN1c)
-- [VS Code Themes hará lucir mucho mejor a tu VS Code](https://www.youtube.com/shorts/RWr7FzZG3YM)
 <!-- YOUTUBE:END -->
 
 
