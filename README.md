@@ -40,11 +40,11 @@ Last Updated: Monday, March 16th, 2026, 1:44:04 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Clase 18: Búsquedas en la web](https://www.youtube.com/watch?v=KKpRVH9-l5c)
+- [Clase 17: Llama a tus propias API](https://www.youtube.com/watch?v=ERUNv5jAjoc)
+- [Clase 16: Agregar funciones a tus LLM](https://www.youtube.com/watch?v=EgXtjzTA0cQ)
 - [Preguntas &amp; respuestas del curso de Ollama &lpar;cap 1&rpar;](https://www.youtube.com/shorts/T49xBg3sN1c)
 - [VS Code Themes hará lucir mucho mejor a tu VS Code](https://www.youtube.com/shorts/RWr7FzZG3YM)
-- [Clase 15: Viendo imágenes con Ollama](https://www.youtube.com/watch?v=Ww4glrojK-M)
-- [Clase 14: Integrando tus modelos locales en VS Code](https://www.youtube.com/watch?v=QkBs9ut1Pq4)
-- [Clase 13: Usando el SDK de Ollama en Python](https://www.youtube.com/watch?v=quwHDLFDyyk)
 <!-- YOUTUBE:END -->
 
 
