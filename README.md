@@ -40,11 +40,11 @@ Last Updated: Tuesday, March 17th, 2026, 2:45:53 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Entrenando algo de programación](https://www.youtube.com/watch?v=3pOxJC3kSz4)
 - [¡No necesitas Javascript para esto!](https://www.youtube.com/shorts/vq8ypitL_Vk)
 - [Clase 18: Búsquedas en la web](https://www.youtube.com/watch?v=KKpRVH9-l5c)
 - [Clase 17: Llama a tus propias API](https://www.youtube.com/watch?v=ERUNv5jAjoc)
 - [Clase 16: Agregar funciones a tus LLM](https://www.youtube.com/watch?v=EgXtjzTA0cQ)
-- [Preguntas &amp; respuestas del curso de Ollama &lpar;cap 1&rpar;](https://www.youtube.com/shorts/T49xBg3sN1c)
 <!-- YOUTUBE:END -->
 
 
