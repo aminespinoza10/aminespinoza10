@@ -40,11 +40,11 @@ Last Updated: Tuesday, March 17th, 2026, 1:41:32 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Entrenando algo de programación](https://www.youtube.com/watch?v=3pOxJC3kSz4)
+- [Clase 21: Introducción a los chunks](https://www.youtube.com/watch?v=2a_fiMWs00A)
+- [Clase 20: Creando un modelo más personalizado](https://www.youtube.com/watch?v=O00oaL4R4_Q)
+- [Clase 19: Introducción al fine tunning](https://www.youtube.com/watch?v=DoU2xpsl-Ew)
+- [¡Carreritas de programación!](https://www.youtube.com/watch?v=3pOxJC3kSz4)
 - [¡No necesitas Javascript para esto!](https://www.youtube.com/shorts/vq8ypitL_Vk)
-- [Clase 18: Búsquedas en la web](https://www.youtube.com/watch?v=KKpRVH9-l5c)
-- [Clase 17: Llama a tus propias API](https://www.youtube.com/watch?v=ERUNv5jAjoc)
-- [Clase 16: Agregar funciones a tus LLM](https://www.youtube.com/watch?v=EgXtjzTA0cQ)
 <!-- YOUTUBE:END -->
 
 
