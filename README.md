@@ -40,11 +40,11 @@ Last Updated: Wednesday, March 18th, 2026, 1:42:52 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Carreritas de programación!](https://www.youtube.com/watch?v=3pOxJC3kSz4)
 - [Clase 24: RAG y LLMs, una mezcla fantástica!](https://www.youtube.com/watch?v=Brf0ZZFIwtk)
 - [Clase 23: De un documento a una base de datos vectorial](https://www.youtube.com/watch?v=QDpb_bW3C1g)
 - [Clase 22: La interacción entre los chunks y los embeddings](https://www.youtube.com/watch?v=TtSn_F8SNvc)
 - [Clase 21: Introducción a los chunks](https://www.youtube.com/watch?v=2a_fiMWs00A)
-- [Clase 20: Creando un modelo más personalizado](https://www.youtube.com/watch?v=O00oaL4R4_Q)
 <!-- YOUTUBE:END -->
 
 
