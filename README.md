@@ -40,11 +40,11 @@ Last Updated: Thursday, March 19th, 2026, 1:23:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Clase 28: Cierre del curso](https://www.youtube.com/watch?v=dHQ_qzOe5ac)
+- [Clase 27: Haciendo a mi agente público &lpar;pero no productivo&rpar;](https://www.youtube.com/watch?v=0wjWxodXthM)
+- [Clase 26: Accediendo a mi LLM en una red local](https://www.youtube.com/watch?v=3YDIwM82O8U)
+- [Clase 25: Comparando RAG y Fine tunning](https://www.youtube.com/watch?v=gWqwv61TLX8)
 - [¡Carreritas de programación!](https://www.youtube.com/watch?v=3pOxJC3kSz4)
-- [Clase 24: RAG y LLMs, una mezcla fantástica!](https://www.youtube.com/watch?v=Brf0ZZFIwtk)
-- [Clase 23: De un documento a una base de datos vectorial](https://www.youtube.com/watch?v=QDpb_bW3C1g)
-- [Clase 22: La interacción entre los chunks y los embeddings](https://www.youtube.com/watch?v=TtSn_F8SNvc)
-- [Clase 21: Introducción a los chunks](https://www.youtube.com/watch?v=2a_fiMWs00A)
 <!-- YOUTUBE:END -->
 
 
