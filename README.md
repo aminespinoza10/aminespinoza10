@@ -40,11 +40,11 @@ Last Updated: Thursday, March 19th, 2026, 1:23:22 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Carreritas de programación! parte 2](https://www.youtube.com/watch?v=rZLs-IaBB6w)
 - [Clase 28: Cierre del curso](https://www.youtube.com/watch?v=dHQ_qzOe5ac)
 - [Clase 27: Haciendo a mi agente público &lpar;pero no productivo&rpar;](https://www.youtube.com/watch?v=0wjWxodXthM)
 - [Clase 26: Accediendo a mi LLM en una red local](https://www.youtube.com/watch?v=3YDIwM82O8U)
 - [Clase 25: Comparando RAG y Fine tunning](https://www.youtube.com/watch?v=gWqwv61TLX8)
-- [¡Carreritas de programación!](https://www.youtube.com/watch?v=3pOxJC3kSz4)
 <!-- YOUTUBE:END -->
 
 
