@@ -38,11 +38,11 @@ Last Updated: Friday, March 27th, 2026, 3:19:37 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Software &amp; Cervezas](https://www.youtube.com/watch?v=hItuiaqgVMs)
 - [¿Por qué si Python es tan lento lo usan para tantas cosas?](https://www.youtube.com/shorts/MuXZKUw9sWw)
 - [Programando con IA &lpar;tips y trucos&rpar;](https://www.youtube.com/watch?v=LQRVs7rPXZ8)
 - [Esta es la importancia de aprender a hostearte tú solo...](https://www.youtube.com/watch?v=crikBIhPPFU)
 - [¡Carreritas de programación! parte 2](https://www.youtube.com/watch?v=rZLs-IaBB6w)
-- [Clase 28: Cierre del curso](https://www.youtube.com/watch?v=dHQ_qzOe5ac)
 <!-- YOUTUBE:END -->
 
 
