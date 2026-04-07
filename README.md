@@ -37,11 +37,11 @@ Last Updated: Tuesday, April 7th, 2026, 1:48:30 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Agrega observabilidad a tus agentes de Ollama](https://www.youtube.com/watch?v=0l4Gkx32-Pc)
 - [Esto he aprendido en medio año como Consultor Independiente...](https://www.youtube.com/watch?v=n262d42gAWk)
 - [¿Cómo manejar el contexto de un LLM que creaste con #ollama ?](https://www.youtube.com/shorts/Pe75HOb7mFw)
 - [Programando y platicando](https://www.youtube.com/watch?v=LEmkwZQ2bd0)
 - [Programando y platicando](https://www.youtube.com/watch?v=YKVZQBr0Mew)
-- [Software &amp; Cervezas](https://www.youtube.com/watch?v=hItuiaqgVMs)
 <!-- YOUTUBE:END -->
 
 
