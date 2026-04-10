@@ -38,11 +38,11 @@ Last Updated: Friday, April 10th, 2026, 1:39:33 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Autenticación o autorización ¿Son lo mismo?](https://www.youtube.com/shorts/Q_sENYUq37g)
 - [¿Cómo puedes vender mejor tu trabajo?](https://www.youtube.com/watch?v=NX7IQjKiTKY)
 - [Agrega observabilidad a tus agentes de Ollama](https://www.youtube.com/watch?v=0l4Gkx32-Pc)
 - [Esto he aprendido en medio año como Consultor Independiente...](https://www.youtube.com/watch?v=n262d42gAWk)
 - [¿Cómo manejar el contexto de un LLM que creaste con #ollama ?](https://www.youtube.com/shorts/Pe75HOb7mFw)
-- [Programando y platicando](https://www.youtube.com/watch?v=LEmkwZQ2bd0)
 <!-- YOUTUBE:END -->
 
 
