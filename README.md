@@ -29,11 +29,13 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)<br>
-2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
+1. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+2. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Docker-images-collection](https://github.com/aminespinoza10/Docker-images-collection)<br>
+3. ⭐ Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)<br>
+4. ⬆️ Pushed undefined commit(s) to [aminespinoza10/Ejercicios-Programacion](https://github.com/aminespinoza10/Ejercicios-Programacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 12th, 2026, 1:59:39 PM
+Last Updated: Monday, April 13th, 2026, 2:30:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### :zap: Mis últimos videos
