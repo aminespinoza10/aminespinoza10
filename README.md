@@ -40,11 +40,11 @@ Last Updated: Monday, April 13th, 2026, 1:59:05 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Diagrams Previewer. ¡Una herramienta genial!](https://www.youtube.com/shorts/9uTJ4IZrXk0)
 - [¿Cuáles son las apps más descargadas de los sistemas móviles?](https://www.youtube.com/shorts/lHpCFbKW-k8)
 - [Plática entre amigos nerds...](https://www.youtube.com/watch?v=a_Y-DwG-2MU)
 - [Mi opinión rápida acerca de la IA en la programación...](https://www.youtube.com/shorts/JHnicbYCJkk)
 - [Autenticación o autorización ¿Son lo mismo?](https://www.youtube.com/shorts/Q_sENYUq37g)
-- [¿Cómo puedes vender mejor tu trabajo?](https://www.youtube.com/watch?v=NX7IQjKiTKY)
 <!-- YOUTUBE:END -->
 
 
