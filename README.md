@@ -38,11 +38,11 @@ Last Updated: Sunday, April 12th, 2026, 1:59:39 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Plática entre amigos nerds...](https://www.youtube.com/watch?v=a_Y-DwG-2MU)
 - [Mi opinión rápida acerca de la IA en la programación...](https://www.youtube.com/shorts/JHnicbYCJkk)
 - [Autenticación o autorización ¿Son lo mismo?](https://www.youtube.com/shorts/Q_sENYUq37g)
 - [¿Cómo puedes vender mejor tu trabajo?](https://www.youtube.com/watch?v=NX7IQjKiTKY)
 - [Agrega observabilidad a tus agentes de Ollama](https://www.youtube.com/watch?v=0l4Gkx32-Pc)
-- [Esto he aprendido en medio año como Consultor Independiente...](https://www.youtube.com/watch?v=n262d42gAWk)
 <!-- YOUTUBE:END -->
 
 
