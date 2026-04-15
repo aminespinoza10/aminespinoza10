@@ -41,11 +41,11 @@ Last Updated: Wednesday, April 15th, 2026, 1:55:35 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Publica una imagen de React con Docker en menos de 10 minutos!](https://www.youtube.com/watch?v=reBy1F6IoZE)
 - [Aprende a implementar DevOps en Github](https://www.youtube.com/watch?v=62kOylQDcUk)
 - [Diagrams Previewer. ¡Una herramienta genial!](https://www.youtube.com/shorts/9uTJ4IZrXk0)
 - [¿Cuáles son las apps más descargadas de los sistemas móviles?](https://www.youtube.com/shorts/lHpCFbKW-k8)
 - [Plática entre amigos nerds...](https://www.youtube.com/watch?v=a_Y-DwG-2MU)
-- [Mi opinión rápida acerca de la IA en la programación...](https://www.youtube.com/shorts/JHnicbYCJkk)
 <!-- YOUTUBE:END -->
 
 
