@@ -41,11 +41,11 @@ Last Updated: Thursday, April 23rd, 2026, 2:02:36 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende a implementar DevOps en Github &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=Jh5M69TFGoE)
 - [Aprende a implementar DevOps en Github](https://www.youtube.com/watch?v=62kOylQDcUk)
 - [¡15 años en Youtube!](https://www.youtube.com/shorts/I838gMKbtuA)
 - [¡Publica una imagen de React con Docker en menos de 10 minutos!](https://www.youtube.com/watch?v=reBy1F6IoZE)
 - [Diagrams Previewer. ¡Una herramienta genial!](https://www.youtube.com/shorts/9uTJ4IZrXk0)
-- [¿Cuáles son las apps más descargadas de los sistemas móviles?](https://www.youtube.com/shorts/lHpCFbKW-k8)
 <!-- YOUTUBE:END -->
 
 
