@@ -41,11 +41,11 @@ Last Updated: Thursday, April 30th, 2026, 2:15:53 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Quieres aprender DevOps desde cero y no sabes por donde empezar?](https://www.youtube.com/watch?v=oLiGauZTDU8)
 - [¡Me volví supervisor de agentes programadores!](https://www.youtube.com/watch?v=zZnLg9MPPf0)
 - [¡A Github le quedó grande Copilot!](https://www.youtube.com/watch?v=9toA82pdxYk)
 - [Aprende a implementar DevOps en Github &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=Jh5M69TFGoE)
 - [Aprende a implementar DevOps en Github](https://www.youtube.com/watch?v=62kOylQDcUk)
-- [¡15 años en Youtube!](https://www.youtube.com/shorts/I838gMKbtuA)
 <!-- YOUTUBE:END -->
 
 
