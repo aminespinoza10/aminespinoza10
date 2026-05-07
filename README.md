@@ -41,11 +41,11 @@ Last Updated: Thursday, May 7th, 2026, 2:35:50 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Cumplí quince años en Youtube! ¡A celebrar!](https://www.youtube.com/watch?v=kTZYpaYiUfc)
 - [Tips para programar con IA](https://www.youtube.com/watch?v=M0UY08SFKWI)
 - [¿Quieres aprender DevOps desde cero y no sabes por donde empezar?](https://www.youtube.com/watch?v=oLiGauZTDU8)
 - [¡Me volví supervisor de agentes programadores!](https://www.youtube.com/watch?v=zZnLg9MPPf0)
 - [¡A Github le quedó grande Copilot!](https://www.youtube.com/watch?v=9toA82pdxYk)
-- [Aprende a implementar DevOps en Github &lpar;parte 2&rpar;](https://www.youtube.com/watch?v=Jh5M69TFGoE)
 <!-- YOUTUBE:END -->
 
 
