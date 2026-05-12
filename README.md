@@ -41,11 +41,11 @@ Last Updated: Tuesday, May 12th, 2026, 2:40:51 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Una gran extensión de containers para VS Code](https://www.youtube.com/shorts/ZPd0Xg5Z9ig)
 - [Neetcode, una gran herramienta de algoritmos](https://www.youtube.com/shorts/5jP9uarS_W8)
 - [¡Hagamos unas apps divertidas!](https://www.youtube.com/watch?v=DBM6aZ8nAaw)
 - [¡Cumplí quince años en Youtube! ¡A celebrar!](https://www.youtube.com/watch?v=kTZYpaYiUfc)
 - [Tips para programar con IA](https://www.youtube.com/watch?v=M0UY08SFKWI)
-- [¿Quieres aprender DevOps desde cero y no sabes por donde empezar?](https://www.youtube.com/watch?v=oLiGauZTDU8)
 <!-- YOUTUBE:END -->
 
 
