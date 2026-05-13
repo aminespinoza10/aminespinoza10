@@ -41,11 +41,11 @@ Last Updated: Wednesday, May 13th, 2026, 2:50:43 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo crear una nueva organización en Azure DevOps?](https://www.youtube.com/shorts/D8e2OFuSrOw)
 - [¡Hagamos unas apps divertidas!](https://www.youtube.com/watch?v=DBM6aZ8nAaw)
 - [Una gran extensión de containers para VS Code](https://www.youtube.com/shorts/ZPd0Xg5Z9ig)
 - [Neetcode, una gran herramienta de algoritmos](https://www.youtube.com/shorts/5jP9uarS_W8)
 - [¡Cumplí quince años en Youtube! ¡A celebrar!](https://www.youtube.com/watch?v=kTZYpaYiUfc)
-- [Tips para programar con IA](https://www.youtube.com/watch?v=M0UY08SFKWI)
 <!-- YOUTUBE:END -->
 
 
