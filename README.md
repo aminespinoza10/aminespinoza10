@@ -41,11 +41,11 @@ Last Updated: Thursday, May 14th, 2026, 4:02:02 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Conoce la esteganografía y un uso muy divertido para aprender a implementarla.](https://www.youtube.com/shorts/7l8er_UOD5w)
 - [¿Cómo crear una nueva organización en Azure DevOps?](https://www.youtube.com/shorts/D8e2OFuSrOw)
 - [¡Hagamos unas apps divertidas!](https://www.youtube.com/watch?v=DBM6aZ8nAaw)
 - [Una gran extensión de containers para VS Code](https://www.youtube.com/shorts/ZPd0Xg5Z9ig)
 - [Neetcode, una gran herramienta de algoritmos](https://www.youtube.com/shorts/5jP9uarS_W8)
-- [¡Cumplí quince años en Youtube! ¡A celebrar!](https://www.youtube.com/watch?v=kTZYpaYiUfc)
 <!-- YOUTUBE:END -->
 
 
