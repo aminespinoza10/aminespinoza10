@@ -41,11 +41,11 @@ Last Updated: Tuesday, May 19th, 2026, 4:15:13 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende a usar Open Spec en tus proyectos](https://www.youtube.com/watch?v=bpO4pka8mZE)
 - [¿Existe el &quot;mejor&quot; ingeniero de software del mundo?](https://www.youtube.com/watch?v=3mgjCbs2eqw)
 - [Aprendiendo DevOps: Planeando tu proyecto](https://www.youtube.com/watch?v=bOSlEWkmqr4)
 - [Conoce la esteganografía y un uso muy divertido para aprender a implementarla.](https://www.youtube.com/shorts/7l8er_UOD5w)
 - [¿Cómo crear una nueva organización en Azure DevOps?](https://www.youtube.com/shorts/D8e2OFuSrOw)
-- [¡Hagamos unas apps divertidas!](https://www.youtube.com/watch?v=DBM6aZ8nAaw)
 <!-- YOUTUBE:END -->
 
 
