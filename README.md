@@ -41,11 +41,11 @@ Last Updated: Thursday, May 28th, 2026, 4:17:07 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprendiendo DevOps: Compilando mi código](https://www.youtube.com/watch?v=uw8JYv-BIfs)
 - [Manejando múltiples agentes en VS Code](https://www.youtube.com/watch?v=8KVkrZrSDKA)
 - [Aprendiendo DevOps: Escribiendo código](https://www.youtube.com/watch?v=rM_owPGD-EM)
 - [Aprende a usar Open Spec en tus proyectos](https://www.youtube.com/watch?v=bpO4pka8mZE)
 - [¿Existe el &quot;mejor&quot; ingeniero de software del mundo?](https://www.youtube.com/watch?v=3mgjCbs2eqw)
-- [Aprendiendo DevOps: Planeando tu proyecto](https://www.youtube.com/watch?v=bOSlEWkmqr4)
 <!-- YOUTUBE:END -->
 
 
