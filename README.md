@@ -41,11 +41,11 @@ Last Updated: Tuesday, June 2nd, 2026, 4:47:29 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Copilot ya te cobrará por consumo!](https://www.youtube.com/shorts/Y_A2Y3MHkHc)
 - [¡Hora de hacer la tarea con React y OpenStreetMaps!](https://www.youtube.com/watch?v=5Ia80bLzT8A)
 - [Aprendiendo DevOps: Compilando mi código](https://www.youtube.com/watch?v=uw8JYv-BIfs)
 - [Manejando múltiples agentes en VS Code](https://www.youtube.com/watch?v=8KVkrZrSDKA)
 - [Aprendiendo DevOps: Escribiendo código](https://www.youtube.com/watch?v=rM_owPGD-EM)
-- [Aprende a usar Open Spec en tus proyectos](https://www.youtube.com/watch?v=bpO4pka8mZE)
 <!-- YOUTUBE:END -->
 
 
