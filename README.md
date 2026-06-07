@@ -41,11 +41,11 @@ Last Updated: Sunday, June 7th, 2026, 2:09:45 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Quieres microservicios pero ¿En verdad los necesitas?](https://www.youtube.com/watch?v=RqJYvfVrIiQ)
 - [Microsoft le está dando más prioridad a Github que a Azure Repos](https://www.youtube.com/watch?v=4VqeysEeMyE)
 - [Aprendiendo DevOps: Probando mi proyecto](https://www.youtube.com/watch?v=8ROMt_qx88o)
 - [¡Hora de hacer la tarea con React y OpenStreetMaps!](https://www.youtube.com/watch?v=5Ia80bLzT8A)
 - [¡Copilot ya te cobrará por consumo!](https://www.youtube.com/shorts/Y_A2Y3MHkHc)
-- [Aprendiendo DevOps: Compilando mi código](https://www.youtube.com/watch?v=uw8JYv-BIfs)
 <!-- YOUTUBE:END -->
 
 
