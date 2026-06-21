@@ -39,11 +39,11 @@ Last Updated: Saturday, June 20th, 2026, 2:20:47 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Evento de comunidad de .NET en Puebla](https://www.youtube.com/shorts/GGD3JJTbcnA)
 - [Tips de preparación para una entrevista de trabajo](https://www.youtube.com/watch?v=8zTKNoYq35g)
 - [¡Hay que ponernos al día!](https://www.youtube.com/watch?v=bKZKwWS55ro)
 - [Quieres microservicios pero ¿En verdad los necesitas?](https://www.youtube.com/watch?v=RqJYvfVrIiQ)
 - [Microsoft le está dando más prioridad a Github que a Azure Repos](https://www.youtube.com/watch?v=4VqeysEeMyE)
-- [Aprendiendo DevOps: Probando mi proyecto](https://www.youtube.com/watch?v=8ROMt_qx88o)
 <!-- YOUTUBE:END -->
 
 
