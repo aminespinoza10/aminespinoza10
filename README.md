@@ -41,11 +41,11 @@ Last Updated: Sunday, June 28th, 2026, 2:04:50 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cuál es la relación entre Docker y Kubernetes?](https://www.youtube.com/shorts/J7GWQgU-f0E)
 - [¡10 cosas que debes saber de .NET en su 10 aniversario!](https://www.youtube.com/watch?v=lAcc2HsLbGA)
 - [Evento de comunidad de .NET en Puebla](https://www.youtube.com/shorts/GGD3JJTbcnA)
 - [Tips de preparación para una entrevista de trabajo](https://www.youtube.com/watch?v=8zTKNoYq35g)
 - [¡Hay que ponernos al día!](https://www.youtube.com/watch?v=bKZKwWS55ro)
-- [Quieres microservicios pero ¿En verdad los necesitas?](https://www.youtube.com/watch?v=RqJYvfVrIiQ)
 <!-- YOUTUBE:END -->
 
 
