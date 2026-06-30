@@ -41,11 +41,11 @@ Last Updated: Tuesday, June 30th, 2026, 2:34:12 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Apple lanzó su herramienta de contenedores! Y debemos evaluarla](https://www.youtube.com/watch?v=tK1DXnIRDy4)
 - [¿Cuál es la relación entre Docker y Kubernetes?](https://www.youtube.com/shorts/J7GWQgU-f0E)
 - [¡10 cosas que debes saber de .NET en su 10 aniversario!](https://www.youtube.com/watch?v=lAcc2HsLbGA)
 - [Evento de comunidad de .NET en Puebla](https://www.youtube.com/shorts/GGD3JJTbcnA)
 - [Tips de preparación para una entrevista de trabajo](https://www.youtube.com/watch?v=8zTKNoYq35g)
-- [¡Hay que ponernos al día!](https://www.youtube.com/watch?v=bKZKwWS55ro)
 <!-- YOUTUBE:END -->
 
 
