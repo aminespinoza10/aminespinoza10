@@ -41,11 +41,11 @@ Last Updated: Tuesday, July 7th, 2026, 2:53:26 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Aún vale la pena emprender en tiempos de IA?](https://www.youtube.com/watch?v=Y9uYkHieclw)
 - [¡Apple lanzó su herramienta de contenedores! Y debemos evaluarla](https://www.youtube.com/watch?v=tK1DXnIRDy4)
 - [¿Cuál es la relación entre Docker y Kubernetes?](https://www.youtube.com/shorts/J7GWQgU-f0E)
 - [¡10 cosas que debes saber de .NET en su 10 aniversario!](https://www.youtube.com/watch?v=lAcc2HsLbGA)
 - [Evento de comunidad de .NET en Puebla](https://www.youtube.com/shorts/GGD3JJTbcnA)
-- [Tips de preparación para una entrevista de trabajo](https://www.youtube.com/watch?v=8zTKNoYq35g)
 <!-- YOUTUBE:END -->
 
 
