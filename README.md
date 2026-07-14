@@ -41,11 +41,11 @@ Last Updated: Tuesday, July 14th, 2026, 2:01:42 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Vamos a ponernos al día](https://www.youtube.com/watch?v=Bw8PwLhLtdE)
 - [La extensión perfecta para contenedores en VS Code](https://www.youtube.com/shorts/U_jFo_SLo6c)
 - [¿Aún vale la pena emprender en tiempos de IA?](https://www.youtube.com/watch?v=Y9uYkHieclw)
 - [¡Apple lanzó su herramienta de contenedores! Y debemos evaluarla](https://www.youtube.com/watch?v=tK1DXnIRDy4)
 - [¿Cuál es la relación entre Docker y Kubernetes?](https://www.youtube.com/shorts/J7GWQgU-f0E)
-- [¡10 cosas que debes saber de .NET en su 10 aniversario!](https://www.youtube.com/watch?v=lAcc2HsLbGA)
 <!-- YOUTUBE:END -->
 
 
