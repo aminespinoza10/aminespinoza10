@@ -41,11 +41,11 @@ Last Updated: Monday, July 20th, 2026, 3:49:17 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Así que quieres programar con puros prompts?](https://www.youtube.com/watch?v=9DXSEZJuHV4)
 - [Vamos a ponernos al día](https://www.youtube.com/watch?v=Bw8PwLhLtdE)
 - [La extensión perfecta para contenedores en VS Code](https://www.youtube.com/shorts/U_jFo_SLo6c)
 - [¿Aún vale la pena emprender en tiempos de IA?](https://www.youtube.com/watch?v=Y9uYkHieclw)
 - [¡Apple lanzó su herramienta de contenedores! Y debemos evaluarla](https://www.youtube.com/watch?v=tK1DXnIRDy4)
-- [¿Cuál es la relación entre Docker y Kubernetes?](https://www.youtube.com/shorts/J7GWQgU-f0E)
 <!-- YOUTUBE:END -->
 
 
