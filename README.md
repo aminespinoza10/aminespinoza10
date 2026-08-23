@@ -41,11 +41,11 @@ Last Updated: Sunday, August 23rd, 2026, 1:16:49 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [La triste vida de un desarrollador junior](https://www.youtube.com/watch?v=wsoS2Vge5FA)
 - [¿Cuál es la diferencia entre cifrado, encriptado y hasheo?](https://www.youtube.com/shorts/SUaAc8vFwdg)
 - [Aprendiendo DevOps: Liberando mi proyecto](https://www.youtube.com/watch?v=sxIPEsqyGgU)
 - [¿Así que quieres programar con puros prompts?](https://www.youtube.com/watch?v=9DXSEZJuHV4)
 - [Vamos a ponernos al día](https://www.youtube.com/watch?v=Bw8PwLhLtdE)
-- [La extensión perfecta para contenedores en VS Code](https://www.youtube.com/shorts/U_jFo_SLo6c)
 <!-- YOUTUBE:END -->
 
 
