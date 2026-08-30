@@ -38,11 +38,11 @@ Last Updated: Sunday, August 30th, 2026, 1:15:50 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Ubuntu Engineering Uptime](https://www.youtube.com/shorts/LteM10S336s)
 - [Aprendiendo a usar Hugging Face](https://www.youtube.com/watch?v=4evCfM1C8LA)
 - [Un buen lugar para aprender acerca de microservcios](https://www.youtube.com/shorts/haVtfbFD8Vc)
 - [La triste vida de un desarrollador junior](https://www.youtube.com/watch?v=wsoS2Vge5FA)
 - [¿Cuál es la diferencia entre cifrado, encriptado y hasheo?](https://www.youtube.com/shorts/SUaAc8vFwdg)
-- [Aprendiendo DevOps: Liberando mi proyecto](https://www.youtube.com/watch?v=sxIPEsqyGgU)
 <!-- YOUTUBE:END -->
 
 
