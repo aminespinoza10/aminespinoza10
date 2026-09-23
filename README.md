@@ -37,11 +37,11 @@ Last Updated: Wednesday, September 23rd, 2026, 1:10:12 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [El diseño de sistemas no es algo fácil de aprender](https://www.youtube.com/watch?v=s2Mqp4t5JxU)
 - [Bash it una buena herramienta para jugar](https://www.youtube.com/shorts/sjYh6vjH2QU)
 - [Hice un experimiento y la IA falló...](https://www.youtube.com/watch?v=Z4YujYkUYFQ)
 - [Ubuntu Engineering Uptime](https://www.youtube.com/shorts/LteM10S336s)
 - [Aprendiendo a usar Hugging Face](https://www.youtube.com/watch?v=4evCfM1C8LA)
-- [Un buen lugar para aprender acerca de microservcios](https://www.youtube.com/shorts/haVtfbFD8Vc)
 <!-- YOUTUBE:END -->
 
 
