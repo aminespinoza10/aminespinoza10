@@ -37,11 +37,11 @@ Last Updated: Wednesday, September 30th, 2026, 1:24:13 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¿Por qué los devs usan patitos de hule?](https://www.youtube.com/shorts/ikycRqUILn0)
 - [Coloca mascotas en tu VS Code](https://www.youtube.com/shorts/OSPM1vQIrjo)
 - [¡¡Hacer vibe coding es divertido!!](https://www.youtube.com/watch?v=6C19N9PCgQI)
 - [El diseño de sistemas no es algo fácil de aprender](https://www.youtube.com/watch?v=s2Mqp4t5JxU)
-- [Bash it una buena herramienta para jugar](https://www.youtube.com/shorts/sjYh6vjH2QU)
 <!-- YOUTUBE:END -->
 
 
