@@ -36,11 +36,11 @@ Last Updated: Friday, October 2nd, 2026, 1:27:14 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [Programando por comida para mi hermana](https://www.youtube.com/watch?v=j-YS4z9XkXo)
 - [Programando por comida para mi hermana!!](https://www.youtube.com/watch?v=lm5eOymiU7U)
 - [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¿Por qué los devs usan patitos de hule?](https://www.youtube.com/shorts/ikycRqUILn0)
 - [Coloca mascotas en tu VS Code](https://www.youtube.com/shorts/OSPM1vQIrjo)
+- [¡¡Hacer vibe coding es divertido!!](https://www.youtube.com/watch?v=6C19N9PCgQI)
 <!-- YOUTUBE:END -->
 
 
