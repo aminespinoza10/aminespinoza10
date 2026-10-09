@@ -37,10 +37,10 @@ Last Updated: Friday, October 9th, 2026, 1:14:58 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¡Me reconocieron como Microsoft MVP!](https://www.youtube.com/shorts/Ws4wXh_mogg)
 - [¿Has probado esto al trabajar?](https://www.youtube.com/watch?v=cuiBmUVdm4E)
 - [Programando por comida para mi hermana!!](https://www.youtube.com/watch?v=lm5eOymiU7U)
-- [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¿Por qué los devs usan patitos de hule?](https://www.youtube.com/shorts/ikycRqUILn0)
 <!-- YOUTUBE:END -->
 
