@@ -41,11 +41,11 @@ Last Updated: Thursday, October 15th, 2026, 1:09:34 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Vamos a programar después de diseñar nuestro proyecto...](https://www.youtube.com/watch?v=K-0xrsT85XY)
 - [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¡Me reconocieron como Microsoft MVP!](https://www.youtube.com/shorts/Ws4wXh_mogg)
 - [¿Has probado esto al trabajar?](https://www.youtube.com/watch?v=cuiBmUVdm4E)
-- [Programando por comida para mi hermana!!](https://www.youtube.com/watch?v=lm5eOymiU7U)
-- [¿Por qué los devs usan patitos de hule?](https://www.youtube.com/shorts/ikycRqUILn0)
+- [Creando mi proyecto con Open Spec &lpar;Spec Driven Development&rpar;](https://www.youtube.com/watch?v=lm5eOymiU7U)
 <!-- YOUTUBE:END -->
 
 
