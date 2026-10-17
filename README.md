@@ -41,11 +41,11 @@ Last Updated: Saturday, October 17th, 2026, 1:08:35 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [CodeKata, la experiencia es el único maestro.](https://www.youtube.com/shorts/HAW8_m3O3fs)
 - [Vamos a programar después de diseñar nuestro proyecto...](https://www.youtube.com/watch?v=K-0xrsT85XY)
 - [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¡Me reconocieron como Microsoft MVP!](https://www.youtube.com/shorts/Ws4wXh_mogg)
 - [¿Has probado esto al trabajar?](https://www.youtube.com/watch?v=cuiBmUVdm4E)
-- [Creando mi proyecto con Open Spec &lpar;Spec Driven Development&rpar;](https://www.youtube.com/watch?v=lm5eOymiU7U)
 <!-- YOUTUBE:END -->
 
 
