@@ -41,11 +41,11 @@ Last Updated: Sunday, October 18th, 2026, 1:10:18 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprende algunos fundamentos con 12 Factor App](https://www.youtube.com/shorts/W_EUbw_0gNw)
 - [CodeKata, la experiencia es el único maestro.](https://www.youtube.com/shorts/HAW8_m3O3fs)
 - [Vamos a programar después de diseñar nuestro proyecto...](https://www.youtube.com/watch?v=K-0xrsT85XY)
 - [¡Vamos a entrevistar a un dev junior!](https://www.youtube.com/watch?v=yZkDuH3VdgQ)
 - [¡Me reconocieron como Microsoft MVP!](https://www.youtube.com/shorts/Ws4wXh_mogg)
-- [¿Has probado esto al trabajar?](https://www.youtube.com/watch?v=cuiBmUVdm4E)
 <!-- YOUTUBE:END -->
 
 
