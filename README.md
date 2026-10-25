@@ -41,11 +41,11 @@ Last Updated: Sunday, October 25th, 2026, 1:15:18 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Mide la velocidad de tu internet desde la terminal](https://www.youtube.com/shorts/koSNxNHtSB8)
 - [¡Haremos nuestro primer videojuego!](https://www.youtube.com/watch?v=K77rtFOKW7w)
 - [¡FELICES 22 AÑOS UBUNTU!](https://www.youtube.com/watch?v=JOY5Ay37PLY)
 - [Aprende algunos fundamentos con 12 Factor App](https://www.youtube.com/shorts/W_EUbw_0gNw)
 - [CodeKata, la experiencia es el único maestro.](https://www.youtube.com/shorts/HAW8_m3O3fs)
-- [Vamos a programar después de diseñar nuestro proyecto...](https://www.youtube.com/watch?v=K-0xrsT85XY)
 <!-- YOUTUBE:END -->
 
 
