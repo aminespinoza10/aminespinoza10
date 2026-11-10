@@ -41,11 +41,11 @@ Last Updated: Tuesday, November 10th, 2026, 1:11:32 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [El estrés constante de un desarrollador de software es...](https://www.youtube.com/shorts/d6tmllZYUOk)
 - [¡Haciendo magia con Ollama!](https://www.youtube.com/watch?v=IRojNvr6IIg)
 - [Mide la velocidad de tu internet desde la terminal](https://www.youtube.com/shorts/koSNxNHtSB8)
 - [¡Haremos nuestro primer videojuego!](https://www.youtube.com/watch?v=K77rtFOKW7w)
 - [¡FELICES 22 AÑOS UBUNTU!](https://www.youtube.com/watch?v=JOY5Ay37PLY)
-- [Aprende algunos fundamentos con 12 Factor App](https://www.youtube.com/shorts/W_EUbw_0gNw)
 <!-- YOUTUBE:END -->
 
 
