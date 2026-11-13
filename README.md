@@ -41,8 +41,8 @@ Last Updated: Friday, November 13th, 2026, 1:11:32 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [El estrés constante de un desarrollador de software es...](https://www.youtube.com/shorts/d6tmllZYUOk)
 - [¡Haciendo magia con Ollama!](https://www.youtube.com/watch?v=IRojNvr6IIg)
+- [El estrés constante de un desarrollador de software es...](https://www.youtube.com/shorts/d6tmllZYUOk)
 - [Mide la velocidad de tu internet desde la terminal](https://www.youtube.com/shorts/koSNxNHtSB8)
 - [¡Haremos nuestro primer videojuego!](https://www.youtube.com/watch?v=K77rtFOKW7w)
 - [¡FELICES 22 AÑOS UBUNTU!](https://www.youtube.com/watch?v=JOY5Ay37PLY)
