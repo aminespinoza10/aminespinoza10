@@ -41,11 +41,11 @@ Last Updated: Thursday, November 19th, 2026, 1:13:09 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Cómo pasar de mi entorno local a la nube?](https://www.youtube.com/watch?v=bYev98xjyXc)
 - [Al fin! Tenemos nuestro primer meetup!!!](https://www.youtube.com/shorts/FkfIOnGAiM8)
 - [¡Haciendo magia con Ollama!](https://www.youtube.com/watch?v=IRojNvr6IIg)
 - [El estrés constante de un desarrollador de software es...](https://www.youtube.com/shorts/d6tmllZYUOk)
 - [Mide la velocidad de tu internet desde la terminal](https://www.youtube.com/shorts/koSNxNHtSB8)
-- [¡Haremos nuestro primer videojuego!](https://www.youtube.com/watch?v=K77rtFOKW7w)
 <!-- YOUTUBE:END -->
 
 
