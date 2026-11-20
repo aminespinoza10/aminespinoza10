@@ -41,8 +41,8 @@ Last Updated: Friday, November 20th, 2026, 1:12:47 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
-- [¿Te sientes identificado?](https://www.youtube.com/shorts/XwHyZu9f3aw)
 - [¿Cómo pasar de mi entorno local a la nube?](https://www.youtube.com/watch?v=bYev98xjyXc)
+- [¿Te sientes identificado?](https://www.youtube.com/shorts/XwHyZu9f3aw)
 - [Al fin! Tenemos nuestro primer meetup!!!](https://www.youtube.com/shorts/FkfIOnGAiM8)
 - [¡Haciendo magia con Ollama!](https://www.youtube.com/watch?v=IRojNvr6IIg)
 - [El estrés constante de un desarrollador de software es...](https://www.youtube.com/shorts/d6tmllZYUOk)
