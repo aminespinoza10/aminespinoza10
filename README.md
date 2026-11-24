@@ -38,11 +38,11 @@ Last Updated: Tuesday, November 24th, 2026, 1:12:08 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [¿Piensas en accesibilidad al crear tu software?](https://www.youtube.com/shorts/EHk_0ZsYVQ8)
 - [Así trabajo ahora con mis proyectos de software](https://www.youtube.com/watch?v=pYxvO25iR7I)
 - [¿Cómo pasar de mi entorno local a la nube?](https://www.youtube.com/watch?v=bYev98xjyXc)
 - [¿Te sientes identificado?](https://www.youtube.com/shorts/XwHyZu9f3aw)
 - [Al fin! Tenemos nuestro primer meetup!!!](https://www.youtube.com/shorts/FkfIOnGAiM8)
-- [¡Haciendo magia con Ollama!](https://www.youtube.com/watch?v=IRojNvr6IIg)
 <!-- YOUTUBE:END -->
 
 
