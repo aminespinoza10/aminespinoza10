@@ -37,11 +37,11 @@ Last Updated: Thursday, November 26th, 2026, 1:11:51 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Aprendamos a usar MicroK8S en Ubuntu](https://www.youtube.com/watch?v=XUSo306vlec)
 - [A veces olvidamos que el software es el mejor negocio del mundo.](https://www.youtube.com/watch?v=IYsRmLFFDSI)
 - [¿Piensas en accesibilidad al crear tu software?](https://www.youtube.com/shorts/EHk_0ZsYVQ8)
 - [Así trabajo ahora con mis proyectos de software](https://www.youtube.com/watch?v=pYxvO25iR7I)
 - [¿Cómo pasar de mi entorno local a la nube?](https://www.youtube.com/watch?v=bYev98xjyXc)
-- [¿Te sientes identificado?](https://www.youtube.com/shorts/XwHyZu9f3aw)
 <!-- YOUTUBE:END -->
 
 
