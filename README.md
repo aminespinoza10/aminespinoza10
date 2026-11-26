@@ -37,11 +37,11 @@ Last Updated: Thursday, November 26th, 2026, 1:14:15 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [A veces olvidamos que el software es el mejor negocio del mundo.](https://www.youtube.com/watch?v=IYsRmLFFDSI)
 - [¿Piensas en accesibilidad al crear tu software?](https://www.youtube.com/shorts/EHk_0ZsYVQ8)
 - [Así trabajo ahora con mis proyectos de software](https://www.youtube.com/watch?v=pYxvO25iR7I)
 - [¿Cómo pasar de mi entorno local a la nube?](https://www.youtube.com/watch?v=bYev98xjyXc)
 - [¿Te sientes identificado?](https://www.youtube.com/shorts/XwHyZu9f3aw)
-- [Al fin! Tenemos nuestro primer meetup!!!](https://www.youtube.com/shorts/FkfIOnGAiM8)
 <!-- YOUTUBE:END -->
 
 
